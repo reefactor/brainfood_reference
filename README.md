@@ -28,7 +28,7 @@
 * [Import AI newsletter](https://jack-clark.net/import-ai/)
 * [RE WORK blog & newsletter](https://re-work.co/)
 * [Data Science Weekly newsletter](https://www.datascienceweekly.org/)
-* [Data science central](Data Science central)
+* [Data science central newsletter](http://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter)
 * [Berkeley Institute for Data Science (BIDS)](https://www.youtube.com/channel/UCBBd3JxQl455JkWBeulc-9w)
 * [Artificial Intelligence Courses](https://www.youtube.com/user/aicourses)
 
