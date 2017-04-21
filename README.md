@@ -22,21 +22,22 @@
 
 ### Streams
 * [Intuition Machine newsletter](https://www.getrevue.co/profile/intuitionmachine)
-* [Data elixir](dataelixir.com)
-* [Data machina](http://datamachina.com)
+* [Data elixir newsletter](dataelixir.com)
+* [Data machina newsletter](http://datamachina.com)
 * [THE WILD WEEK IN AI newsletter](http://www.wildml.com/newsletter/)
+* [AI Weekly newsletter](http://aiweekly.co/)
 * [Import AI newsletter](https://jack-clark.net/import-ai/)
 * [RE WORK blog & newsletter](https://re-work.co/)
 * [Data Science Weekly newsletter](https://www.datascienceweekly.org/)
 * [Data science central newsletter](http://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter)
-* [Berkeley Institute for Data Science (BIDS)](https://www.youtube.com/channel/UCBBd3JxQl455JkWBeulc-9w)
-* [Artificial Intelligence Courses](https://www.youtube.com/user/aicourses)
+* [Berkeley Institute for Data Science (BIDS) channel](https://www.youtube.com/channel/UCBBd3JxQl455JkWBeulc-9w)
+* [Artificial Intelligence Courses channel](https://www.youtube.com/user/aicourses)
 
 ## mental models wisdom 
-- [Tim Ferris](http://tim.blog/podcast/)
-- [Farnam Street](https://www.farnamstreetblog.com/)
-- Derek Sivers [FAQ](https://sivers.org/faq), [books reviews](https://sivers.org/)
-- [Benedict Evans](http://ben-evans.com/newsletter/)
+- [Tim Ferris podcast](http://tim.blog/podcast/)
+- [Farnam Street newsletter & blog](https://www.farnamstreetblog.com/)
+- Derek Sivers [FAQ](https://sivers.org/faq) and [books reviews](https://sivers.org/)
+- [Benedict Evans newsletter](http://ben-evans.com/newsletter/)
 
 ## φύσις
 * https://kniganews.org
