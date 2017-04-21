@@ -40,6 +40,7 @@
 
 ## φύσις
 * https://kniganews.org
+* http://waitbutwhy.com
 
 ## ψυχή
 - [Brain Pickings by Maria Popova: Weekly Newsletter](www.brainpickings.org)
