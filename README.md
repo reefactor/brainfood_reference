@@ -1,8 +1,8 @@
 # brain_food_reference
 ## Curated list of gems and streams to fuel your cognition.
 
-###### *You are what you eat*
-###### *Five chimps theory*
+###### '*You are what you eat*'
+###### '*Five chimps theory*'
 
 ## CS - computer science & tech
 * [The Next Platform newsletter](https://www.nextplatform.com/register/)
@@ -45,3 +45,4 @@
 ## datavis, infographics, data journalism
 * [Information is beautiful](http://www.informationisbeautiful.net/), annual [awards](http://www.informationisbeautifulawards.com/)
 * [OpenVis con @BocoupLLC ](https://www.youtube.com/channel/UCQUPI1PxfE4-bqwuI26I2HA)
+* [Flowingdata](http://flowingdata.com) [newsletter](http://flowingdata.us2.list-manage.com/subscribe?u=f538bce868aac1144d248c0bc&id=71ef3cfa3a)
