@@ -4,10 +4,6 @@
 ###### *You are what you eat*
 ###### *Five chimps theory*
 
-#### Gems
-
-##### ...
-
 ## CS - computer science & tech
 * [The Next Platform newsletter](https://www.nextplatform.com/register/)
 * [WIRED's newsletter](https://www.wired.com/newsletter)
@@ -17,10 +13,6 @@
 * Pycon US [2014](https://www.youtube.com/channel/UCFDHJGm0IxH9uwcIHfR72yg) [2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ) [2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
 
 ## ML - machine learning & cognitive systems
-### Gems
-##### ...
-
-### Streams
 * [Intuition Machine newsletter](https://www.getrevue.co/profile/intuitionmachine)
 * [Data elixir newsletter](dataelixir.com)
 * [Data machina newsletter](http://datamachina.com)
