@@ -41,6 +41,7 @@
 - www.lettersofnote.com
 - [Aeon Magazine newsletter](https://aeon.co/)
 - [Killing Buddha](http://www.killingbuddha.co/)
+- [Personality and Its Transformations (by Jordan B Peterson, University of Toronto)](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi)
 
 ## datavis, infographics, data journalism
 * [Information is beautiful](http://www.informationisbeautiful.net/), annual [awards](http://www.informationisbeautifulawards.com/)
