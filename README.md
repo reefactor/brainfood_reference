@@ -30,7 +30,7 @@
 - Derek Sivers [FAQ](https://sivers.org/faq) and [books reviews](https://sivers.org/)
 - [Benedict Evans newsletter](http://ben-evans.com/newsletter/)
 
-## Listen. You learn the most when you feel like be the most stupid person in the room
+## Listen. You learn the most when you feel like the most stupid person in the room
 - [Tim Ferris podcast](http://tim.blog/podcast/)
 - [A16Z Podcast](https://a16z.com/podcasts/)
 - [The Knowledge Project Podcast with Shane Parrish](https://fs.blog/the-knowledge-project/)
