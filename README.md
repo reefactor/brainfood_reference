@@ -25,11 +25,17 @@
 * [Berkeley Institute for Data Science (BIDS) channel](https://www.youtube.com/channel/UCBBd3JxQl455JkWBeulc-9w)
 * [Artificial Intelligence Courses channel](https://www.youtube.com/user/aicourses)
 
-## mental models wisdom 
-- [Tim Ferris podcast](http://tim.blog/podcast/)
+## Build mental models to distill wisdom from knowledge
 - [Farnam Street newsletter & blog](https://www.farnamstreetblog.com/)
 - Derek Sivers [FAQ](https://sivers.org/faq) and [books reviews](https://sivers.org/)
 - [Benedict Evans newsletter](http://ben-evans.com/newsletter/)
+
+## Listen. You learn the most when you feel like be the most stupid person in the room
+- [Tim Ferris podcast](http://tim.blog/podcast/)
+- [A16Z Podcast](https://a16z.com/podcasts/)
+- [The Knowledge Project Podcast with Shane Parrish](https://fs.blog/the-knowledge-project/)
+- [The reboot podcast](https://www.reboot.io/podcast/)
+- [Masters of Scale by Reid Hoffman](https://mastersofscale.com/)
 
 ## φύσις
 * https://kniganews.org
