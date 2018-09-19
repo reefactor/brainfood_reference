@@ -48,6 +48,8 @@
 - [Aeon Magazine newsletter](https://aeon.co/)
 - [Killing Buddha](http://www.killingbuddha.co/)
 - [Personality and Its Transformations (by Jordan B Peterson, University of Toronto)](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi)
+- [2017 Maps of Meaning: The Architecture of Belief (by Jordan B Peterson University of Toronto))](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
+
 
 ## datavis, infographics, data journalism
 * [Information is beautiful](http://www.informationisbeautiful.net/), annual [awards](http://www.informationisbeautifulawards.com/)
