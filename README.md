@@ -30,12 +30,15 @@
 - Derek Sivers [FAQ](https://sivers.org/faq) and [books reviews](https://sivers.org/)
 - [Benedict Evans newsletter](http://ben-evans.com/newsletter/)
 
-## Listen. You learn the most when you feel like the most stupid person in the room
+## Listen. You learn the most when you feel like you're the most stupid person in the room
 - [Tim Ferris podcast](http://tim.blog/podcast/)
 - [A16Z Podcast](https://a16z.com/podcasts/)
 - [The Knowledge Project Podcast with Shane Parrish](https://fs.blog/the-knowledge-project/)
 - [The reboot podcast](https://www.reboot.io/podcast/)
 - [Masters of Scale by Reid Hoffman](https://mastersofscale.com/)
+- [Bruce Lee Podcast](https://www.brucelee.com/podcast/)
+- [TWiML & AI Podcast (This week in machine learning and AI)](https://twimlai.com/tag/podcast/)
+- [Smart Drug Smarts | Fuel Your Brain With the Latest in Neuroscience](https://smartdrugsmarts.com/episodes-page/)
 
 ## φύσις
 * https://kniganews.org
