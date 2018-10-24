@@ -41,8 +41,8 @@
 - [Smart Drug Smarts | Fuel Your Brain With the Latest in Neuroscience](https://smartdrugsmarts.com/episodes-page/)
 
 ## φύσις
-* https://kniganews.org
-* http://waitbutwhy.com
+* [Книга новостей](https://kniganews.org)
+* [Wait but why](http://waitbutwhy.com)
 
 ## ψυχή
 - [Brain Pickings by Maria Popova: Weekly Newsletter](www.brainpickings.org)
@@ -50,11 +50,13 @@
 - www.lettersofnote.com
 - [Aeon Magazine newsletter](https://aeon.co/)
 - [Killing Buddha](http://www.killingbuddha.co/)
-- [Personality and Its Transformations (by Jordan B Peterson, University of Toronto)](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi)
-- [2017 Maps of Meaning: The Architecture of Belief (by Jordan B Peterson University of Toronto))](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
+- [Personality and Its Transformations (by Jordan B Peterson, University of Toronto 2017)](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi)
+- [Maps of Meaning: The Architecture of Belief (by Jordan B Peterson University of Toronto 2017))](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
+- [The School of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
 
 
 ## datavis, infographics, data journalism
 * [Information is beautiful](http://www.informationisbeautiful.net/), annual [awards](http://www.informationisbeautifulawards.com/)
 * [OpenVis con @BocoupLLC ](https://www.youtube.com/channel/UCQUPI1PxfE4-bqwuI26I2HA)
 * [Flowingdata](http://flowingdata.com) [newsletter](http://flowingdata.us2.list-manage.com/subscribe?u=f538bce868aac1144d248c0bc&id=71ef3cfa3a)
+* [howmuch.net - Understanding money](https://howmuch.net/)
