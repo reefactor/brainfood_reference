@@ -1,0 +1,96 @@
+### _If I have seen further it is by_ [_standing on ye shoulders of Giants_](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) (Sir Isaac Newton)
+
+- Critical Mass: How One Thing Leads to Another by Philip Ball 
+- My Early Life by Winston Churchill
+- Childe Harold's Pilgrimage, by Lord Byron
+- Martin Eden by Jack London
+- The Lessons of History by Will Durant
+- Fight Club by Chuck Palahniuk
+- Virus of the Mind: The New Science of the Meme by Richard Brodie
+- Operators and Things: The Inner Life of a Schizophrenic by Barbara O'Brien
+- The Red Book C. G. Jung
+- Strategies of Genius by Robert Dilts
+- The Road Less Traveled by M. Scott Peck
+- Aghora: At the Left Hand of God by Robert E. Svoboda
+- Letters to Lucilius by Seneca
+- Meditations by Marcus Aurelius
+- Mans search for meaning by Victor Frankl
+- Human Devolution: A Vedic Alternative to Darwin's Theory by Michael Cremo
+- Chariots of the Gods Unsolved Mysteries of the Past by Erich von Däniken
+- The Three-Body Problem by Liu Cixin
+- The Dark Forest by Liu Cixin 
+- Death's End by Liu Cixin
+- Chaos: Making a New Science by James Gleick
+- A Short History of Nearly Everything by Bill Bryson
+- Gödel's incompleteness theorems
+- A History of Western Philosophy by Bertrand Russell
+- An Introduction to Indian Philosophy by Satishchandra Chatterjee
+- Yoga Vasistha
+- Siddhartha by Hermann Hesse
+- Society of the Spectacleby Guy Debord
+- Thus Spoke Zarathustra by Friedrich Nietzsche
+- Revolutionary Wealth by futurists Alvin Toffler
+- Future Shock by Alvin and Heidi Toffler
+- THE RATIONAL OPTIMIST How Prosperity Evolves by Matt Ridley
+- Aurora by Jakob Beme
+- The Little Prince by Antoine de Saint-Exupéry
+- Jonathan Livingston Seagull by Richard Bac
+- The art of learning. Waitzkin Josh
+- Screw It, Let's Do It by Richard Branson
+- Fooled by Randomness by Nicholas Taleb
+- Antifragile: Things That Gain From Disorder by Nassim Nicholas Taleb
+- The Most Important Thing Uncommon Sense for the Thoughtful Investor by Howard Marks
+- The Smartest Investment Book You'll Ever Read by Daniel R. Solin
+- Zero to One by Peter Thiel
+- The Hard Thing About Hard Things - Building a Business When There Are No Easy Answers by Ben Horowitz
+- Crossing the Chasm by Geoffrey A Moore
+- The Liars poker by Michael Lewis
+- Alan Watt On The Taboo Against Knowing Who You Are
+- The Electric Kool-Aid Acid Test by Tom Wolfe
+- Hell Week by Erik Bertrand Larssen
+- The Success Principles by Jack Canfield 
+- The 48 Laws of Power by Robert Greene
+- Self-Reliance by Ralph Waldo Emerson
+- Be the Best Version of Yourself by Dan Waldstetten 
+- The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead by Timothy Leary
+- Tibetan book of the Dead. Carl Jung Commentary  
+- Mindfulness in Plain English by Bhante Henepola 
+- Waking Up - A Guide to Spirituality without Religion by Sam Harris
+- Happiness by Frederic Lenoir
+- Seeking Wisdom: From Darwin to Munger by Peter Bevelin
+- The Magic of Thinking Big by David J. Schwartz
+- Sapiens: A Brief History of Humankind by Yuval Noah Harari
+- Myths to Live By by Joseph Campbell
+- The Hero with a Thousand Faces by Joseph Campbell
+- А.Дугин Основы геополитики
+- Парфенов - Намедни
+- Парфенов - Намедни наша эра
+- Математика как метафора. Манин
+- Илья Носырев - Мастера иллюзий. Как идеи превращают нас в рабов
+- Пелевин - Затворник и Шестипалый
+- Пелевин - Желтая стрела
+- Пелевин - Онтология детства
+- Пелевин - Синий фонарь
+- Пелевин - Бубен верхнего мира
+- Пелевин - Бубен нижнего мира
+- Пелевин - Нижняя тундра
+- Пелевин - Омон Ра
+- Пелевин - Чапаев и пустота
+- Пелевин - Generation Пи
+- Пелевин - Числа
+- Пелевин - Empire V
+- Пелевин - t
+- Пелевин - Бетман Аполло
+- Бухановский - Общая психопатология
+- Торчинов - Религии мира опыт запредельного
+- Глуховский - метро 2034
+- Книга новостей kniganews.org
+- А. Турчин, М. Батин Футурология 2010
+- Авессалом Подводный - Возвращенный оккультизм, или Повесть о тонкой семерке
+- Авессалом Подводный - Каббалистическая астрология
+- Анопова - Стучащему да откроется 
+- Анопова - Закон или Открытая Книга Кармы
+- Тибетская книга мертвых Бардо Тодол
+- Египетская книга мертвых Слово устремленного к свету
+- Индусская книга мертвых Гаруда Пурана
+- Kiwi byrd - Книги о странном
