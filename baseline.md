@@ -5,6 +5,7 @@
 - Childe Harold's Pilgrimage, by Lord Byron
 - Martin Eden by Jack London
 - The Lessons of History by Will Durant
+- The Divine Comedy by Dante Alighieri, 
 - Fight Club by Chuck Palahniuk
 - Virus of the Mind: The New Science of the Meme by Richard Brodie
 - Operators and Things: The Inner Life of a Schizophrenic by Barbara O'Brien
@@ -62,6 +63,12 @@
 - Sapiens: A Brief History of Humankind by Yuval Noah Harari
 - Myths to Live By by Joseph Campbell
 - The Hero with a Thousand Faces by Joseph Campbell
+- The Feynman Lectures on Physics
+- The Pleasure of Finding Things Out by Richard Feynman
+- Surely You're Joking, Mr. Feynman!
+- Foundation and Empire by Isaac Asimov 
+
+### Отечество
 - А.Дугин Основы геополитики
 - Парфенов - Намедни
 - Парфенов - Намедни наша эра
@@ -80,7 +87,7 @@
 - Пелевин - Числа
 - Пелевин - Empire V
 - Пелевин - t
-- Пелевин - Бетман Аполло
+- Пелевин - Бэтман Аполло
 - Бухановский - Общая психопатология
 - Торчинов - Религии мира опыт запредельного
 - Глуховский - метро 2034
