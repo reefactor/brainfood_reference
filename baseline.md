@@ -13,8 +13,6 @@
 - Strategies of Genius by Robert Dilts
 - The Road Less Traveled by M. Scott Peck
 - Aghora: At the Left Hand of God by Robert E. Svoboda
-- Letters to Lucilius by Seneca
-- Meditations by Marcus Aurelius
 - Mans search for meaning by Victor Frankl
 - Human Devolution: A Vedic Alternative to Darwin's Theory by Michael Cremo
 - Chariots of the Gods Unsolved Mysteries of the Past by Erich von Däniken
@@ -66,7 +64,12 @@
 - The Feynman Lectures on Physics
 - The Pleasure of Finding Things Out by Richard Feynman
 - Surely You're Joking, Mr. Feynman!
-- Foundation and Empire by Isaac Asimov 
+- Foundation and Empire by Isaac Asimov
+- A Guide to the Good Life The Ancient Art of Stoic Joy by William B. Irvine
+- The Wisdom of the Stoics by Frances and Henry Hazlitt
+- Letters to Lucilius by Seneca
+- Meditations by Marcus Aurelius
+
 
 ### Отечество
 - А.Дугин Основы геополитики
