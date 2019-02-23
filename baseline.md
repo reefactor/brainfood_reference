@@ -49,7 +49,7 @@
 - Hell Week by Erik Bertrand Larssen
 - The Success Principles by Jack Canfield 
 - The 48 Laws of Power by Robert Greene
-- Self-Reliance by Ralph Waldo Emerson
+- The Essays by Ralph Waldo Emerson
 - Be the Best Version of Yourself by Dan Waldstetten 
 - The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead by Timothy Leary
 - Tibetan book of the Dead. Carl Jung Commentary  
