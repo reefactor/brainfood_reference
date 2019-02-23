@@ -69,6 +69,7 @@
 - The Wisdom of the Stoics by Frances and Henry Hazlitt
 - Letters to Lucilius by Seneca
 - Meditations by Marcus Aurelius
+- Poor Charlie's Almanack The Wit and Wisdom of Charles T. Munger
 
 
 ### Отечество
