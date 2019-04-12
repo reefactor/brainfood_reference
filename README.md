@@ -53,7 +53,9 @@
 - [Killing Buddha](http://www.killingbuddha.co/)
 - [Personality and Its Transformations (by Jordan B Peterson, University of Toronto 2017)](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi)
 - [Maps of Meaning: The Architecture of Belief (by Jordan B Peterson University of Toronto 2017))](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
-- [The School of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
+- [The School of Life channel](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
+- [Academy of Ideas channel](https://www.youtube.com/channel/UCiRiQGCHGjDLT9FQXFW0I3A)
+
 
 
 ### datavis, infographics, data journalism
