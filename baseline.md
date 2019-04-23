@@ -70,6 +70,7 @@
 - Letters to Lucilius by Seneca
 - Meditations by Marcus Aurelius
 - Poor Charlie's Almanack The Wit and Wisdom of Charles T. Munger
+- The Prophet by Kahlil Gibran
 
 
 ### Отечество
