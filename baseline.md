@@ -71,6 +71,7 @@
 - Meditations by Marcus Aurelius
 - Poor Charlie's Almanack The Wit and Wisdom of Charles T. Munger
 - The Prophet by Kahlil Gibran
+- A Random Walk Down Wall Street by Burton Gordon Malkiel
 
 
 ### Отечество
