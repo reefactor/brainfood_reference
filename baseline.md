@@ -30,7 +30,7 @@
 - Thus Spoke Zarathustra by Friedrich Nietzsche
 - Revolutionary Wealth by futurists Alvin Toffler
 - Future Shock by Alvin and Heidi Toffler
-- THE RATIONAL OPTIMIST How Prosperity Evolves by Matt Ridley
+- The Rational Optimist. How Prosperity Evolves by Matt Ridley
 - Aurora by Jakob Beme
 - The Little Prince by Antoine de Saint-Exupéry
 - Jonathan Livingston Seagull by Richard Bac
@@ -72,6 +72,7 @@
 - Poor Charlie's Almanack The Wit and Wisdom of Charles T. Munger
 - The Prophet by Kahlil Gibran
 - A Random Walk Down Wall Street by Burton Gordon Malkiel
+- Brave New World by Aldous Huxley
 
 
 ### Отечество
