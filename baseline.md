@@ -73,12 +73,19 @@
 - The Prophet by Kahlil Gibran
 - A Random Walk Down Wall Street by Burton Gordon Malkiel
 - Brave New World by Aldous Huxley
+- The end of faith by Sam Harris
+- Guide to spirituality without religion by Sam Harris
+- Happiness by Frédéric Lenoir 
+- Twenty Thousand Leagues Under the Sea by Jules Verne
+- The "Angels" cycle by Bernard Werber
+- Revolutionary Wealth by Alvin Toffler 
 
 
 ### Отечество
-- А.Дугин Основы геополитики
 - Парфенов - Намедни
 - Парфенов - Намедни наша эра
+- А.Дугин Основы геополитики
+- Валенитин Иванов. Повести Древних 
 - Математика как метафора. Манин
 - Илья Носырев - Мастера иллюзий. Как идеи превращают нас в рабов
 - Пелевин - Затворник и Шестипалый
