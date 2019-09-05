@@ -1,9 +1,16 @@
 # brain_food_reference
-## Curated list of [gems](#gems-of-wisdom) and [streams](#streams) to fuel your cognition.
+## _You are what you eat_
+### Curated list of [gems](#gems-of-wisdom) and [streams](#streams) to fuel your cognition.
 
-###### _You are what you eat_
-###### _Five chimps theory_
-###### _You learn the most when you feel like you're the most stupid person in the room_
+###### _The wisdom of the wise, and the experience of ages, may be preserved by quotations_ (Isaac Disraeli)
+##### _It is a good thing for an uneducated man to read books of quotations_ (Sir Winston Churchill)
+
+##### _Nowadays the problem is not information access but [information overload](https://en.wikipedia.org/wiki/Information_overload). A wealth of information creates a poverty of of attention_ (Nobel prize-winning economist Herbert Simon)
+##### _I believe in the discipline of mastering the best that other people have ever figured out. I don't believe in just sitting down and trying to dream it all up yourself. Nobody's that smart_ (Charles Munger)
+##### _In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time-none, zero_ (Charles Munger)
+##### _Cross-validate ideas, rules, practices of authoritative sources and people_ (Jordan Peterson)
+##### _You learn the most when you feel like you're the most stupid person in the room_
+
 
 
 ## Streams
