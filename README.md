@@ -81,4 +81,5 @@
 
 - [Derek's Sivers books collection & reviews](https://sivers.org/books)
 - [Список Бродского](brodsky-reading-list.md)
-- [general baseline](baseline.md)
+- [General baseline](baseline.md)
+- [CS baseline](baseline_cs.md)
