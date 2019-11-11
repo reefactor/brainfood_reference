@@ -37,6 +37,7 @@
 * Compilers Principles, techniques, and tools by Aho 2007
 * Computer systems a programmer’s perspective by Bryant, Hallaron 
 * [Readings in Database Systems, 5th Edition by Bailis et al.](http://www.redbook.io/)
+* [Security Engineering by Ross Anderson 3rd edition 2020](https://www.cl.cam.ac.uk/~rja14/book.html)
 
 ### ML Machine Learning
 * An Introduction to Statistical Learning. 2016. ISLR Sixth Printing
