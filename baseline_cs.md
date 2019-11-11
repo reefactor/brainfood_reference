@@ -22,7 +22,6 @@
 * [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 * Computer Organization аnd Design by Patterson 5th еdition 2014
-* Soft Skills The software developer's life manual John Z. Sonmez
 * [Site Reliability Engineering How Google Runs Production Systems](https://landing.google.com/sre/books/)
 * Structured Parallel Programming Patterns for Efficient Computation by Michael McCool et al.
 * Applied Cryptography by Bruce Schneier
