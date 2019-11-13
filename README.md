@@ -83,3 +83,11 @@
 - [Список Бродского](brodsky-reading-list.md)
 - [General baseline](baseline.md)
 - [CS baseline](baseline_cs.md)
+
+
+## Reviews
+### Software Engineering Security
+
+[Python code protection via obfuscation or compilation](security_review_python_code_protector.md)
+
+
