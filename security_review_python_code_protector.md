@@ -21,9 +21,10 @@ Winner by a wide margin is https://github.com/dashingsoft/pyarmor
 * https://github.com/brettcannon/mnfy - python 3.4 only
 
 
-#### Compile to protect
+#### Compile to protect and gain 2-10x runtime speedup
 
-* [Cythonize it](https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html)
+* [pythran compiler](https://github.com/serge-sans-paille/pythran) - great tool, it gives you [parallelized and vectorized compiled code with minimal additional function type annotations](https://pythran.readthedocs.io/en/latest/MANUAL.html) in code 
+* [Cythonize it with cython](https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html) - requires code modifications
 * [Nuitka compiler](https://github.com/Nuitka/Nuitka) - compiles python -> C++ looks very promising but compilation process is REAAALY SLOW on a large code base
 
 
