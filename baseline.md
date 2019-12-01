@@ -53,6 +53,7 @@
 - Be the Best Version of Yourself by Dan Waldstetten 
 - The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead by Timothy Leary
 - Tibetan book of the Dead. Carl Jung Commentary  
+- Garuda Purana
 - Mindfulness in Plain English by Bhante Henepola 
 - Waking Up - A Guide to Spirituality without Religion by Sam Harris
 - Happiness by Frederic Lenoir
@@ -78,7 +79,7 @@
 - Happiness by Frédéric Lenoir 
 - Twenty Thousand Leagues Under the Sea by Jules Verne
 - The "Angels" cycle by Bernard Werber
-- Revolutionary Wealth by Alvin Toffler 
+- Revolutionary Wealth by Alvin Toffler
 
 
 ### Отечество
@@ -111,7 +112,4 @@
 - Авессалом Подводный - Каббалистическая астрология
 - Анопова - Стучащему да откроется 
 - Анопова - Закон или Открытая Книга Кармы
-- Тибетская книга мертвых Бардо Тодол
-- Египетская книга мертвых Слово устремленного к свету
-- Индусская книга мертвых Гаруда Пурана
 - Kiwi byrd - Книги о странном
