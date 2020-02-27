@@ -80,6 +80,7 @@
 - Twenty Thousand Leagues Under the Sea by Jules Verne
 - The "Angels" cycle by Bernard Werber
 - Revolutionary Wealth by Alvin Toffler
+- The Book of Ecclesiastes
 
 
 ### Отечество
