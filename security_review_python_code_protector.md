@@ -5,10 +5,9 @@
 #### TL;DR The winner
 Winner by a wide margin is [pyarmor](https://github.com/dashingsoft/pyarmor)
 
-It is able to obfuscate large codebase with complex dependencies like packages scipy, gensim, cython, scikit-learn  
-
-Runtime performance remains unaffected.
-
+It is able to obfuscate large codebase with complex dependencies like scipy, gensim, cython, scikit-learn.  
+Supports latest python3 syntax and std library.  
+Runtime performance remains unaffected or not by a visible margin.  
 All project .py files contents unreadable:
 ```
 __pyarmor__(__name__, __file__, b'\x50\x59\x41\x52\x4d\x4f\x52\x00\x00\........
@@ -19,6 +18,8 @@ Build docker image with your source code been obfuscated during build.Assuming e
 
 ###### Dockerfile
 ```
+FROM python:3
+
 COPY . /code/
 
 # protect source code with pyarmor
