@@ -5,6 +5,25 @@
 #### Winner
 Winner by a wide margin is https://github.com/dashingsoft/pyarmor
 
+Example: build docker image with your source code been obfuscated during build.
+Assuming entry point to your microservice is the main.py
+Then trivial **Dockerfile** is:
+```
+COPY . /code/
+
+# protect source code with pyarmor
+RUN pip3 install pyarmor==5.6.6 \
+    && pyarmor obfuscate /code/main.py \
+    && rm -rf /code/ && mv dist /code
+
+# cleanup unused files
+RUN cd /code && rm -rf Dockerfile *.pyc *.pyo *.pye *.md
+```
+Don't forget to quash docker layers to remove "deleted" files (unobfuscated python sources, dockerfiles, .py etc)
+```bash
+docker build --squash .
+```
+
 
 #### Other cryptors
 * https://pypi.org/project/sourcedefender/
