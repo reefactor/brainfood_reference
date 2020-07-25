@@ -2,12 +2,22 @@
 
 ### Top tools tested and reviewed.
 
-#### Winner
-Winner by a wide margin is https://github.com/dashingsoft/pyarmor
+#### TL;DR The winner
+Winner by a wide margin is [pyarmor](https://github.com/dashingsoft/pyarmor)
 
-Example: build docker image with your source code been obfuscated during build.
-Assuming entry point to your microservice is the main.py
-Then trivial **Dockerfile** is:
+It is able to obfuscate large codebase with complex dependencies like packages scipy, gensim, cython, scikit-learn  
+
+Runtime performance remains unaffected.
+
+All project .py files contents unreadable:
+```
+__pyarmor__(__name__, __file__, b'\x50\x59\x41\x52\x4d\x4f\x52\x00\x00\........
+```
+
+##### Example usage with docker distribution
+Build docker image with your source code been obfuscated during build.Assuming entry point to your microservice is the main.py
+
+###### Dockerfile
 ```
 COPY . /code/
 
@@ -19,13 +29,14 @@ RUN pip3 install pyarmor==5.6.6 \
 # cleanup unused files
 RUN cd /code && rm -rf Dockerfile *.pyc *.pyo *.pye *.md
 ```
-Don't forget to quash docker layers to remove "deleted" files (unobfuscated python sources, dockerfiles, .py etc)
+
+Don't forget to quash docker layers to remove "deleted" files in intermediate layers (unobfuscated python sources, dockerfiles, .py etc)
 ```bash
 docker build --squash .
 ```
 
 
-#### Other cryptors
+#### Other cryptors tested
 * https://pypi.org/project/sourcedefender/
 * https://github.com/ga0/pyprotect
 * https://github.com/Falldog/pyconcrete
