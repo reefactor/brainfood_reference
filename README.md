@@ -148,6 +148,11 @@ Streams of updates for a [Lifelong learning](https://fs.blog/learning/) because 
 * [Flowingdata](http://flowingdata.com) [newsletter](http://flowingdata.us2.list-manage.com/subscribe?u=f538bce868aac1144d248c0bc&id=71ef3cfa3a)
 * [howmuch.net - Understanding money](https://howmuch.net/)
 
+#### Strategy 
+- [Stratechery by Ben Thompson on the business, strategy, and impact of technology](https://stratechery.com)
+- [Benedict Evans newsletter](http://ben-evans.com/newsletter/)
+
+
 #### Listen and Learn
 
 - [Tim Ferris podcast](http://tim.blog/podcast/)
