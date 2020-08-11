@@ -10,7 +10,8 @@
 
 1. Stand up on the Shoulders of Giants with [Wisdom Gems](#gems-of-wisdom)
 2. Bootstrap your framework of [Mental Models](#mental-models) for reasoning
-3. Update mental models with [Knowledge Streams](#streams) to fuel cognition along the [Lifelong Learning](https://fs.blog/learning/) way
+3. Update mental models with [Knowledge Streams](#streams) to fuel cognition 
+for better [reasoning](#reasoning) along the [Lifelong Learning](https://fs.blog/learning/) way
 4. Navigate [Pointers of Truth](#pointers-of-truth)
 as [support vectors](https://en.wikipedia.org/wiki/Support_vector_machine) in uncertainty
 to explore the Limits of Human Knowledge
@@ -64,6 +65,31 @@ People have tried to label them to build taxonomies of most common models
 in order to create reasoning frameworks and to put them in toolboxes.
 
 And so there're [plenty of them online](https://www.google.com/search?q=mental+models)
+
+#### Gradient ascent along steep learning curve
+> You learn the most when you feel like you're the most stupid person in the room
+
+> To attain knowledge, add things everyday. To attain wisdom, remove things everyday  
+> -- Lao Zi
+
+> Warren and I are very good at destroying our own best-loved ideas. Any year that you don't destroy one of your best-loved ideas is probably a wasted year. Charlie likes the analogy of looking at one's ideas and approaches as "tools." When a better tool (idea or approach) comes along, what could be better than to swap it for your old, less useful tool? 'Warren and I routinely do this, but most people, as Galbraith says, forever cling to their old, less useful tools.
+> -- Poor Charlie's Almanack
+
+Iterate and refine models to sharp your [decision making skills](https://fs.blog/smart-decisions/) 
+
+[Knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) yelds Power.
+
+#### Multidisciplinary skills
+> And the models have to come from multiple disciplines—because all the wisdom of the world is not to be found in one little academic department. That’s why poetry professors, by and large, are so unwise in a worldly sense. They don’t have enough models in their heads. So you’ve got to have models across a fair array of disciplines
+> -- Charlie Munger / [A Lesson on Elementary Worldly Wisdom](https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/)
+
+> To the man with only a hammer, every problem looks like a nail
+
+####  Reasoning
+> In theory, there is no difference between theory and practice. But, in practice, there is  
+> -- Jan L.A. van de Snepscheut
+
+Build hierarhical decision policy function: Values -> Stragegy -> Tactics -> Routine
 
 
 ### Streams
@@ -142,7 +168,6 @@ Streams of updates for a [Lifelong learning](https://fs.blog/learning/) because 
 - [Eye On AI](https://www.eye-on.ai/)
 - [Behind The Tech with Kevin Scott, CTO for Microsoft](https://www.microsoft.com/en-us/behind-the-tech)
 - [ТОПЛЕС [SCI POP]](https://www.youtube.com/user/toplesofficial)
-
 
 
 ### Pointers of Truth
