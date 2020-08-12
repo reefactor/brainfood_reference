@@ -81,6 +81,7 @@
 - The "Angels" cycle by Bernard Werber
 - Revolutionary Wealth by Alvin Toffler
 - The Book of Ecclesiastes
+- Principles by Ray Dalio
 
 
 ### Отечество
