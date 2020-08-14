@@ -89,7 +89,46 @@ Iterate and refine models to sharp your [decision making skills](https://fs.blog
 > In theory, there is no difference between theory and practice. But, in practice, there is  
 > -- Jan L.A. van de Snepscheut
 
+> Kaizen - continuous incremental improvements
+
+> The Art of Saying No (Sivers, Waitzkin)
+
 Build hierarhical decision policy function: Values -> Stragegy -> Tactics -> Routine
+
+#### Routine
+
+> Nulla dies sine linea
+
+> Most people overestimate what they can do in one year and underestimate what they can do in ten years.  
+> ― Bill Gates
+
+> True greatness consists of being great in little things. 
+> -- Charles Simmons
+
+> How you do anything is how you do everything
+> -- T. Harv Eker / Secrets of the Millionaire Mind book
+
+##### Morning ritual
+> Finish your day with MIQ (most important question, ask and release, let go, relax) then brainstorm on morning wake up 
+>> -- Josh Waitzkin
+
+* Warm / Cold shower + breathing technique of [Wim Hof method](https://www.wimhofmethod.com/practice-the-method)
+* Morning journaling (Seneca)
+* Commute [podcasts](#Listen-and-Learn)
+* Book chunk - [Bill Gates routinely reads 50 books per year](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year)
+* Daily [Blinkist](https://www.blinkist.com/) blink
+* Daily [Pocket](https://getpocket.com/) article
+* Inbox zero
+* Creative cave, "deep work", non-interrupted mode - "[Maker's Schedule, Manager's Schedule ]"(http://www.paulgraham.com/makersschedule.html)
+* Afternoon nap
+
+
+##### Zoom out
+* Weekly retrospective
+* Monthly retrospective
+* Annual retrospective
+
+Automate repetitive tasks to free time for creative process
 
 
 ### Streams
