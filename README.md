@@ -114,12 +114,12 @@ Build hierarhical decision policy function: Values -> Stragegy -> Tactics -> Rou
 
 * Warm / Cold shower + breathing technique of [Wim Hof method](https://www.wimhofmethod.com/practice-the-method)
 * Morning journaling (Seneca)
-* Commute [podcasts](#Listen-and-Learn)
+* Commute [podcasts](#listen-and-learn)
 * Book chunk - [Bill Gates routinely reads 50 books per year](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year)
 * Daily [Blinkist](https://www.blinkist.com/) blink
 * Daily [Pocket](https://getpocket.com/) article
 * Inbox zero
-* Creative cave, "deep work", non-interrupted mode - "[Maker's Schedule, Manager's Schedule ]"(http://www.paulgraham.com/makersschedule.html)
+* Deep work - non-interrupted mode in "creative cave" - [Maker's Schedule, Manager's Schedule ](http://www.paulgraham.com/makersschedule.html)
 * Afternoon nap
 
 
@@ -145,8 +145,8 @@ Streams of updates for a [Lifelong learning](https://fs.blog/learning/) because 
 * [Wait but why](http://waitbutwhy.com)
 
 #### ψυχή
-- [Brain Pickings by Maria Popova: Weekly Newsletter](www.brainpickings.org)
-- [Letters of Note](www.lettersofnote.com)
+- [Brain Pickings by Maria Popova: Weekly Newsletter](https://www.brainpickings.org)
+- [Letters of Note](https://www.lettersofnote.com)
 - [Aeon Magazine newsletter](https://aeon.co/)
 - [Killing Buddha](http://www.killingbuddha.co/)
 - [Personality and Its Transformations (by Jordan B Peterson, University of Toronto 2017)](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi)
@@ -246,3 +246,8 @@ Comming soon ..
 ### Software Engineering Security
 
 [Python code protection via obfuscation or compilation](security_review_python_code_protector.md)
+
+####  High Availability
+
+##### Отказоустойчивость для чайников
+![HOWTO HA или Отказоустойчивость для чайников](res/howto-ha.gif)
