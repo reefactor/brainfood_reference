@@ -93,9 +93,13 @@ Iterate and refine models to sharp your [decision making skills](https://fs.blog
 
 > The Art of Saying No (Sivers, Waitzkin)
 
-Build hierarhical decision policy function: Values -> Stragegy -> Tactics -> Routine
+Build hierarhical decision policy function: Values -> Stragegy -> [Tactics](#tactics) -> [Routine](#routine)
 
-#### Routine
+##### Tactics
+> Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.
+
+
+##### Routine
 
 > Nulla dies sine linea
 
@@ -108,7 +112,7 @@ Build hierarhical decision policy function: Values -> Stragegy -> Tactics -> Rou
 > How you do anything is how you do everything
 > -- T. Harv Eker / Secrets of the Millionaire Mind book
 
-##### Morning ritual
+###### Morning ritual
 > Finish your day with MIQ (most important question, ask and release, let go, relax) then brainstorm on morning wake up 
 >> -- Josh Waitzkin
 
@@ -123,7 +127,7 @@ Build hierarhical decision policy function: Values -> Stragegy -> Tactics -> Rou
 * Afternoon nap
 
 
-##### Zoom out
+###### Zoom out
 * Weekly retrospective
 * Monthly retrospective
 * Annual retrospective
