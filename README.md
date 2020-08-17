@@ -93,10 +93,17 @@ Iterate and refine models to sharp your [decision making skills](https://fs.blog
 
 > The Art of Saying No (Sivers, Waitzkin)
 
-Build hierarhical decision policy function: Values -> Stragegy -> [Tactics](#tactics) -> [Routine](#routine)
+Build hierarhical decision policy function: Values -> [Stragegy](#Strategy-and-Tactics) -> [Tactics](#Strategy-and-Tactics) -> [Routine](#routine)
 
-##### Tactics
+##### Strategy and Tactics
+> The abstract summary of your actions is your strategy; what you'll do to implement the strategy is your tactics. Frequently, a strategy at one managerial level is the tactical concern of the next higher level.
+> — Andy Grove (High Output Management)
+
 > Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.
+> — Sun Tzu
+
+> Plans are worthless, but planning is everything. There is a very great distinction because when you are planning for an emergency you must start with this one thing: the very definition of "emergency" is that it is unexpected, therefore it is not going to happen the way you are planning.
+> — Dwight D. Eisenhower
 
 
 ##### Routine
@@ -114,7 +121,7 @@ Build hierarhical decision policy function: Values -> Stragegy -> [Tactics](#tac
 
 ###### Morning ritual
 > Finish your day with MIQ (most important question, ask and release, let go, relax) then brainstorm on morning wake up 
->> -- Josh Waitzkin
+> -- Josh Waitzkin
 
 * Warm / Cold shower + breathing technique of [Wim Hof method](https://www.wimhofmethod.com/practice-the-method)
 * Morning journaling (Seneca)
