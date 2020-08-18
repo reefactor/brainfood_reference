@@ -93,7 +93,13 @@ Iterate and refine models to sharp your [decision making skills](https://fs.blog
 
 > The Art of Saying No (Sivers, Waitzkin)
 
-Build hierarhical decision policy function: Values -> [Stragegy](#Strategy-and-Tactics) -> [Tactics](#Strategy-and-Tactics) -> [Routine](#routine)
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.  
+> -- Aristotle
+
+> Our character, basically, is a composite of our habits. “Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny,” the maxim goes  
+> ― Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in
+
+Build hierarhical decision policy function: Values -> [Strategy](#strategy-and-tactics) -> [Tactics](#strategy-and-tactics) -> [Routine](#routine)
 
 ##### Strategy and Tactics
 > The abstract summary of your actions is your strategy; what you'll do to implement the strategy is your tactics. Frequently, a strategy at one managerial level is the tactical concern of the next higher level.
@@ -118,6 +124,10 @@ Build hierarhical decision policy function: Values -> [Stragegy](#Strategy-and-T
 
 > How you do anything is how you do everything
 > -- T. Harv Eker / Secrets of the Millionaire Mind book
+
+> Humans are basically habit machines… I think learning how to break habits is actually a very important meta skill and can serve you in life almost better than anything else
+> -- Naval Ravikant
+
 
 ###### Morning ritual
 > Finish your day with MIQ (most important question, ask and release, let go, relax) then brainstorm on morning wake up 
