@@ -72,12 +72,23 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 > To attain knowledge, add things everyday. To attain wisdom, remove things everyday  
 > -- Lao Zi
 
+> The Art of Saying No (Sivers, Waitzkin)
+
+> Most people overestimate what they can do in one year and underestimate what they can do in ten years.  
+> ― Bill Gates
+
 > Warren and I are very good at destroying our own best-loved ideas. Any year that you don't destroy one of your best-loved ideas is probably a wasted year. Charlie likes the analogy of looking at one's ideas and approaches as "tools." When a better tool (idea or approach) comes along, what could be better than to swap it for your old, less useful tool? 'Warren and I routinely do this, but most people, as Galbraith says, forever cling to their old, less useful tools.
 > -- Poor Charlie's Almanack
 
+> Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when [life is short](http://www.paulgraham.com/vb.html).
+> -- Paul Graham
+
+
 Iterate and refine models to sharp your [decision making skills](https://fs.blog/smart-decisions/) 
 
-[Knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) yelds Power.
+Make continuous incremental improvements - [Kaizen (改善)](https://en.wikipedia.org/wiki/Kaizen))
+
+Accumulated [knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) yelds Power.
 
 #### Multidisciplinary skills
 > And the models have to come from multiple disciplines—because all the wisdom of the world is not to be found in one little academic department. That’s why poetry professors, by and large, are so unwise in a worldly sense. They don’t have enough models in their heads. So you’ve got to have models across a fair array of disciplines
@@ -89,15 +100,11 @@ Iterate and refine models to sharp your [decision making skills](https://fs.blog
 > In theory, there is no difference between theory and practice. But, in practice, there is  
 > -- Jan L.A. van de Snepscheut
 
-> Kaizen - continuous incremental improvements
-
-> The Art of Saying No (Sivers, Waitzkin)
-
 > We are what we repeatedly do. Excellence, then, is not an act, but a habit.  
 > -- Aristotle
 
 > Our character, basically, is a composite of our habits. “Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny,” the maxim goes  
-> ― Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in
+> ― Stephen R. Covey, The 7 Habits of Highly Effective People
 
 Build hierarhical decision policy function: Values -> [Strategy](#strategy-and-tactics) -> [Tactics](#strategy-and-tactics) -> [Routine](#routine)
 
@@ -115,9 +122,6 @@ Build hierarhical decision policy function: Values -> [Strategy](#strategy-and-t
 ##### Routine
 
 > Nulla dies sine linea
-
-> Most people overestimate what they can do in one year and underestimate what they can do in ten years.  
-> ― Bill Gates
 
 > True greatness consists of being great in little things. 
 > -- Charles Simmons
