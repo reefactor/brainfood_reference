@@ -50,6 +50,10 @@ despite of the [Limitations of language](#limitations-of-language)
 > You’ve got to have models in your head. And you’ve got to array your experience ‑ both vicarious and direct ‑ on this latticework of models. You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head  
 > -- Charlie Munger
 
+> [A map is not the territory it represents](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation), but, if correct, it has a similar structure to the territory, which accounts for its usefulness  
+> —  Alfred Korzybski, Science and Sanity
+
+
 [Mental models](https://fs.blog/mental-models/) help us perceive and navigate the _physical_ world with [sensory inputs](https://en.wikipedia.org/wiki/Perception#Types_of_perception)
 as well as our inner _mental realm_.
 
@@ -268,6 +272,7 @@ Comming soon ..
 
 > -- Chan Buddhist scripture [Platform Sutra](https://www.quora.com/Does-the-saying-When-the-sage-points-at-the-moon-the-fool-looks-at-the-finger-really-have-Chinese-origins)
 
+Always be aware that Symbolic System is [a map which is not the territory it represents](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
 
 
 ## Reviews
