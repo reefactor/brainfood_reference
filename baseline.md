@@ -82,6 +82,7 @@
 - Revolutionary Wealth by Alvin Toffler
 - The Book of Ecclesiastes
 - Principles by Ray Dalio
+- The Success Principles by Jack Canfield
 
 
 ### Отечество
