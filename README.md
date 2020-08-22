@@ -1,10 +1,13 @@
 # Brain Food Reference
 > You are what you eat
 
-> Nowadays the problem is not information access but [information overload](https://en.wikipedia.org/wiki/Information_overload). A wealth of information creates a poverty of of attention  
-> ― Herbert Simon, Nobel prize-winning economist
+> Nowadays the problem is not information access but [information overload](https://en.wikipedia.org/wiki/Information_overload). The real value produced by an information provider comes in locating, filtering, and communicating what is useful  
+> ― Carl Shapiro, Information Rules: A Strategic Guide to the Network 1998
 
-> The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.  
+> What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it   
+> ― Herbert Simon, cognitive psychologist and Nobel prize-winning economist
+
+> The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn  
 > ― Alvin Toffler
 
 
