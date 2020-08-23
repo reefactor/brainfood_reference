@@ -79,8 +79,6 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 > To attain knowledge, add things everyday. To attain wisdom, remove things everyday  
 > -- Lao Zi
 
-> The Art of Saying No (Sivers, Waitzkin)
-
 > Most people overestimate what they can do in one year and underestimate what they can do in ten years.  
 > ― Bill Gates
 
@@ -90,12 +88,12 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 > Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when [life is short](http://www.paulgraham.com/vb.html).
 > -- Paul Graham
 
-
 Iterate and refine models to sharp your [decision making skills](https://fs.blog/smart-decisions/) 
 
 Make continuous incremental improvements - [Kaizen (改善)](https://en.wikipedia.org/wiki/Kaizen))
 
 Accumulated [knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) yelds Power.
+
 
 #### Multidisciplinary skills
 > And the models have to come from multiple disciplines—because all the wisdom of the world is not to be found in one little academic department. That’s why poetry professors, by and large, are so unwise in a worldly sense. They don’t have enough models in their heads. So you’ve got to have models across a fair array of disciplines
@@ -113,17 +111,21 @@ Accumulated [knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asym
 > Our character, basically, is a composite of our habits. “Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny,” the maxim goes  
 > ― Stephen R. Covey, The 7 Habits of Highly Effective People
 
-Build hierarhical decision policy function: Values -> [Strategy](#strategy-and-tactics) -> [Tactics](#strategy-and-tactics) -> [Routine](#routine)
+Build hierarhical decision policy function: Values -> [Strategy](#strategy) -> [Tactics](#tactics) -> [Routine](#routine)
 
-##### Strategy and Tactics
+##### Strategy
+> Everybody has a plan until they get punched in the mouth  
+> -- Mike Tyson
+
+> Plans are worthless, but planning is everything. There is a very great distinction because when you are planning for an emergency you must start with this one thing: the very definition of "emergency" is that it is unexpected, therefore it is not going to happen the way you are planning.
+> — Dwight D. Eisenhower
+
+##### Tactics
 > The abstract summary of your actions is your strategy; what you'll do to implement the strategy is your tactics. Frequently, a strategy at one managerial level is the tactical concern of the next higher level.
 > — Andy Grove (High Output Management)
 
 > Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.
 > — Sun Tzu
-
-> Plans are worthless, but planning is everything. There is a very great distinction because when you are planning for an emergency you must start with this one thing: the very definition of "emergency" is that it is unexpected, therefore it is not going to happen the way you are planning.
-> — Dwight D. Eisenhower
 
 
 ##### Routine
@@ -139,19 +141,21 @@ Build hierarhical decision policy function: Values -> [Strategy](#strategy-and-t
 > Humans are basically habit machines… I think learning how to break habits is actually a very important meta skill and can serve you in life almost better than anything else
 > -- Naval Ravikant
 
+> Inspiration is for amateurs while the rest of us just show up and get to work  
+> -- Chuck Close
 
 ###### Morning ritual
-> Finish your day with MIQ (most important question, ask and release, let go, relax) then brainstorm on morning wake up 
+> End your day thinking about an important question MIQ and then wake up the next morning (pre-input, before checking your phone or any news) and brainstorm on it  
 > -- Josh Waitzkin
 
-* Warm / Cold shower + breathing technique of [Wim Hof method](https://www.wimhofmethod.com/practice-the-method)
+* Warm / cold shower + [Wim Hof method](https://www.wimhofmethod.com/practice-the-method) breathing technique
 * Morning journaling (Seneca)
-* Commute [podcasts](#listen-and-learn)
-* Book chunk - [Bill Gates routinely reads 50 books per year](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year)
 * Daily [Blinkist](https://www.blinkist.com/) blink
+* Commute [podcasts](#listen-and-learn)
 * Daily [Pocket](https://getpocket.com/) article
+* Book chunk - [Bill Gates routinely reads 50 books per year](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year)
 * Inbox zero
-* Deep work - non-interrupted mode in "creative cave" - [Maker's Schedule, Manager's Schedule ](http://www.paulgraham.com/makersschedule.html)
+* Deep work - non-interrupted mode in "creative cave" - [ballance schedule](https://fs.blog/2017/12/maker-vs-manager/) ([Maker's Schedule, Manager's Schedule ](http://www.paulgraham.com/makersschedule.html))
 * Afternoon nap
 
 
@@ -256,8 +260,6 @@ Streams of updates for a [Lifelong learning](https://fs.blog/learning/) because 
 
 > The greatest thing in this world is not so much where we are, but in what direction we are moving.  
 > ― Oliver Wendell Holmes
-
-
 
 > Я всю жизнь выписывал пословицы, которые мне нравились своей глубиной и точностью. Причем, не просто выписывал, а искал и находил решение трудных проблем. Когда появлялись дети, и я им вместо пустых назиданий давал эти пословицы.
 Очень часто сила, свет этих народных указаний выручала меня, подбадривала, наставляла, утешала.  
