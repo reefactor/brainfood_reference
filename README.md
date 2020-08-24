@@ -113,6 +113,17 @@ Accumulated [knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asym
 
 Build hierarhical decision policy function: Values -> [Strategy](#strategy) -> [Tactics](#tactics) -> [Routine](#routine)
 
+Understand your [circle of competence](https://fs.blog/2013/12/circle-of-competence/) expanding into next [near development zone](https://en.wikipedia.org/wiki/Zone_of_proximal_development)  to ballance [exploration–exploitation tradeoff dilemma](https://en.wikipedia.org/wiki/Multi-armed_bandit)
+
+Push yourself out of comfort zone, keep [Bruce Lee's "Broken rhythm"](https://brucelee.com/podcast-blog/2018/3/21/90-broken-rhythm)
+
+Learn ["the Kierkegaard' School of anxiety"](https://academyofideas.com/2018/02/soren-kierkegaard-psychology-anxiety/)
+
+Expertise requires going from unconscious incompetence to conscious incompetence to conscious competence and finally to unconscious competence.
+
+
+
+
 ##### Strategy
 > Everybody has a plan until they get punched in the mouth  
 > -- Mike Tyson
