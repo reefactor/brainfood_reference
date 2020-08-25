@@ -19,7 +19,7 @@ for better [reasoning](#reasoning) along the [Lifelong Learning](https://fs.blog
 as [support vectors](https://en.wikipedia.org/wiki/Support_vector_machine) in uncertainty
 to explore the Limits of Human Knowledge
 despite of the [Limitations of language](#limitations-of-language)
-
+5. Ask [Hard Questions](hard_questions.md)
 
 ***
 
