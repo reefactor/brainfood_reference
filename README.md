@@ -34,6 +34,8 @@ despite of the [Limitations of language](#limitations-of-language)
 > In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time-none, zero  
 > -- Charles Munger
 
+> Repetitio est mater studiorum. Any kind of important book should immediately be read twice, partly because one grasps the latter in its entirety the second time, and only really understands the beginning when the end is known; and partly because in reading it the second time one’s temper and mood are different, so that one gets another impression; it may be that one sees the matter in another light  
+> -- Arthur Schopenhauer on reading books.
 
 - [Baseline books](baseline.md)
 - [CS Baseline](baseline_cs.md)
