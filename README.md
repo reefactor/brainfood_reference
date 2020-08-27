@@ -103,6 +103,28 @@ Accumulated [knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asym
 
 > To the man with only a hammer, every problem looks like a nail
 
+> There's multiple ways to succeed in life: 1) get to top 1% at 1 skill  2) combine top 10% of multiple skills 3) learn art of storytelling - powerful way to rule the world  
+> -- Tim Ferriss podcast
+
+> It’s kind of fun to sit there and outthink people who are way smarter than you are because you’ve trained yourself to be more objective and more multidisciplinary. Furthermore, there is a lot of money in it, as I can testify from my own personal experience  
+> – Charlie Munger
+
+> Interdisciplinary research is hard.. Say you get two world-leading experts, in maths and genomics – there obviously could be some crossover. But who is going to do the work to understand the other person's field, their jargon, what their real problem is? .. Some of the most interesting areas of science are in the gaps between, the confluences between subjects. What I've tried to do in building DeepMind is to find 'glue people', those who are world class in multiple domains, who possess the creativity to find analogies and points of contact between different subjects. Generally speaking, when that happens, the magic happens  
+> -- [Demis Hassabis on hiring at Deepmind ](https://www.wired.co.uk/article/deepmind-protein-folding)
+
+> An expert knows more and more about less and less until he or she knows everything about nothing.  
+> A generalist knows less and less about more and more until he or she knows nothing about everything.  
+> -- [attributed to various sources](https://quoteinvestigator.com/2017/10/25/more/)
+
+Move from I-shaped to T-shaped to Pi-Shaped to Comb-shaped individual yet be aware of [Jack of all trades, master of none](https://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none).  The key here is to ballance 2 things:
+* [The Pareto Principle in Learning – The 80:20 Rule](https://www.briantracy.com/blog/personal-success/how-to-use-the-80-20-rule-pareto-principle/) says that learning process isn't linear - you achieve 80% of result in the begining with only 20% of time. 
+* [Speed of Obsolescence of Knowledge and Skills](http://career.iresearchnet.com/career-development/obsolescence-of-knowledge-and-skills/) at some point on a learning curve become greater than speed of your learning so the latter 20% isn't worth it
+
+"Crossover experts" are Pi-shaped speciallists.
+
+Single crossdomain B+ speciallist is better than 2 A+ with gap betwee domains. because of communication overhead.
+
+
 ####  Reasoning
 > In theory, there is no difference between theory and practice. But, in practice, there is  
 > -- Jan L.A. van de Snepscheut
