@@ -90,7 +90,7 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 > Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when [life is short](http://www.paulgraham.com/vb.html).
 > -- Paul Graham
 
-Iterate and refine models to sharp your [decision making skills](https://fs.blog/smart-decisions/) 
+Iterate and refine models to sharp your [decision making skills](#decisions) 
 
 Make continuous incremental improvements - [Kaizen (改善)](https://en.wikipedia.org/wiki/Kaizen))
 
@@ -135,7 +135,7 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap betwee domains. b
 > Our character, basically, is a composite of our habits. “Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny,” the maxim goes  
 > ― Stephen R. Covey, The 7 Habits of Highly Effective People
 
-Build hierarhical decision policy function: Values -> [Strategy](#strategy) -> [Tactics](#tactics) -> [Routine](#routine)
+Build hierarhical [decision policy](#decisions) function: Values -> [Strategy](#strategy) -> [Tactics](#tactics) -> [Routine](#routine)
 
 Understand your [circle of competence](https://fs.blog/2013/12/circle-of-competence/) expanding into next [near development zone](https://en.wikipedia.org/wiki/Zone_of_proximal_development)  to ballance [exploration–exploitation tradeoff dilemma](https://en.wikipedia.org/wiki/Multi-armed_bandit)
 
@@ -145,7 +145,20 @@ Learn ["the Kierkegaard' School of anxiety"](https://academyofideas.com/2018/02/
 
 Expertise requires going from unconscious incompetence to conscious incompetence to conscious competence and finally to unconscious competence.
 
+##### Decisions
 
+There're lots of frameworks and tools for [decision making](https://fs.blog/smart-decisions/)
+
+Strategy for triaging:
+* [Importance & Urgence](https://fs.blog/2013/04/eisenhower-matrix/) known as The Eisenhower Matrix
+* [Reversible vs Consequential](https://fs.blog/2018/09/decision-matrix/) by Farnam Street
+
+Learn from feedback
+* Quality: [difference between Bad Luck and Dump Luck](https://fs.blog/2012/10/bad-things-good-decisions/) known as Decision or Process / Outcome matrix
+
+Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large cost of failure) VS Startup risk-taking mentality (fail-fast, large benefits from success).
+
+World is a game with incomplete information, so decisions under uncertainty require confidence intervals estimation.
 
 
 ##### Strategy
