@@ -155,6 +155,7 @@ Strategy for triaging:
 
 Learn from feedback
 * Quality: [difference between Bad Luck and Dump Luck](https://fs.blog/2012/10/bad-things-good-decisions/) known as Decision or Process / Outcome matrix
+* [False positives adn false negatives](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors) in Type I and II error in Scientific hypothesis testing
 
 Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large cost of failure) VS Startup risk-taking mentality (fail-fast, large benefits from success).
 
