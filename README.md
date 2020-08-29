@@ -197,6 +197,7 @@ World is a game with incomplete information, so decisions under uncertainty requ
 > End your day thinking about an important question MIQ and then wake up the next morning (pre-input, before checking your phone or any news) and brainstorm on it  
 > -- Josh Waitzkin
 
+* [Sleep well](#sleep)
 * Warm / cold shower + [Wim Hof method](https://www.wimhofmethod.com/practice-the-method) breathing technique
 * Morning journaling (Seneca)
 * Daily [Blinkist](https://www.blinkist.com/) blink
@@ -207,13 +208,21 @@ World is a game with incomplete information, so decisions under uncertainty requ
 * Deep work - non-interrupted mode in "creative cave" - [ballance schedule](https://fs.blog/2017/12/maker-vs-manager/) ([Maker's Schedule, Manager's Schedule ](http://www.paulgraham.com/makersschedule.html))
 * Afternoon nap
 
-
 ###### Zoom out
 * Weekly retrospective
 * Monthly retrospective
 * Annual retrospective
 
 Automate repetitive tasks to free time for creative process
+
+###### Sleep
+
+Sleep is underrated in modern culture, yet is essential cognitive performance and memory consolidation. Sleep deprivation has detrimental effects on mental health. 
+Listen to interview 
+[Part 1](https://peterattiamd.com/matthewwalker1/),
+[Part 2](https://peterattiamd.com/matthewwalker2/),
+[Part 3](https://peterattiamd.com/matthewwalker3/),
+with [Matthew Walker](https://www.sleepdiplomat.com/speaker), Ph.D, Sleep Scientist for Google.
 
 
 ### Streams
