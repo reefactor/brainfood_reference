@@ -43,6 +43,90 @@ despite of the [Limitations of language](#limitations-of-language)
 - [Список Бродского](brodsky-reading-list.md) / [Joseph Brodsky’s List](http://www.openculture.com/2013/11/joseph-brodskys-reading-list-for-having-an-intelligent-conversation.html)
 
 
+### Streams
+
+> Cross-validate ideas, rules, practices of authoritative sources and people  
+> -- Jordan Peterson
+
+Streams of updates for a [Lifelong learning](https://fs.blog/learning/) because most skills will become obsolete within X years.
+
+
+#### φύσις
+* [The Quanta Magazine](https://www.quantamagazine.org/)
+* [Книга новостей](https://kniganews.org)
+* [Wait but why](http://waitbutwhy.com)
+
+#### ψυχή
+- [Brain Pickings by Maria Popova: Weekly Newsletter](https://www.brainpickings.org)
+- [Letters of Note](https://www.lettersofnote.com)
+- [Aeon Magazine newsletter](https://aeon.co/)
+- [Killing Buddha](http://www.killingbuddha.co/)
+- [Personality and Its Transformations (by Jordan B Peterson, University of Toronto 2017)](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi)
+- [Maps of Meaning: The Architecture of Belief (by Jordan B Peterson University of Toronto 2017))](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
+- [The School of Life channel](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
+- [Academy of Ideas channel](https://www.youtube.com/channel/UCiRiQGCHGjDLT9FQXFW0I3A)
+- [Указатели истины](https://www.peremeny.ru/blog/category/%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d1%8b/%d1%83%d0%ba%d0%b0%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d0%b8-%d0%b8%d1%81%d1%82%d0%b8%d0%bd%d1%8b)
+- [Philosophy for life by Jules Evans](https://www.philosophyforlife.org/)
+- [FAQ by Derek Sivers](https://sive.rs/bfaq)
+
+#### CS - computer science & tech
+* [Uber Engineering](https://www.youtube.com/channel/UCQlvjgieHGgkpP_9GiVyTGw)
+* [GoogleTechTalks](https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw)
+* [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg)
+* [McGovern Institute for Brain Research at MIT](https://www.youtube.com/channel/UCDqKkRpDCSqPx8kGn0aTIZw)
+* [Pycon](https://pycon.org/) annual conference [channels](https://www.youtube.com/results?search_query=pycon&sp=EgIQAg%253D%253D) and [playlists](https://www.youtube.com/results?search_query=pycon&sp=EgIQAw%253D%253D)
+* [The Next Platform newsletter](https://www.nextplatform.com/register/)
+* [AWESOME GitHub curated lists](https://github.com/sindresorhus/awesome)
+* [Hackernewsletter](http://hackernewsletter.com)
+
+#### ML - machine learning & cognitive systems
+* [Center for Brains, Minds and Machines (CBMM)](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ)
+* [Intuition Machine newsletter](https://www.getrevue.co/profile/intuitionmachine)
+* [Data elixir newsletter](https://dataelixir.com)
+* [Data machina newsletter](http://datamachina.com)
+* [THE WILD WEEK IN AI newsletter](http://www.wildml.com/newsletter/)
+* [AI Weekly newsletter](http://aiweekly.co/)
+* [Import AI newsletter](https://jack-clark.net/import-ai/)
+* [RE WORK blog & newsletter](https://re-work.co/)
+* [Data Science Weekly newsletter](https://www.datascienceweekly.org/)
+* [Data science central newsletter](http://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter)
+* [Berkeley Institute for Data Science (BIDS) channel](https://www.youtube.com/channel/UCBBd3JxQl455JkWBeulc-9w)
+* [Artificial Intelligence Courses channel](https://www.youtube.com/user/aicourses)
+
+#### Datavis, infographics, data journalism
+* [Information is beautiful](http://www.informationisbeautiful.net/), annual [awards](http://www.informationisbeautifulawards.com/)
+* [OpenVis con @BocoupLLC ](https://www.youtube.com/channel/UCQUPI1PxfE4-bqwuI26I2HA)
+* [Flowingdata](http://flowingdata.com) [newsletter](http://flowingdata.us2.list-manage.com/subscribe?u=f538bce868aac1144d248c0bc&id=71ef3cfa3a)
+* [howmuch.net - Understanding money](https://howmuch.net/)
+
+#### Strategy 
+- [Stratechery by Ben Thompson on the business, strategy, and impact of technology](https://stratechery.com)
+- [Benedict Evans newsletter](http://ben-evans.com/newsletter/)
+
+
+#### Listen and Learn
+
+- [Tim Ferris podcast](http://tim.blog/podcast/)
+- [The Knowledge Project Podcast with Shane Parrish](https://fs.blog/the-knowledge-project/)
+- [A16Z Podcast](https://a16z.com/podcasts/)
+- [The Reboot podcast](https://www.reboot.io/podcast/)
+- [Masters of Scale by Reid Hoffman](https://mastersofscale.com/)
+- [Bruce Lee Podcast](https://www.brucelee.com/podcast/)
+- [TWiML & AI Podcast (This week in machine learning and AI)](https://twimlai.com/tag/podcast/)
+- [Smart Drug Smarts | Fuel Your Brain With the Latest in Neuroscience](https://smartdrugsmarts.com/episodes-page/)
+- [Eye on AI](https://www.eye-on.ai/podcast-archive)
+- [The Artificial Intelligence podcast with Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
+- [Mindscape Podcast](https://www.preposterousuniverse.com/podcast/) and [The Biggest Ideas in the Univers](https://www.youtube.com/channel/UCRhV1rWIpm_pU19bBm_2RXw) by Sean Carroll
+- [The Peter Attia Drive Podcast](https://peterattiamd.com/podcast/)
+- [Tribe of Mentors podcast](https://tim.blog/category/tribe-of-mentors/)
+- [Naval Ravikant podcast](https://nav.al/)
+- [EdgeCast](https://edgecast.fireside.fm/) by [edge.org](https://www.edge.org/)
+- [Eye On AI](https://www.eye-on.ai/)
+- [Behind The Tech with Kevin Scott, CTO for Microsoft](https://www.microsoft.com/en-us/behind-the-tech)
+- [ТОПЛЕС [SCI POP]](https://www.youtube.com/user/toplesofficial)
+
+
+***
 ### Mental models
 
 >  ..all models are approximations. Essentially, [all models are wrong, but some are useful](https://en.wikipedia.org/wiki/All_models_are_wrong).  
@@ -199,6 +283,7 @@ World is a game with incomplete information, so decisions under uncertainty requ
 
 * [Sleep well](#sleep)
 * Warm / cold shower + [Wim Hof method](https://www.wimhofmethod.com/practice-the-method) breathing technique
+* Meditate - brush your mind, contemplate ideas. break rumination
 * Morning journaling (Seneca)
 * Daily [Blinkist](https://www.blinkist.com/) blink
 * Commute [podcasts](#listen-and-learn)
@@ -223,89 +308,6 @@ Listen to interview
 [Part 2](https://peterattiamd.com/matthewwalker2/),
 [Part 3](https://peterattiamd.com/matthewwalker3/),
 with [Matthew Walker](https://www.sleepdiplomat.com/speaker), Ph.D, Sleep Scientist for Google.
-
-
-### Streams
-
-> Cross-validate ideas, rules, practices of authoritative sources and people  
-> -- Jordan Peterson
-
-Streams of updates for a [Lifelong learning](https://fs.blog/learning/) because most skills will become obsolete within X years.
-
-
-#### φύσις
-* [The Quanta Magazine](https://www.quantamagazine.org/)
-* [Книга новостей](https://kniganews.org)
-* [Wait but why](http://waitbutwhy.com)
-
-#### ψυχή
-- [Brain Pickings by Maria Popova: Weekly Newsletter](https://www.brainpickings.org)
-- [Letters of Note](https://www.lettersofnote.com)
-- [Aeon Magazine newsletter](https://aeon.co/)
-- [Killing Buddha](http://www.killingbuddha.co/)
-- [Personality and Its Transformations (by Jordan B Peterson, University of Toronto 2017)](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi)
-- [Maps of Meaning: The Architecture of Belief (by Jordan B Peterson University of Toronto 2017))](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
-- [The School of Life channel](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
-- [Academy of Ideas channel](https://www.youtube.com/channel/UCiRiQGCHGjDLT9FQXFW0I3A)
-- [Указатели истины](https://www.peremeny.ru/blog/category/%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d1%8b/%d1%83%d0%ba%d0%b0%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d0%b8-%d0%b8%d1%81%d1%82%d0%b8%d0%bd%d1%8b)
-- [Philosophy for life by Jules Evans](https://www.philosophyforlife.org/)
-- [FAQ by Derek Sivers](https://sive.rs/bfaq)
-
-#### CS - computer science & tech
-* [Uber Engineering](https://www.youtube.com/channel/UCQlvjgieHGgkpP_9GiVyTGw)
-* [GoogleTechTalks](https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw)
-* [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg)
-* [McGovern Institute for Brain Research at MIT](https://www.youtube.com/channel/UCDqKkRpDCSqPx8kGn0aTIZw)
-* [Pycon](https://pycon.org/) annual conference [channels](https://www.youtube.com/results?search_query=pycon&sp=EgIQAg%253D%253D) and [playlists](https://www.youtube.com/results?search_query=pycon&sp=EgIQAw%253D%253D)
-* [The Next Platform newsletter](https://www.nextplatform.com/register/)
-* [AWESOME GitHub curated lists](https://github.com/sindresorhus/awesome)
-* [Hackernewsletter](http://hackernewsletter.com)
-
-#### ML - machine learning & cognitive systems
-* [Center for Brains, Minds and Machines (CBMM)](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ)
-* [Intuition Machine newsletter](https://www.getrevue.co/profile/intuitionmachine)
-* [Data elixir newsletter](https://dataelixir.com)
-* [Data machina newsletter](http://datamachina.com)
-* [THE WILD WEEK IN AI newsletter](http://www.wildml.com/newsletter/)
-* [AI Weekly newsletter](http://aiweekly.co/)
-* [Import AI newsletter](https://jack-clark.net/import-ai/)
-* [RE WORK blog & newsletter](https://re-work.co/)
-* [Data Science Weekly newsletter](https://www.datascienceweekly.org/)
-* [Data science central newsletter](http://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter)
-* [Berkeley Institute for Data Science (BIDS) channel](https://www.youtube.com/channel/UCBBd3JxQl455JkWBeulc-9w)
-* [Artificial Intelligence Courses channel](https://www.youtube.com/user/aicourses)
-
-#### Datavis, infographics, data journalism
-* [Information is beautiful](http://www.informationisbeautiful.net/), annual [awards](http://www.informationisbeautifulawards.com/)
-* [OpenVis con @BocoupLLC ](https://www.youtube.com/channel/UCQUPI1PxfE4-bqwuI26I2HA)
-* [Flowingdata](http://flowingdata.com) [newsletter](http://flowingdata.us2.list-manage.com/subscribe?u=f538bce868aac1144d248c0bc&id=71ef3cfa3a)
-* [howmuch.net - Understanding money](https://howmuch.net/)
-
-#### Strategy 
-- [Stratechery by Ben Thompson on the business, strategy, and impact of technology](https://stratechery.com)
-- [Benedict Evans newsletter](http://ben-evans.com/newsletter/)
-
-
-#### Listen and Learn
-
-- [Tim Ferris podcast](http://tim.blog/podcast/)
-- [The Knowledge Project Podcast with Shane Parrish](https://fs.blog/the-knowledge-project/)
-- [A16Z Podcast](https://a16z.com/podcasts/)
-- [The Reboot podcast](https://www.reboot.io/podcast/)
-- [Masters of Scale by Reid Hoffman](https://mastersofscale.com/)
-- [Bruce Lee Podcast](https://www.brucelee.com/podcast/)
-- [TWiML & AI Podcast (This week in machine learning and AI)](https://twimlai.com/tag/podcast/)
-- [Smart Drug Smarts | Fuel Your Brain With the Latest in Neuroscience](https://smartdrugsmarts.com/episodes-page/)
-- [Eye on AI](https://www.eye-on.ai/podcast-archive)
-- [The Artificial Intelligence podcast with Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
-- [Mindscape Podcast](https://www.preposterousuniverse.com/podcast/) and [The Biggest Ideas in the Univers](https://www.youtube.com/channel/UCRhV1rWIpm_pU19bBm_2RXw) by Sean Carroll
-- [The Peter Attia Drive Podcast](https://peterattiamd.com/podcast/)
-- [Tribe of Mentors podcast](https://tim.blog/category/tribe-of-mentors/)
-- [Naval Ravikant podcast](https://nav.al/)
-- [EdgeCast](https://edgecast.fireside.fm/) by [edge.org](https://www.edge.org/)
-- [Eye On AI](https://www.eye-on.ai/)
-- [Behind The Tech with Kevin Scott, CTO for Microsoft](https://www.microsoft.com/en-us/behind-the-tech)
-- [ТОПЛЕС [SCI POP]](https://www.youtube.com/user/toplesofficial)
 
 
 ### Pointers of Truth
