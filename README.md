@@ -113,7 +113,7 @@ Streams of updates for a [Lifelong learning](https://fs.blog/learning/) because 
 - [Masters of Scale by Reid Hoffman](https://mastersofscale.com/)
 - [Bruce Lee Podcast](https://www.brucelee.com/podcast/)
 - [TWiML & AI Podcast (This week in machine learning and AI)](https://twimlai.com/tag/podcast/)
-- [Smart Drug Smarts | Fuel Your Brain With the Latest in Neuroscience](https://smartdrugsmarts.com/episodes-page/)
+- [Smart Drug Smarts - Fuel Your Brain With the Latest in Neuroscience](https://smartdrugsmarts.com/episodes-page/)
 - [Eye on AI](https://www.eye-on.ai/podcast-archive)
 - [The Artificial Intelligence podcast with Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 - [Mindscape Podcast](https://www.preposterousuniverse.com/podcast/) and [The Biggest Ideas in the Univers](https://www.youtube.com/channel/UCRhV1rWIpm_pU19bBm_2RXw) by Sean Carroll
