@@ -45,10 +45,21 @@ despite of the [Limitations of language](#limitations-of-language)
 
 ### Streams
 
-> Cross-validate ideas, rules, practices of authoritative sources and people  
-> -- Jordan Peterson
+#### Tribe of mentors
 
-Streams of updates for a [Lifelong learning](https://fs.blog/learning/) because most skills will become obsolete within X years.
+> Surround yourself with people who are smarter than you  -- Russell Simmons
+
+> Never be the brightest person in the room because you won’t learn anything  
+> -- attributed to [James Watson, Holly Hunter, James L. Brooks, Steven R. Craig, Michael Dell](https://quoteinvestigator.com/2019/02/21/bright/)
+
+> Never take advice from someone you wouldn't trade places with
+
+> Cross-validate ideas, rules, practices of authoritative sources and people  
+> -- Jordan B. Peterson
+
+> You are the average of the five people you spend the most time with  -- Jim Rohn
+
+> Tribe of mentors changes with you as you grow -- Tim Ferriss
 
 
 #### φύσις
@@ -160,7 +171,6 @@ in order to create reasoning frameworks and to put them in toolboxes.
 And so there're [plenty of them online](https://www.google.com/search?q=mental+models)
 
 #### Gradient ascent along steep learning curve
-> You learn the most when you feel like you're the most stupid person in the room
 
 > To attain knowledge, add things everyday. To attain wisdom, remove things everyday  
 > -- Lao Zi
