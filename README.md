@@ -210,6 +210,9 @@ Accumulated [knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asym
 > A generalist knows less and less about more and more until he or she knows nothing about everything.  
 > -- [attributed to various sources](https://quoteinvestigator.com/2017/10/25/more/)
 
+> A fox knows many things, but a hedgehog one important thing  
+> -- [greek poet Archilochus quoted by Isaiah Berlin to define a spectrum](https://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox)
+
 Move from I-shaped to T-shaped to Pi-Shaped to M-shaped individual yet be aware of [Jack of all trades, master of none](https://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none). The key here ballance factors:
 * [The Pareto Principle in Learning – The 80:20 Rule](https://www.briantracy.com/blog/personal-success/how-to-use-the-80-20-rule-pareto-principle/) says that learning process isn't linear - you achieve 80% of result in the begining with only 20% of time. 
 * [Speed of Obsolescence of Knowledge and Skills](http://career.iresearchnet.com/career-development/obsolescence-of-knowledge-and-skills/) at some point on a learning curve become greater than speed of your learning so the latter 20% isn't worth it
