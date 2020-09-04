@@ -10,7 +10,10 @@
 > ― Arthur Schopenhauer
 
 
-### What Is Consciousness?
+### [What Is Consciousness?](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)
+
+[The Spotlight of attention]((https://en.wikipedia.org/wiki/The_Doors_of_Perception)) is parameterized by direction vector, min / max light cone angles (focused or diffused), intensity and duration.
+
 
 ### What's outside the simulation? (Elon Musk's question to AGI)
 
