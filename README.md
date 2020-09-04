@@ -37,6 +37,9 @@ despite of the [Limitations of language](#limitations-of-language)
 > Repetitio est mater studiorum. Any kind of important book should immediately be read twice, partly because one grasps the latter in its entirety the second time, and only really understands the beginning when the end is known; and partly because in reading it the second time one’s temper and mood are different, so that one gets another impression; it may be that one sees the matter in another light  
 > -- Arthur Schopenhauer on reading books.
 
+> Fools say that they learn by experience. I prefer to profit by others experience.  
+> ― Otto von Bismarck
+
 - [Baseline books](baseline.md)
 - [CS Baseline](baseline_cs.md)
 - [Collection of books & reviews](https://sive.rs/book) by Derek Sivers
@@ -181,8 +184,13 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 > Warren and I are very good at destroying our own best-loved ideas. Any year that you don't destroy one of your best-loved ideas is probably a wasted year. Charlie likes the analogy of looking at one's ideas and approaches as "tools." When a better tool (idea or approach) comes along, what could be better than to swap it for your old, less useful tool? 'Warren and I routinely do this, but most people, as Galbraith says, forever cling to their old, less useful tools.
 > -- Poor Charlie's Almanack
 
+> The second half of a man's life is made up of nothing but the habits he has acquired during the first half
+> ― Demons novel by Fyodor Dostoevsky
+
 > Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when [life is short](http://www.paulgraham.com/vb.html).
 > -- Paul Graham
+
+
 
 Iterate and refine models to sharp your [decision making skills](#decisions) 
 
