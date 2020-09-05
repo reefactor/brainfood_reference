@@ -242,8 +242,12 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap between domains b
 > We are what we repeatedly do. Excellence, then, is not an act, but a habit.  
 > -- Aristotle
 
+> [Deliberate practice](https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice) makes perfect
+
 > Our character, basically, is a composite of our habits. “Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny,” the maxim goes  
 > ― Stephen R. Covey, The 7 Habits of Highly Effective People
+
+> There are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know
 
 Build hierarhical [decision policy](#decisions) function: Values -> [Strategy](#strategy) -> [Tactics](#tactics) -> [Routine](#routine)
 
@@ -251,9 +255,11 @@ Understand your [circle of competence](https://fs.blog/2013/12/circle-of-compete
 
 Push yourself out of comfort zone, keep [Bruce Lee's "Broken rhythm"](https://brucelee.com/podcast-blog/2018/3/21/90-broken-rhythm)
 
-Learn ["the Kierkegaard' School of anxiety"](https://academyofideas.com/2018/02/soren-kierkegaard-psychology-anxiety/)
+Study the ["Kierkegaard's School of Anxiety"](https://academyofideas.com/2018/02/soren-kierkegaard-psychology-anxiety/)
 
 Expertise requires going from unconscious incompetence to conscious incompetence to conscious competence and finally to unconscious competence.
+
+
 
 ##### Decisions
 
@@ -261,15 +267,28 @@ There're lots of frameworks and tools for [decision making](https://fs.blog/smar
 
 Strategy for triaging:
 * [Importance & Urgence](https://fs.blog/2013/04/eisenhower-matrix/) known as The Eisenhower Matrix
-* [Reversible vs Consequential](https://fs.blog/2018/09/decision-matrix/) by Farnam Street
+* [Reversible vs Consequential](https://fs.blog/2018/09/decision-matrix/) quadrants by Farnam Street
 
 Learn from feedback
-* Quality: [difference between Bad Luck and Dump Luck](https://fs.blog/2012/10/bad-things-good-decisions/) known as Decision or Process / Outcome matrix
-* [False positives adn false negatives](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors) in Type I and II error in Scientific hypothesis testing
+* Quality: [difference between Bad Luck and Dump Luck](https://fs.blog/2012/10/bad-things-good-decisions/) known as Decision or Process / Outcome quadrants
+* [False positives and false negatives](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors) in Type I and II error in Scientific hypothesis testing
 
 Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large cost of failure) VS Startup risk-taking mentality (fail-fast, large benefits from success).
 
-World is a game with incomplete information, so decisions under uncertainty require confidence intervals estimation.
+##### Uncertainty
+
+> There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know  
+> -- Rumsfeld [DoD speech](https://en.wikipedia.org/wiki/There_are_known_knowns)
+
+> Beyond these three categories there is a fourth, the unknown known, that which we intentionally refuse to acknowledge that we know  
+> -- attributed to Slavoj Žižek
+
+Life is a game with [incomplete and imperfect information](https://en.wikipedia.org/wiki/Complete_information#Complete_versus_perfect_information), so decisions under uncertainty require confidence intervals estimation.
+
+_**Known unknowns**_ refer to considered "risks" under [estimated](https://en.wikipedia.org/wiki/Risk_assessment) uncertainty so it can be [managed](https://en.wikipedia.org/wiki/Risk_management)
+
+_**Unknown unknowns**_ refer to risks invisible, unconsidered and unestimated e.g. [Black Swans](https://en.wikipedia.org/wiki/Black_swan_theory)
+
 
 
 ##### Strategy
