@@ -275,7 +275,7 @@ Learn from feedback
 
 Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large cost of failure) VS Startup risk-taking mentality (fail-fast, large benefits from success).
 
-##### Uncertainty
+###### Uncertainty
 
 > We have two classes of forecasters:  Those who don’t know – and those who don’t know they don’t know  
 > -- John Kenneth Galbraith
@@ -308,15 +308,31 @@ Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large c
 > -- Daniel Kahneman in Thinking Fast and Slow book
 
 
-Life is a game with [incomplete and imperfect information](https://en.wikipedia.org/wiki/Complete_information#Complete_versus_perfect_information), so decisions under uncertainty require confidence intervals estimation.
-
 _**Known knowns**_ refer to a high level of confidence, yet [overconfidence](https://en.wikipedia.org/wiki/Overconfidence_effect) is _the most significant of the cognitive biases_.
 
 _**Known unknowns**_ refer to considered "risks" under [estimated](https://en.wikipedia.org/wiki/Risk_assessment) uncertainty so it can be [managed](https://en.wikipedia.org/wiki/Risk_management)
 
+Life is a game with [incomplete and imperfect information](https://en.wikipedia.org/wiki/Complete_information#Complete_versus_perfect_information), so people have developed frameworks to estimate confidence when [managing decisions under uncertainty](https://en.wikipedia.org/wiki/Risk_management).
+
+
 _**Unknown unknowns**_ refer to risks invisible, unconsidered and unestimated e.g. [Black Swans](https://en.wikipedia.org/wiki/Black_swan_theory)
 
-_**Unknown knowns**_ refer to cognitive bias of self-denial to accept facts
+> … Black Swans hijack our brains, making us feel we “sort of” or “almost” predicted them, because they are retrospectively explainable. We don’t realize the role of these Swans in life because of this illusion of predictability. Life is more, a lot more, labyrinthine than shown in our memory— our minds are in the business of turning history into something smooth and linear, which makes us underestimate randomness. But when we see it, we fear it and overreact. Because of this fear and thirst for order, some human systems, by disrupting the invisible or not so visible logic of things, tend to be exposed to harm from Black Swans and almost never get any benefit. You get pseudo-order when you seek order; you only get a measure of order and control when you embrace randomness.
+
+> By grasping the mechanisms of antifragility we can build a systematic and broad guide to **nonpredictive decision making under uncertainty** in business, politics, medicine, and life in general— anywhere the unknown preponderates, any situation in which there is randomness, unpredictability, opacity, or incomplete understanding of things..
+
+> It is far easier to figure out if something is fragile than to predict the occurrence of an event that may harm it. Fragility can be measured; risk is not measurable (outside of casinos or the minds of people who call themselves “risk experts”). This provides a solution to what I’ve called the Black Swan problem— the impossibility of calculating the risks of consequential rare events and predicting their occurrence. Sensitivity to harm from volatility is tractable, more so than forecasting the event that would cause the harm. So we propose to stand our current approaches to prediction, prognostication, and risk management on their heads.
+
+> .. we can almost always detect antifragility (and fragility) using a simple test of asymmetry : **anything that has more upside than downside from random events (or certain shocks) is antifragile; the reverse is fragile**.
+
+> --  Nassim Taleb in Antifragile: Things That Gain from Disorder
+
+Antifragility is the antidote to [Black Swans](https://en.wikipedia.org/wiki/Black_swan_theory).
+
+
+
+_**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts - [evidence that challenges prior belief system](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+
 
 
 ##### Strategy
