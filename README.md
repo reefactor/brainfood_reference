@@ -277,18 +277,42 @@ Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large c
 
 ##### Uncertainty
 
+> We have two classes of forecasters:  Those who don’t know – and those who don’t know they don’t know  
+> -- John Kenneth Galbraith
+
+> Forecasts usually tell us more of the forecaster than of the future  
+> -- Warren Buffett
+
+> Those who have knowledge don’t predict; those who predict don’t have knowledge.  
+> -- Lao Tzu
+
 > There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know  
 > -- Rumsfeld [DoD speech](https://en.wikipedia.org/wiki/There_are_known_knowns)
 
 > Beyond these three categories there is a fourth, the unknown known, that which we intentionally refuse to acknowledge that we know  
 > -- attributed to Slavoj Žižek
 
+> People can foresee the future only when it coincides with their own wishes, and the most grossly obvious facts can be ignored when they are unwelcome  
+> -- George Orwell
+
+> It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so  
+> -- Mark Twain, but also to several others:
+
+> The field of economics is muddled and imprecise, and there’s good reason it’s called “the dismal science.” Unlike a "real" science like physics, in economics there are no rules that one can count on to consistently produce a given outcome, as in “if a, then b.” There are only patterns that tend to repeat, and while they may be historical, logical and often-observed, they’re still only tendencies.  
+> -- Howard Marks ["Uncertainty" memo](https://www.oaktreecapital.com/docs/default-source/memos/uncertainty.pdf)
+
+> Overconfidence .. the most significant of the cognitive biases.  
+> -- Daniel Kahneman in Thinking Fast and Slow book
+
 Life is a game with [incomplete and imperfect information](https://en.wikipedia.org/wiki/Complete_information#Complete_versus_perfect_information), so decisions under uncertainty require confidence intervals estimation.
+
+_**Known knowns**_ refer to a high level of confidence, yet [overconfidence](https://en.wikipedia.org/wiki/Overconfidence_effect) is _the most significant of the cognitive biases_.
 
 _**Known unknowns**_ refer to considered "risks" under [estimated](https://en.wikipedia.org/wiki/Risk_assessment) uncertainty so it can be [managed](https://en.wikipedia.org/wiki/Risk_management)
 
 _**Unknown unknowns**_ refer to risks invisible, unconsidered and unestimated e.g. [Black Swans](https://en.wikipedia.org/wiki/Black_swan_theory)
 
+_**Unknown knowns**_ refer to cognitive bias of self-denial to accept facts
 
 
 ##### Strategy
