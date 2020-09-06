@@ -301,8 +301,12 @@ Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large c
 > The field of economics is muddled and imprecise, and there’s good reason it’s called “the dismal science.” Unlike a "real" science like physics, in economics there are no rules that one can count on to consistently produce a given outcome, as in “if a, then b.” There are only patterns that tend to repeat, and while they may be historical, logical and often-observed, they’re still only tendencies.  
 > -- Howard Marks ["Uncertainty" memo](https://www.oaktreecapital.com/docs/default-source/memos/uncertainty.pdf)
 
+> .. a lot of that extrapolation – and just about all the rest of our conclusions – consists of what Lipsitch calls opinion or speculation and what I call guesswork. (George Bernard Shaw said, “All professions are conspiracies against the laity.” Thus the rules of the investment profession seem to require that its members describe their views about the future using highsounding terms like “analysis,” “assessment,” “projection,” “prediction” and “forecast.” Rarely do we see the word “guess.”)  
+> -- Howard Marks Memo: [Knowledge Of The Future](https://www.oaktreecapital.com/docs/default-source/memos/knowledge-of-the-future.pdf)
+
 > Overconfidence .. the most significant of the cognitive biases.  
 > -- Daniel Kahneman in Thinking Fast and Slow book
+
 
 Life is a game with [incomplete and imperfect information](https://en.wikipedia.org/wiki/Complete_information#Complete_versus_perfect_information), so decisions under uncertainty require confidence intervals estimation.
 
