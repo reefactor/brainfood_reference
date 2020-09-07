@@ -244,6 +244,9 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap between domains b
 
 > [Deliberate practice](https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice) makes perfect
 
+> Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny  
+> — Mahatma Gandhi
+
 > Our character, basically, is a composite of our habits. “Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny,” the maxim goes  
 > ― Stephen R. Covey, The 7 Habits of Highly Effective People
 
@@ -295,9 +298,6 @@ Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large c
 > People can foresee the future only when it coincides with their own wishes, and the most grossly obvious facts can be ignored when they are unwelcome  
 > -- George Orwell
 
-> It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so  
-> -- Mark Twain, but also to several others:
-
 > The field of economics is muddled and imprecise, and there’s good reason it’s called “the dismal science.” Unlike a "real" science like physics, in economics there are no rules that one can count on to consistently produce a given outcome, as in “if a, then b.” There are only patterns that tend to repeat, and while they may be historical, logical and often-observed, they’re still only tendencies.  
 > -- Howard Marks ["Uncertainty" memo](https://www.oaktreecapital.com/docs/default-source/memos/uncertainty.pdf)
 
@@ -309,6 +309,14 @@ Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large c
 
 
 _**Known knowns**_ refer to a high level of confidence, yet [overconfidence](https://en.wikipedia.org/wiki/Overconfidence_effect) is _the most significant of the cognitive biases_.
+
+> It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so  
+> -- Mark Twain, but also to several others:
+
+People with low ability at a task [overestimate their ability (Dunning–Kruger effect
+)](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) at the same time high-achievers suffer from opposite cognitive bias - [underestimate themselves (impostor syndrome)
+](https://en.wikipedia.org/wiki/Impostor_syndrome)
+
 
 _**Known unknowns**_ refer to considered "risks" under [estimated](https://en.wikipedia.org/wiki/Risk_assessment) uncertainty so it can be [managed](https://en.wikipedia.org/wiki/Risk_management)
 
