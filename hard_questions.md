@@ -33,3 +33,6 @@ Seneca answers in [On Providence essae](https://en.wikipedia.org/wiki/De_Provide
 ### How and Why Inertial Mass and Gravitational Mass are Equal?
 
 ### [Why planes stay in the air](https://www.scientificamerican.com/article/no-one-can-explain-why-planes-stay-in-the-air/)
+
+### Why only the worst cynical people get to the top in politics?
+
