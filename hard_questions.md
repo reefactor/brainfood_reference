@@ -17,6 +17,7 @@
 
 ### What's outside the simulation? (Elon Musk's question to AGI)
 
+
 ### Why is there evil in the world? Why is there suffering?
 [Theodicy](https://en.wikipedia.org/wiki/Theodicy) is the default answer
 
@@ -24,6 +25,8 @@ Seneca answers in [On Providence essae](https://en.wikipedia.org/wiki/De_Provide
 
 > So, monotheism explains order, but is mystified by evil. Dualism explains evil,  but is puzzled by order. There is one logical way of solving the riddle: to argue  that there is a single omnipotent God who created the entire universe – and He’s  evil. But nobody in history has had the stomach for such a belief.. The average Christian believes in the monotheist God, but  also in the dualist Devil, in polytheist saints, and in animist ghosts  
 > -- Noah Harrari. Sapiens. 
+
+[Congenital inclination to do evil - 'yetzer hara' (Hebrew: יֵצֶר הַרַע)](https://en.wikipedia.org/wiki/Yetzer_hara)
 
 
 ### Simple criteria to distinguish live matter vs dead matter
