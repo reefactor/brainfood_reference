@@ -191,7 +191,6 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 > -- Paul Graham
 
 
-
 Iterate and refine models to sharp your [decision making skills](#decisions) 
 
 Make continuous incremental improvements - [Kaizen (改善)](https://en.wikipedia.org/wiki/Kaizen))
@@ -258,7 +257,7 @@ Understand your [circle of competence](https://fs.blog/2013/12/circle-of-compete
 
 Push yourself out of comfort zone, keep [Bruce Lee's "Broken rhythm"](https://brucelee.com/podcast-blog/2018/3/21/90-broken-rhythm)
 
-Study the ["Kierkegaard's School of Anxiety"](https://academyofideas.com/2018/02/soren-kierkegaard-psychology-anxiety/)
+Embrace the ["Kierkegaard's School of Anxiety"](https://academyofideas.com/2018/02/soren-kierkegaard-psychology-anxiety/)
 
 Expertise requires going from unconscious incompetence to conscious incompetence to conscious competence and finally to unconscious competence.
 
@@ -331,12 +330,10 @@ _**Unknown unknowns**_ refer to risks invisible, unconsidered and unestimated e.
 
 > It is far easier to figure out if something is fragile than to predict the occurrence of an event that may harm it. Fragility can be measured; risk is not measurable (outside of casinos or the minds of people who call themselves “risk experts”). This provides a solution to what I’ve called the Black Swan problem— the impossibility of calculating the risks of consequential rare events and predicting their occurrence. Sensitivity to harm from volatility is tractable, more so than forecasting the event that would cause the harm. So we propose to stand our current approaches to prediction, prognostication, and risk management on their heads.
 
-> .. we can almost always detect antifragility (and fragility) using a simple test of asymmetry : **anything that has more upside than downside from random events (or certain shocks) is antifragile; the reverse is fragile**.
-
+> .. we can almost always detect antifragility (and fragility) using a simple test of asymmetry : **anything that has more upside than downside from random events (or certain shocks) is antifragile; the reverse is fragile**  
 > --  Nassim Taleb in Antifragile: Things That Gain from Disorder
 
 Antifragility is the antidote to [Black Swans](https://en.wikipedia.org/wiki/Black_swan_theory).
-
 
 
 _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts - [evidence that challenges prior belief system](https://en.wikipedia.org/wiki/Bayes%27_theorem)
@@ -368,11 +365,22 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > How you do anything is how you do everything
 > -- T. Harv Eker / Secrets of the Millionaire Mind book
 
+> Inspiration is for amateurs while the rest of us just show up and get to work  
+> -- Chuck Close
+
+Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/habits-vs-goals/).
+
+###### Habbits
+
+> First we make our habits, then our habits make us  
+> — Charles C. Nobel
+
 > Humans are basically habit machines… I think learning how to break habits is actually a very important meta skill and can serve you in life almost better than anything else
 > -- Naval Ravikant
 
-> Inspiration is for amateurs while the rest of us just show up and get to work  
-> -- Chuck Close
+> Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do)  
+> — Stephen Covey
+
 
 ###### Morning ritual
 > End your day thinking about an important question MIQ and then wake up the next morning (pre-input, before checking your phone or any news) and brainstorm on it  
@@ -422,7 +430,6 @@ with [Matthew Walker](https://www.sleepdiplomat.com/speaker), Ph.D, Sleep Scient
 Очень часто сила, свет этих народных указаний выручала меня, подбадривала, наставляла, утешала.  
 > ― Александр Солженицын
 
-Comming soon ..
 
 
 ### Limitations of language
