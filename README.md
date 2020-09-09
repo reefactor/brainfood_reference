@@ -116,7 +116,7 @@ despite of the [Limitations of language](#limitations-of-language)
 #### Strategy 
 - [Stratechery by Ben Thompson on the business, strategy, and impact of technology](https://stratechery.com)
 - [Benedict Evans newsletter](http://ben-evans.com/newsletter/)
-
+- [Timeless concepts by Jim Collins](https://www.jimcollins.com/concepts.html) from more than 25 years of rigorous research into the question of what makes great companies tick
 
 #### Listen and Learn
 
