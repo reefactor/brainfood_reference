@@ -251,7 +251,7 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap between domains b
 
 > There are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know
 
-Build hierarhical [decision policy](#decisions) function: Values -> [Strategy](#strategy) -> [Tactics](#tactics) -> [Routine](#routine)
+Build hierarhical [decision policy](#decisions) function: [Values](#values) -> [Strategy](#strategy) -> [Tactics](#tactics) -> [Routine](#routine)
 
 Understand your [circle of competence](https://fs.blog/2013/12/circle-of-competence/) expanding into next [near development zone](https://en.wikipedia.org/wiki/Zone_of_proximal_development)  to ballance [exploration–exploitation tradeoff dilemma](https://en.wikipedia.org/wiki/Multi-armed_bandit)
 
@@ -261,6 +261,115 @@ Embrace the ["Kierkegaard's School of Anxiety"](https://academyofideas.com/2018/
 
 Expertise requires going from unconscious incompetence to conscious incompetence to conscious competence and finally to unconscious competence.
 
+
+##### Values
+
+> You've got to serve somebody - Bob Dylan
+
+> Principles are like lighthouses. They are natural laws that cannot be broken  
+> ― Stephen R. Covey, The 7 Habits of Highly Effective People
+
+> Values are most important, abilities come next, and skills are the least important. Yet most people make the mistake of choosing skills and abilities first and overlooking values. It is important for you to know what mix of qualities is important to ﬁt each role and, more broadly, what values and abilities are required in people with whom you can have successful relationships. In picking people for long-term relationships  
+> -- Ray Dalio
+
+> Of course if we make good things, it is not only to the credit of science; it is also to the credit of the moral choice which led us to good work. Scientific knowledge is an enabling power to do either good or bad — but it does not carry instructions on how to use it. Such power has evident value — even though the power may be negated by what one does with it.
+>  To every man is given the key to the gates of heaven; the same key opens the gates of hell.
+(Proverb of the Buddhist religion)
+> What then, is the value of the key to heaven? It is true that if we lack clear instructions that enable us to determine which is the gate to heaven and which the gate to hell, the key may be a dangerous object to use. But the key obviously has value: how can we enter heaven without it?  
+> -- Richard Feynman on [value of science and moral choice](https://www.brainpickings.org/2013/07/19/richard-feynman-science-morality-poem/)
+
+> If you can figure your life so that what you're genually doing is aiming to the highest possible good then the things that you need to survive and to thrive on a daily base will deliver themselves to you...
+> If you dare to do the most difficult thing that you can conceptualize your life will work out better that it will if you do anything else. Well how do you find out if that's true, its a Kierkegaardian's Leap of Faith, there's no way to find out unless you do it, so no one can tell you either because if it works for some else, that's no proof that it;ll work for you. You have to be all-in in this game...
+> If you manifest yourself properly in the world that those things will come your way."
+> I've watched people operate in the world and I would say that There's no more effective way of operating than to conceptualize the highest good that you can and strive to attain it. There's no more practical way to a kind of success you would new if you only knew what success is"
+> -- Jordan B Peterson [Biblical Series VII](https://www.youtube.com/watch?v=6gFjB9FTN58&index=7&list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)
+
+> Life is suffering and if you say it meaningless then your suffering is meaningless dumb and reckless. Find higher purpose and goal to suffer  
+> -- Jordan B Peterson
+
+> Nature loves courage. You make the commitment and nature will respond to that commitment by removing impossible obstacles. Dream the impossible dream and the world will not grind you under, it will lift you up. This is the trick. This is what all these teachers and philosophers who really counted, who really touched the alchemical gold, this is what they understood. This is the shamanic dance in the waterfall. This is how magic is done. By hurling yourself into the abyss and discovering it’s a feather bed  
+> -- Terence McKenna
+
+* [This is watter](https://www.youtube.com/watch?v=8CrOL-ydFMI) [speech](https://en.wikipedia.org/wiki/This_Is_Water) by David Foster Wallace
+* [Maps of Meaning The Architecture of Belief](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h) by Jordan B Peterson
+* [The 25 Principles for Adult Behavior](http://www.openculture.com/2018/02/the-25-principles-for-adult-behavior.html) by John Perry Barlow
+
+Choose axiomatic set of Principles and derrive values, beliefs, meaning, purpose, goals, incentives.
+
+
+##### Strategy
+> Everybody has a plan until they get punched in the mouth  
+> -- Mike Tyson
+
+> Plans are worthless, but planning is everything. There is a very great distinction because when you are planning for an emergency you must start with this one thing: the very definition of "emergency" is that it is unexpected, therefore it is not going to happen the way you are planning.
+> — Dwight D. Eisenhower
+
+##### Tactics
+> The abstract summary of your actions is your strategy; what you'll do to implement the strategy is your tactics. Frequently, a strategy at one managerial level is the tactical concern of the next higher level.
+> — Andy Grove (High Output Management)
+
+> Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.
+> — Sun Tzu
+
+
+##### Routine
+
+> Nulla dies sine linea
+
+> True greatness consists of being great in little things. 
+> -- Charles Simmons
+
+> How you do anything is how you do everything
+> -- T. Harv Eker / Secrets of the Millionaire Mind book
+
+> Inspiration is for amateurs while the rest of us just show up and get to work  
+> -- Chuck Close
+
+Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/habits-vs-goals/).
+
+###### Habbits
+
+> First we make our habits, then our habits make us  
+> — Charles C. Nobel
+
+> Humans are basically habit machines… I think learning how to break habits is actually a very important meta skill and can serve you in life almost better than anything else
+> -- Naval Ravikant
+
+> Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do)  
+> — Stephen Covey
+
+
+###### Morning ritual
+> End your day thinking about an important question MIQ and then wake up the next morning (pre-input, before checking your phone or any news) and brainstorm on it  
+> -- Josh Waitzkin
+
+* [Sleep well](#sleep)
+* Warm / cold shower + [Wim Hof method](https://www.wimhofmethod.com/practice-the-method) breathing technique
+* Meditate - brush your mind, contemplate ideas. break rumination
+* Morning journaling (Seneca)
+* Daily [Blinkist](https://www.blinkist.com/) blink
+* Commute [podcasts](#listen-and-learn)
+* Daily [Pocket](https://getpocket.com/) article
+* Book chunk - [Bill Gates routinely reads 50 books per year](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year)
+* Inbox zero
+* Deep work - non-interrupted mode in "creative cave" - [ballance schedule](https://fs.blog/2017/12/maker-vs-manager/) ([Maker's Schedule, Manager's Schedule ](http://www.paulgraham.com/makersschedule.html))
+* Afternoon nap
+
+###### Zoom out
+* Weekly retrospective
+* Monthly retrospective
+* Annual retrospective
+
+Automate repetitive tasks to free time for creative process
+
+###### Sleep
+
+Sleep is underrated in modern culture, yet is essential cognitive performance and memory consolidation. Sleep deprivation has detrimental effects on mental health. 
+Listen to interview 
+[Part 1](https://peterattiamd.com/matthewwalker1/),
+[Part 2](https://peterattiamd.com/matthewwalker2/),
+[Part 3](https://peterattiamd.com/matthewwalker3/),
+with [Matthew Walker](https://www.sleepdiplomat.com/speaker), Ph.D, Sleep Scientist for Google.
 
 
 ##### Decisions
@@ -337,82 +446,6 @@ Antifragility is the antidote to [Black Swans](https://en.wikipedia.org/wiki/Bla
 
 
 _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts - [evidence that challenges prior belief system](https://en.wikipedia.org/wiki/Bayes%27_theorem)
-
-
-
-##### Strategy
-> Everybody has a plan until they get punched in the mouth  
-> -- Mike Tyson
-
-> Plans are worthless, but planning is everything. There is a very great distinction because when you are planning for an emergency you must start with this one thing: the very definition of "emergency" is that it is unexpected, therefore it is not going to happen the way you are planning.
-> — Dwight D. Eisenhower
-
-##### Tactics
-> The abstract summary of your actions is your strategy; what you'll do to implement the strategy is your tactics. Frequently, a strategy at one managerial level is the tactical concern of the next higher level.
-> — Andy Grove (High Output Management)
-
-> Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.
-> — Sun Tzu
-
-
-##### Routine
-
-> Nulla dies sine linea
-
-> True greatness consists of being great in little things. 
-> -- Charles Simmons
-
-> How you do anything is how you do everything
-> -- T. Harv Eker / Secrets of the Millionaire Mind book
-
-> Inspiration is for amateurs while the rest of us just show up and get to work  
-> -- Chuck Close
-
-Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/habits-vs-goals/).
-
-###### Habbits
-
-> First we make our habits, then our habits make us  
-> — Charles C. Nobel
-
-> Humans are basically habit machines… I think learning how to break habits is actually a very important meta skill and can serve you in life almost better than anything else
-> -- Naval Ravikant
-
-> Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do)  
-> — Stephen Covey
-
-
-###### Morning ritual
-> End your day thinking about an important question MIQ and then wake up the next morning (pre-input, before checking your phone or any news) and brainstorm on it  
-> -- Josh Waitzkin
-
-* [Sleep well](#sleep)
-* Warm / cold shower + [Wim Hof method](https://www.wimhofmethod.com/practice-the-method) breathing technique
-* Meditate - brush your mind, contemplate ideas. break rumination
-* Morning journaling (Seneca)
-* Daily [Blinkist](https://www.blinkist.com/) blink
-* Commute [podcasts](#listen-and-learn)
-* Daily [Pocket](https://getpocket.com/) article
-* Book chunk - [Bill Gates routinely reads 50 books per year](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year)
-* Inbox zero
-* Deep work - non-interrupted mode in "creative cave" - [ballance schedule](https://fs.blog/2017/12/maker-vs-manager/) ([Maker's Schedule, Manager's Schedule ](http://www.paulgraham.com/makersschedule.html))
-* Afternoon nap
-
-###### Zoom out
-* Weekly retrospective
-* Monthly retrospective
-* Annual retrospective
-
-Automate repetitive tasks to free time for creative process
-
-###### Sleep
-
-Sleep is underrated in modern culture, yet is essential cognitive performance and memory consolidation. Sleep deprivation has detrimental effects on mental health. 
-Listen to interview 
-[Part 1](https://peterattiamd.com/matthewwalker1/),
-[Part 2](https://peterattiamd.com/matthewwalker2/),
-[Part 3](https://peterattiamd.com/matthewwalker3/),
-with [Matthew Walker](https://www.sleepdiplomat.com/speaker), Ph.D, Sleep Scientist for Google.
 
 
 ### Pointers of Truth
