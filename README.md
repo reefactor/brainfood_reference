@@ -374,6 +374,10 @@ with [Matthew Walker](https://www.sleepdiplomat.com/speaker), Ph.D, Sleep Scient
 
 ##### Decisions
 
+> The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.
+One should, for example, be able to see that things are hopeless and yet be determined to make them otherwise. This philosophy fitted on to my early adult life, when I saw the improbable, the implausible, often the "impossible," come true.”  
+> ― F. Scott Fitzgerald, The Crack-Up
+
 There're lots of frameworks and tools for [decision making](https://fs.blog/smart-decisions/)
 
 Strategy for triaging:
