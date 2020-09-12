@@ -344,7 +344,7 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 > -- Josh Waitzkin
 
 * [Sleep well](#sleep)
-* Warm / cold shower + [Wim Hof method](https://www.wimhofmethod.com/practice-the-method) breathing technique
+* Warm / cold shower + [Wim Hof method](https://www.wimhofmethod.com/practice-the-method) breathing
 * Meditate - brush your mind, contemplate ideas. break rumination
 * Morning journaling (Seneca)
 * Daily [Blinkist](https://www.blinkist.com/) blink
@@ -355,12 +355,14 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 * Deep work - non-interrupted mode in "creative cave" - [ballance schedule](https://fs.blog/2017/12/maker-vs-manager/) ([Maker's Schedule, Manager's Schedule ](http://www.paulgraham.com/makersschedule.html))
 * Afternoon nap
 
+[Wim Hof breathing technique](https://en.wikipedia.org/wiki/Wim_Hof#Breathing) is a secular kind of hyperventilation [breathwork](https://en.wikipedia.org/wiki/Breathwork)
+ known in [Kriya Yoga pranayama](https://en.wikipedia.org/wiki/Kriya_Yoga) vedic tradition and has been taken to extreme by Stanislav Grof in [Holotropic Breathwork](https://en.wikipedia.org/wiki/Holotropic_Breathwork) practice.
+
 ###### Zoom out
 * Weekly retrospective
 * Monthly retrospective
 * Annual retrospective
 
-Automate repetitive tasks to free time for creative process
 
 ###### Sleep
 
