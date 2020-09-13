@@ -388,7 +388,9 @@ Strategy for triaging:
 * [Reversible vs Consequential](https://fs.blog/2018/09/decision-matrix/) quadrants by Farnam Street
 
 Learn from feedback
-* Quality: [difference between Bad Luck and Dump Luck](https://fs.blog/2012/10/bad-things-good-decisions/) known as Decision or Process / Outcome quadrants
+* Quality: [difference between Bad Luck and Dump Luck](https://fs.blog/2012/10/bad-things-good-decisions/) known as Decision or Process / Outcome quadrants.
+Good decisions not always give great outcome. But consistent on average, cycle of great results get compound [Return on Luck](https://www.jimcollins.com/concepts/return-on-luck.html)
+
 * [False positives and false negatives](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors) in Type I and II error in Scientific hypothesis testing
 
 Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large cost of failure) VS Startup risk-taking mentality (fail-fast, large benefits from success).
