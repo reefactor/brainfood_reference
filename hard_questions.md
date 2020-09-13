@@ -39,6 +39,6 @@ Seneca answers in [On Providence essae](https://en.wikipedia.org/wiki/De_Provide
 
 ### Why only the worst cynical people get to the top in politics?
 
-### How to measure Purva Punya ?
+### How to quantify Purva Punya?
 
 
