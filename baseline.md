@@ -1,4 +1,5 @@
-### _If I have seen further it is by_ [_standing on ye shoulders of Giants_](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) (Sir Isaac Newton)
+> If I have seen further it is by [standing on ye shoulders of Giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants)  
+> -- Sir Isaac Newton
 
 - Critical Mass: How One Thing Leads to Another by Philip Ball 
 - My Early Life by Winston Churchill
