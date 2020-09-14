@@ -24,7 +24,9 @@
 - Gödel's incompleteness theorems
 - A History of Western Philosophy by Bertrand Russell
 - An Introduction to Indian Philosophy by Satishchandra Chatterjee
+- Bhagavad Gita
 - Yoga Vasistha
+- Yoga sutras of Patanjali
 - Siddhartha by Hermann Hesse
 - Society of the Spectacleby Guy Debord
 - Thus Spoke Zarathustra by Friedrich Nietzsche
