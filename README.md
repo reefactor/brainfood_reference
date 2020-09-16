@@ -20,6 +20,7 @@ as [support vectors](https://en.wikipedia.org/wiki/Support_vector_machine) in un
 to explore the Limits of Human Knowledge
 despite of the [Limitations of language](#limitations-of-language)
 5. Ask [Hard Questions](hard_questions.md)
+6. [Introspect](#introspect)
 
 ***
 
@@ -455,6 +456,42 @@ Antifragility is the antidote to [Black Swans](https://en.wikipedia.org/wiki/Bla
 
 
 _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts - [evidence that challenges prior belief system](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+
+
+### Introspect
+
+> We don’t see things as they are, but as we are  
+> — Anaïs Nin
+
+> All of human unhappiness comes from one single thing: not knowing how to remain at rest in a room  
+> — Blaise Pascal
+
+> Empty your mind, be water my friend  
+> -- Bruce Lee
+
+#### Transcend
+> We cannot become what we need to be by remaining what we are  
+>  -- Max de Pree
+
+> One can choose to go back toward safety or forward toward growth. Growth must be chosen again and again; fear must be overcome again and again  
+> ― Abraham Maslow
+
+> You must be ready to burn yourself in your own flame; how could you rise anew if you have not first become ashes?  
+> -- Nietzsche, Thus Spoke Zarathustra
+
+> Thus it can be seen that mental health is based on a certain degree of tension, the tension between what one has already achieved and what one still ought to accomplish, or the gap between what one is and what one should become. Such a tension is inherent in the human being and therefore is indispensable to mental well-being  
+> -- Victor Frankl
+
+> It is a fundamental law of nature that to evolve one has to push one’s limits, which is painful, in order to  gain strength—whether it’s in the form of lifting weights, facing problems head-on, or in any other way  
+> -- Ray Dalio, Principles
+
+> When once you have tasted flight, you will forever walk the earth with your eyes turned skyward, for there you have been and there you will always long to return   
+> -- Leonardo da Vinci
+
+
+[Second Self](https://www.youtube.com/watch?v=U0BmtjNgOak) ritual in "fixed role therapy".
+
+Cage [monkey mind](https://en.wikipedia.org/wiki/Monkey_mind).
 
 
 ### Pointers of Truth
