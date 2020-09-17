@@ -17,8 +17,7 @@
 for better [reasoning](#reasoning) along the [Lifelong Learning](https://fs.blog/learning/) way
 4. Navigate [Pointers of Truth](#pointers-of-truth)
 as [support vectors](https://en.wikipedia.org/wiki/Support_vector_machine) in uncertainty
-to explore the Limits of Human Knowledge
-despite of the [Limitations of language](#limitations-of-language)
+to explore the limits of human knowledge despite the [limitations of language](#limitations-of-language)
 5. Ask [Hard Questions](hard_questions.md)
 6. [Introspect](#introspect)
 
