@@ -41,4 +41,8 @@ Seneca answers in [On Providence essae](https://en.wikipedia.org/wiki/De_Provide
 
 ### How to quantify Purva [Punya](https://en.wikipedia.org/wiki/Punya)?
 
+### Quis custodiet ipsos custodes?
+
+[Equiveillance](https://en.wikipedia.org/wiki/Equiveillance) ?
+
 
