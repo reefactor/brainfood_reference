@@ -232,6 +232,14 @@ So, in highly competitive zero-sum game, the Winner-Takes-All in ~rat race~[Red 
 
 Single crossdomain B+ speciallist is better than 2 A+ with gap between domains because of the communication overhead.
 
+#### Common sense
+> Common sense is nothing but a collection of misconceptions acquired by age 18  
+> -- Einstein
+
+> Bet against the consensus (asymmetric bets, being entrepreneur)  
+> -- Ray Dalio
+
+Challenge beliefs & persist. Disagree & commit. Make asymmetric bets.
 
 
 ####  Reasoning
