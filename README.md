@@ -495,6 +495,14 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > When once you have tasted flight, you will forever walk the earth with your eyes turned skyward, for there you have been and there you will always long to return   
 > -- Leonardo da Vinci
 
+> What a man can be, he must be  
+> -- Abraham Maslow in [Motivation and personality](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#cite_note-Maslow,_A._1954-5)
+
+
+The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
+same as human forebrain cortex depends on midbrain infrastructure, 
+same as human consciousness is powerless against orders of endocrine system programs.
+
 
 [Second Self](https://www.youtube.com/watch?v=U0BmtjNgOak) ritual in "fixed role therapy".
 
