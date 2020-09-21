@@ -532,7 +532,12 @@ Cage [monkey mind](https://en.wikipedia.org/wiki/Monkey_mind).
 
 > -- Chan Buddhist scripture [Platform Sutra](https://www.quora.com/Does-the-saying-When-the-sage-points-at-the-moon-the-fool-looks-at-the-finger-really-have-Chinese-origins)
 
-Always be aware that Symbolic System is [a map which is not the territory it represents](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
+> Wisdom cannot be passed on. Wisdom that a wise man attempts to pass on always sounds like foolishness..  
+> .. One can pass on knowledge but not wisdom. One can find wisdom, one can live it, one can be supported by it, one can work wonders with it, but one cannot speak it or teach it. I sometimes suspected this even as a youth; it is what drove me from my teachers..   
+> .. Words do no justice to the hidden meaning. Everything immediately becomes slightly different when it is expressed in words, a little bit distorted, a little foolish. And that too is good and pleases me very much. It is perfectly fine with me that what for one man is precious wisdom for another sounds like a foolery.  
+> -- Hermann Hesse in Siddhartha.
+
+Symbolic System is [a map, not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation) it represents.
 
 
 ## Reviews
