@@ -69,6 +69,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 * [The Quanta Magazine](https://www.quantamagazine.org/)
 * [Книга новостей](https://kniganews.org)
 * [Wait but why](http://waitbutwhy.com)
+* [Сергей Карелов - Малоизвестное интересное на стыке науки, технологий, бизнеса и общества](https://medium.com/@sergey_57776)
 
 #### ψυχή
 - [Brain Pickings by Maria Popova: Weekly Newsletter](https://www.brainpickings.org)
