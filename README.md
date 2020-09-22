@@ -477,11 +477,21 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > -- Bruce Lee
 
 #### Transcend
-> We cannot become what we need to be by remaining what we are  
->  -- Max de Pree
+
+> The essentially self-transcendent quality of human existence renders man a being reaching out beyond himself  
+> -- Viktor Frankl, The will to meaning
+
+> What a man can be, he must be  
+> -- Abraham Maslow in [Motivation and personality](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#cite_note-Maslow,_A._1954-5)
 
 > One can choose to go back toward safety or forward toward growth. Growth must be chosen again and again; fear must be overcome again and again  
 > ― Abraham Maslow
+
+> It is a fundamental law of nature that to evolve one has to push one’s limits, which is painful, in order to  gain strength—whether it’s in the form of lifting weights, facing problems head-on, or in any other way  
+> -- Ray Dalio, Principles
+
+> We cannot become what we need to be by remaining what we are  
+>  -- Max de Pree
 
 > You must be ready to burn yourself in your own flame; how could you rise anew if you have not first become ashes?  
 > -- Nietzsche, Thus Spoke Zarathustra
@@ -489,14 +499,8 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > Thus it can be seen that mental health is based on a certain degree of tension, the tension between what one has already achieved and what one still ought to accomplish, or the gap between what one is and what one should become. Such a tension is inherent in the human being and therefore is indispensable to mental well-being  
 > -- Victor Frankl
 
-> It is a fundamental law of nature that to evolve one has to push one’s limits, which is painful, in order to  gain strength—whether it’s in the form of lifting weights, facing problems head-on, or in any other way  
-> -- Ray Dalio, Principles
-
 > When once you have tasted flight, you will forever walk the earth with your eyes turned skyward, for there you have been and there you will always long to return   
 > -- Leonardo da Vinci
-
-> What a man can be, he must be  
-> -- Abraham Maslow in [Motivation and personality](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#cite_note-Maslow,_A._1954-5)
 
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
