@@ -389,6 +389,16 @@ with [Matthew Walker](https://www.sleepdiplomat.com/speaker), Ph.D, Sleep Scient
 One should, for example, be able to see that things are hopeless and yet be determined to make them otherwise. This philosophy fitted on to my early adult life, when I saw the improbable, the implausible, often the "impossible," come true.”  
 > ― F. Scott Fitzgerald, The Crack-Up
 
+> You can’t tell the quality of a decision from the outcome...  
+> .. you make the best decision you can based on what you know, but the success
+of your decision will be heavily influenced by (a) relevant information you may lack and (b) luck or
+randomness. Because of these two factors, well-thought-out decisions may fail, and poor
+decisions may succeed. While it might seem counterintuitive, the best decision-maker isn’t
+necessarily the person with the most successes, but rather the one with the best process and
+judgment. The two can be far from the same, and especially over a small number of trials, it can be impossible to know who’s who  
+> -- Howard Marks memo: [You Bet](https://www.oaktreecapital.com/docs/default-source/memos/you-bet.pdf)
+
+
 There're lots of frameworks and tools for [decision making](https://fs.blog/smart-decisions/)
 
 Strategy for triaging:
@@ -446,6 +456,15 @@ People with low ability at a task [overestimate their ability (Dunning–Kruger 
 _**Known unknowns**_ refer to considered "risks" under [estimated](https://en.wikipedia.org/wiki/Risk_assessment) uncertainty so it can be [managed](https://en.wikipedia.org/wiki/Risk_management)
 
 Life is a game with [incomplete and imperfect information](https://en.wikipedia.org/wiki/Complete_information#Complete_versus_perfect_information), so people have developed frameworks to estimate confidence when [managing decisions under uncertainty](https://en.wikipedia.org/wiki/Risk_management).
+
+
+Three factors: hidden information, skill, and luck. 
+| Game | Hidden information | Skill | Luck |
+|---|---|---|---|
+| Chess      |   | X |   |
+| Roulette   |   |   | X |
+| Backgammon |   | X | X |
+| Blackjack, poker   | X  | X | X |
 
 
 _**Unknown unknowns**_ refer to risks invisible, unconsidered and unestimated e.g. [Black Swans](https://en.wikipedia.org/wiki/Black_swan_theory)
