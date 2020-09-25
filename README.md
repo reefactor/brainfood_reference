@@ -501,6 +501,9 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > The essentially self-transcendent quality of human existence renders man a being reaching out beyond himself  
 > -- Viktor Frankl, The will to meaning
 
+> Man's main task in life is to give birth to himself, to become what he potentially is. The most important product of his effort is his own personality  
+> ― Erich Fromm
+
 > What a man can be, he must be  
 > -- Abraham Maslow in [Motivation and personality](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs#cite_note-Maslow,_A._1954-5)
 
