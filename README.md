@@ -484,6 +484,12 @@ Antifragility is the antidote to [Black Swans](https://en.wikipedia.org/wiki/Bla
 
 _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts - [evidence that challenges prior belief system](https://en.wikipedia.org/wiki/Bayes%27_theorem)
 
+> The first principle is that you must not fool yourself- and you are the easiest person to fool  
+> -- Richard Feynman
+
+> Who has deceived thee so often as thy self  
+> -- Benjamin Franklin
+
 
 ### Introspect
 
@@ -524,6 +530,9 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 
 > When once you have tasted flight, you will forever walk the earth with your eyes turned skyward, for there you have been and there you will always long to return   
 > -- Leonardo da Vinci
+
+> If there is no further growth, then sunset is near  
+> -- Seneca
 
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
