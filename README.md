@@ -237,8 +237,15 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap between domains b
 > Common sense is nothing but a collection of misconceptions acquired by age 18  
 > -- Einstein
 
-> Bet against the consensus (asymmetric bets, being entrepreneur)  
+> Bet against the consensus (being entrepreneur)  
 > -- Ray Dalio
+
+> If you stop to think about it, a pari-mutuel system is a market. Everybody goes there and bets and the odds change based on what’s bet.. Any damn fool can see the horse carrying a light weight with a wonderful win rate and a good post position etc., is way more likely to win than a horse with a terrible record and extra weight and so on and so on. But if you look at the odds, the bad horse pays 100 to 1, whereas the good horse pays 3 to 2. Then it’s not clear which is statistically the best bet..  
+> -- The Art of Stock Picking by Charlie Munger
+
+> How could people miss such a point? Why do they confuse probability and expectation, that is, probability and probability times the payoff? Mainly because much of people's schooling comes from examples in symmetric environments, like a coin-toss, where such a difference does not matter. In fact the so-called "Bell Curve" that seems to have found universal use in society is entirely symmetric  
+> -- Fooled by Randomness Role of Chance in Markets and Life by Nassim Nicholas Taleb
+
 
 Challenge beliefs & persist. Disagree & commit. Make asymmetric bets.
 
