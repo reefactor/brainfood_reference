@@ -235,6 +235,33 @@ So, in highly competitive zero-sum game, the Winner-Takes-All in ~rat race~[Red 
 
 Single crossdomain B+ speciallist is better than 2 A+ with gap between domains because of the communication overhead.
 
+##### Golden mean
+
+[Golden mean or golden middle way](https://en.wikipedia.org/wiki/Golden_mean_(philosophy))
+is the desirable middle between two extremes, one of excess and the other of deficiency
+ 
+| Extreme | Golden middle way | Extreme |
+|---|---|---|
+| cowardice | courage | recklessness |
+| Ashe / Yang / Action | Effortless Action | Wu Wei / Yin / Inaction |
+| Generalist |  | Specialist |
+| fast thinking, 1st signal system |  | slow thinking, 2nd signal system |
+| a maniac constantly in a state of pleasure and cannot be satisfied |  | a hermit constantly in a state of satisfaction cannot experience pleasure |
+| Nihilist | Wave Surfer | Control-freak |
+| Privacy |   | Security |
+| Autocracy | Meritocracy | Democracy |
+| Divine supreme predestination - Daiva | ? | Freedom of personal will - Purushakara |
+| exploration |  | exploitation  |
+| testable falsifiable science |  | faith, dogma, axiom |
+| ascetic  | buddist middle way | hedonic |
+| eternalism | Buddhist [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)  | annihilationism |
+| creating (entrepreneurs) |  | running (manager) |
+| Divergent thinking (out of then box, creative) |  | convergent (focused) |
+| Wisdom of crowds  |  | consensus bias, common sense misconceptions |
+| Left hemisphere |  | Right hemisphere |
+| self-reliance |  | standing on a shoulder of giants |
+
+
 #### Common sense
 > Common sense is nothing but a collection of misconceptions acquired by age 18  
 > -- Einstein
@@ -247,7 +274,6 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap between domains b
 
 > How could people miss such a point? Why do they confuse probability and expectation, that is, probability and probability times the payoff? Mainly because much of people's schooling comes from examples in symmetric environments, like a coin-toss, where such a difference does not matter. In fact the so-called "Bell Curve" that seems to have found universal use in society is entirely symmetric  
 > -- Fooled by Randomness Role of Chance in Markets and Life by Nassim Nicholas Taleb
-
 
 Challenge beliefs & persist. Disagree & commit. Make asymmetric bets.
 
@@ -278,6 +304,7 @@ Push yourself out of comfort zone, keep [Bruce Lee's "Broken rhythm"](https://br
 Embrace the ["Kierkegaard's School of Anxiety"](https://academyofideas.com/2018/02/soren-kierkegaard-psychology-anxiety/)
 
 Expertise requires going from unconscious incompetence to conscious incompetence to conscious competence and finally to unconscious competence.
+
 
 
 ##### Values
