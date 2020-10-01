@@ -221,15 +221,17 @@ Accumulated [knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asym
 > A fox knows many things, but a hedgehog one important thing  
 > -- [greek poet Archilochus quoted by Isaiah Berlin to define a spectrum](https://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox)
 
-Move from I-shaped to T-shaped to Pi-Shaped to M-shaped individual yet be aware of [Jack of all trades, master of none](https://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none). The key here ballance factors:
+Move from I-shaped to T-shaped to Π-Shaped to M-shaped individual yet be aware of [Jack of all trades, master of none](https://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none). The key here ballance factors:
 * [The Pareto Principle in Learning – The 80:20 Rule](https://www.briantracy.com/blog/personal-success/how-to-use-the-80-20-rule-pareto-principle/) says that learning process isn't linear - you achieve 80% of result in the begining with only 20% of time. 
 * [Speed of Obsolescence of Knowledge and Skills](http://career.iresearchnet.com/career-development/obsolescence-of-knowledge-and-skills/) at some point on a learning curve become greater than speed of your learning so the latter 20% isn't worth it
 * M-shaped skills strategy gives exponential drop in competition among crossover experts with growth of M (Venn diagram of the overlap of M domains is exponentially small)
 * Skewed Pareto distributions come from a Normal Distribution + Power of Accumulative Advantage over time.
 Small differences multiplied by consistent performance accumulate disproportionate rewards over time.
 So, in highly competitive zero-sum game, the Winner-Takes-All in ~rat race~[Red Queen's race](https://fs.blog/2012/10/the-red-queen-effect/)
+* If I-shape is a result of [DFS](https://en.wikipedia.org/wiki/Depth-first_search) strategy and jack-of-all-trades - result of [BFS](https://en.wikipedia.org/wiki/Breadth-first_search) strategy of knowledge space traverse given limited number of steps (life time and energy), then optimal  shape is the [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) heuristic where Cost is proportional to depth and grows faster than the Value.
 
-[Crossover experts](https://www.wired.co.uk/article/deepmind-protein-folding) are Pi-shaped speciallists.
+
+[Crossover experts](https://www.wired.co.uk/article/deepmind-protein-folding) are Π-shaped speciallists.
 
 Single crossdomain B+ speciallist is better than 2 A+ with gap between domains because of the communication overhead.
 
