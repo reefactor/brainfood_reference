@@ -86,7 +86,7 @@
 - The Book of Ecclesiastes
 - Principles by Ray Dalio
 - The Success Principles by Jack Canfield
-
+- [Navalmanack](https://www.navalmanack.com/) The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
 
 ### Отечество
 - Парфенов - Намедни
