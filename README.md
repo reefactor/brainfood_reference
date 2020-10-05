@@ -44,6 +44,8 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [CS Baseline](baseline_cs.md)
 - [Collection of books & reviews](https://sive.rs/book) by Derek Sivers
 - [Список Бродского](brodsky-reading-list.md) / [Joseph Brodsky’s List](http://www.openculture.com/2013/11/joseph-brodskys-reading-list-for-having-an-intelligent-conversation.html)
+- [Naval's recommended reading](https://www.navalmanack.com/almanack-of-naval-ravikant/navals-recommended-reading)
+
 
 
 ### Streams
@@ -275,6 +277,11 @@ is the desirable middle between two extremes, one of excess and the other of def
 > How could people miss such a point? Why do they confuse probability and expectation, that is, probability and probability times the payoff? Mainly because much of people's schooling comes from examples in symmetric environments, like a coin-toss, where such a difference does not matter. In fact the so-called "Bell Curve" that seems to have found universal use in society is entirely symmetric  
 > -- Fooled by Randomness Role of Chance in Markets and Life by Nassim Nicholas Taleb
 
+> A contrarian isn’t one who always objects—that’s a conformist of a different sort. A contrarian reasons independently from the ground up and resists pressure to conform.  
+> Cynicism is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.  
+> -- The Almanack of Naval Ravikant
+
+
 Challenge beliefs & persist. Disagree & commit. Make asymmetric bets.
 
 
@@ -390,8 +397,8 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 > -- Josh Waitzkin
 
 * [Sleep well](#sleep)
-* Warm / cold shower + [Wim Hof method](https://www.wimhofmethod.com/practice-the-method) breathing
-* Meditate - brush your mind, contemplate ideas. break rumination
+* Warm / cold shower + [Wim Hof method](https://www.wimhofmethod.com/practice-the-method) breathing  (clean physical body)
+* Meditate - brush your mind, clean mental body, contemplate ideas, break rumination
 * Morning journaling (Seneca)
 * Daily [Blinkist](https://www.blinkist.com/) blink
 * Commute [podcasts](#listen-and-learn)
@@ -435,6 +442,12 @@ necessarily the person with the most successes, but rather the one with the best
 judgment. The two can be far from the same, and especially over a small number of trials, it can be impossible to know who’s who  
 > -- Howard Marks memo: [You Bet](https://www.oaktreecapital.com/docs/default-source/memos/you-bet.pdf)
 
+> Hard work is really overrated. How hard you work matters a lot less in the modern economy.  
+> What is underrated? Judgment. Judgment is underrated. Can you define judgment?  
+> My definition of **wisdom is knowing the long-term consequences of your actions. Wisdom applied to external problems is judgment. They’re highly linked; knowing the long-term consequences of your actions and then making the right decision to capitalize on that.**  
+> In an age of leverage, one correct decision can win everything. Without hard work, you’ll develop neither judgment nor leverage.  
+> You have to put in the time, but the judgment is more important  
+> -- The Almanack of Naval Ravikant
 
 There're lots of frameworks and tools for [decision making](https://fs.blog/smart-decisions/)
 
@@ -526,6 +539,9 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > Who has deceived thee so often as thy self  
 > -- Benjamin Franklin
 
+> One definition of a moment of suffering is “the moment when you see things exactly the way they are.” This whole time, you’ve been convinced your business is doing great, and really, you’ve ignored the signs it’s not doing well. Then, your business fails, and you suffer because you’ve been putting off reality. You’ve been hiding it from yourself  
+> -- The Almanack of Naval Ravikant
+
 
 ### Introspect
 
@@ -569,6 +585,9 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 
 > If there is no further growth, then sunset is near  
 > -- Seneca
+
+> Tension is who you think you should be. Relaxation is who you are  
+> — Buddhist saying
 
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
