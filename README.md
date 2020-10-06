@@ -256,7 +256,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | Nihilist | Wave Surfer | Control-freak |
 | Privacy |   | Security |
 | Autocracy | Meritocracy | Democracy |
-| Divine supreme predestination - Daiva | ? | Freedom of personal will - Purushakara |
+| Divine supreme predestination - Daiva | [???](https://github.com/reefactor/brain_food_reference/blob/master/hard_questions.md) | Freedom of personal will - Purushakara |
 | exploration |  | exploitation  |
 | testable falsifiable science |  | faith, dogma, axiom |
 | ascetic  | buddist middle way | hedonic |
