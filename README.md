@@ -156,6 +156,15 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > [A map is not the territory it represents](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation), but, if correct, it has a similar structure to the territory, which accounts for its usefulness  
 > —  Alfred Korzybski, Science and Sanity
 
+> To attain knowledge, add things everyday. To attain wisdom, remove things everyday  
+> -- Lao Zi
+
+> Warren and I are very good at destroying our own best-loved ideas. Any year that you don't destroy one of your best-loved ideas is probably a wasted year. Charlie likes the analogy of looking at one's ideas and approaches as "tools." When a better tool (idea or approach) comes along, what could be better than to swap it for your old, less useful tool? 'Warren and I routinely do this, but most people, as Galbraith says, forever cling to their old, less useful tools.
+> -- Poor Charlie's Almanack
+
+> Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when [life is short](http://www.paulgraham.com/vb.html).
+> -- Paul Graham
+
 
 [Mental models](https://fs.blog/mental-models/) help us perceive and navigate the _physical_ world with [sensory inputs](https://en.wikipedia.org/wiki/Perception#Types_of_perception)
 as well as our inner _mental realm_.
@@ -176,22 +185,17 @@ in order to create reasoning frameworks and to put them in toolboxes.
 
 And so there're [plenty of them online](https://www.google.com/search?q=mental+models)
 
-#### Gradient ascent along steep learning curve
+#### Steep gradient ascent along learning curve
 
-> To attain knowledge, add things everyday. To attain wisdom, remove things everyday  
-> -- Lao Zi
+> Run Uphill. Simple heuristic: If you’re evenly split on a difficult decision, take the path more painful in the short term.  
+> If you have two choices to make, and they’re relatively equal choices, take the path more difficult and more painful in the short term.  
+> What’s actually going on is one of these paths requires short-term pain. And the other path leads to pain further out in the future. And what your brain is doing through conflict-avoidance is trying to push off the short-term pain.  
+> By definition, if the two are even and one has short-term pain, that path has long-term gain associated. With the law of compound interest, long-term gain is what you want to go toward. Your brain is overvaluing the side with the short-term happiness and trying to avoid the one with short-term pain.  
+> So you have to cancel the tendency out (it’s a powerful subconscious tendency) by leaning into the pain. As you know, most of the gains in life come from suffering in the short term so you can get paid in the long term.  
+> -- The Almanack of Naval Ravikant
 
 > Most people overestimate what they can do in one year and underestimate what they can do in ten years.  
 > ― Bill Gates
-
-> Warren and I are very good at destroying our own best-loved ideas. Any year that you don't destroy one of your best-loved ideas is probably a wasted year. Charlie likes the analogy of looking at one's ideas and approaches as "tools." When a better tool (idea or approach) comes along, what could be better than to swap it for your old, less useful tool? 'Warren and I routinely do this, but most people, as Galbraith says, forever cling to their old, less useful tools.
-> -- Poor Charlie's Almanack
-
-> The second half of a man's life is made up of nothing but the habits he has acquired during the first half
-> ― Demons novel by Fyodor Dostoevsky
-
-> Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when [life is short](http://www.paulgraham.com/vb.html).
-> -- Paul Graham
 
 
 Iterate and refine models to sharp your [decision making skills](#decisions) 
@@ -390,6 +394,9 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 
 > Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do)  
 > — Stephen Covey
+
+> The second half of a man's life is made up of nothing but the habits he has acquired during the first half
+> ― Demons novel by Fyodor Dostoevsky
 
 
 ###### Morning ritual
