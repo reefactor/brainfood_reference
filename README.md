@@ -45,6 +45,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [Collection of books & reviews](https://sive.rs/book) by Derek Sivers
 - [Список Бродского](brodsky-reading-list.md) / [Joseph Brodsky’s List](http://www.openculture.com/2013/11/joseph-brodskys-reading-list-for-having-an-intelligent-conversation.html)
 - [Naval's recommended reading](https://www.navalmanack.com/almanack-of-naval-ravikant/navals-recommended-reading)
+- [Talk To Books](https://books.google.com/talktobooks/) by Google
 
 
 
