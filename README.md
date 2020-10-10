@@ -401,20 +401,23 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 
 
 ###### Morning ritual
-> End your day thinking about an important question MIQ and then wake up the next morning (pre-input, before checking your phone or any news) and brainstorm on it  
+> End your day thinking about an important question MIQ and then wake up the next morning and brainstorm on it  
 > -- Josh Waitzkin
 
 * [Sleep well](#sleep)
-* Warm / cold shower + [Wim Hof method](https://www.wimhofmethod.com/practice-the-method) breathing  (clean physical body)
-* Meditate - brush your mind, clean mental body, contemplate ideas, break rumination
-* Morning journaling (Seneca)
+* Warm / cold shower by [Wim Hof method cold-therapy](https://www.wimhofmethod.com/practice-the-method) (clean physical body)
+* Meditate with [Wim Hof breathwork](https://www.wimhofmethod.com/practice-the-method) - brush your mind, clean mental body, contemplate ideas, break rumination
+* Morning journaling / noting on meditations (Seneca)
 * Daily [Blinkist](https://www.blinkist.com/) blink
 * Commute [podcasts](#listen-and-learn)
 * Daily [Pocket](https://getpocket.com/) article
 * Book chunk - [Bill Gates routinely reads 50 books per year](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year)
 * Inbox zero
-* Deep work - non-interrupted mode in "creative cave" - [ballance schedule](https://fs.blog/2017/12/maker-vs-manager/) ([Maker's Schedule, Manager's Schedule ](http://www.paulgraham.com/makersschedule.html))
+* Deep work - non-interrupted mode in "creative cave" - [ballance schedule](https://fs.blog/2017/12/maker-vs-manager/) ([Maker's mode](http://www.paulgraham.com/makersschedule.html))
 * Afternoon nap
+* [Manager's mode](http://www.paulgraham.com/makersschedule.html)
+* Calm stressed mind with [Yoga Nidra](https://en.wikipedia.org/wiki/Yoga_nidra) recorded audio session
+
 
 [Wim Hof breathing technique](https://en.wikipedia.org/wiki/Wim_Hof#Breathing) is a secular kind of hyperventilation [breathwork](https://en.wikipedia.org/wiki/Breathwork)
  known in [Kriya Yoga pranayama](https://en.wikipedia.org/wiki/Kriya_Yoga) vedic tradition and has been taken to extreme by Stanislav Grof in [Holotropic Breathwork](https://en.wikipedia.org/wiki/Holotropic_Breathwork) practice.
