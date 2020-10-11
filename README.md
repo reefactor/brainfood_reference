@@ -242,6 +242,31 @@ So, in highly competitive zero-sum game, the Winner-Takes-All in ~rat race~[Red 
 
 Single crossdomain B+ speciallist is better than 2 A+ with gap between domains because of the communication overhead.
 
+
+#### Common sense
+> Common sense is nothing but a collection of misconceptions acquired by age 18  
+> -- Einstein
+
+> Bet against the consensus (being entrepreneur)  
+> -- Ray Dalio
+
+> If you stop to think about it, a pari-mutuel system is a market. Everybody goes there and bets and the odds change based on what’s bet.. Any damn fool can see the horse carrying a light weight with a wonderful win rate and a good post position etc., is way more likely to win than a horse with a terrible record and extra weight and so on and so on. But if you look at the odds, the bad horse pays 100 to 1, whereas the good horse pays 3 to 2. Then it’s not clear which is statistically the best bet..  
+> -- The Art of Stock Picking by Charlie Munger
+
+> How could people miss such a point? Why do they confuse probability and expectation, that is, probability and probability times the payoff? Mainly because much of people's schooling comes from examples in symmetric environments, like a coin-toss, where such a difference does not matter. In fact the so-called "Bell Curve" that seems to have found universal use in society is entirely symmetric  
+> -- Fooled by Randomness Role of Chance in Markets and Life by Nassim Nicholas Taleb
+
+> A contrarian isn’t one who always objects—that’s a conformist of a different sort. A contrarian reasons independently from the ground up and resists pressure to conform.  
+> Cynicism is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.  
+> -- The Almanack of Naval Ravikant
+
+> Much of the real world is controlled as much by the ‘tails’ of distributions as means or averages: by the exceptional, not the commonplace; by the catastrophe, not the steady drip…. 
+> We need to free ourselves from ‘average’ thinking  
+> -- Philip Anderson, 1997, Nobel Laureate in physics 
+
+Challenge beliefs & persist. Disagree & commit. Make asymmetric bets.
+
+
 ##### Golden mean
 
 [Golden mean or golden middle way](https://en.wikipedia.org/wiki/Golden_mean_(philosophy))
@@ -267,27 +292,6 @@ is the desirable middle between two extremes, one of excess and the other of def
 | Wisdom of crowds  |  | consensus bias, common sense misconceptions |
 | Left hemisphere |  | Right hemisphere |
 | self-reliance |  | standing on a shoulder of giants |
-
-
-#### Common sense
-> Common sense is nothing but a collection of misconceptions acquired by age 18  
-> -- Einstein
-
-> Bet against the consensus (being entrepreneur)  
-> -- Ray Dalio
-
-> If you stop to think about it, a pari-mutuel system is a market. Everybody goes there and bets and the odds change based on what’s bet.. Any damn fool can see the horse carrying a light weight with a wonderful win rate and a good post position etc., is way more likely to win than a horse with a terrible record and extra weight and so on and so on. But if you look at the odds, the bad horse pays 100 to 1, whereas the good horse pays 3 to 2. Then it’s not clear which is statistically the best bet..  
-> -- The Art of Stock Picking by Charlie Munger
-
-> How could people miss such a point? Why do they confuse probability and expectation, that is, probability and probability times the payoff? Mainly because much of people's schooling comes from examples in symmetric environments, like a coin-toss, where such a difference does not matter. In fact the so-called "Bell Curve" that seems to have found universal use in society is entirely symmetric  
-> -- Fooled by Randomness Role of Chance in Markets and Life by Nassim Nicholas Taleb
-
-> A contrarian isn’t one who always objects—that’s a conformist of a different sort. A contrarian reasons independently from the ground up and resists pressure to conform.  
-> Cynicism is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.  
-> -- The Almanack of Naval Ravikant
-
-
-Challenge beliefs & persist. Disagree & commit. Make asymmetric bets.
 
 
 ####  Reasoning
