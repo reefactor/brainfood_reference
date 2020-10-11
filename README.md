@@ -407,7 +407,7 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 * [Sleep well](#sleep)
 * Warm / cold shower by [Wim Hof method cold-therapy](https://www.wimhofmethod.com/practice-the-method) (clean physical body)
 * Meditate with [Wim Hof breathwork](https://www.wimhofmethod.com/practice-the-method) - brush your mind, clean mental body, contemplate ideas, break rumination
-* Morning journaling / noting on meditations (Seneca)
+* Morning journaling / notes on meditations (Seneca)
 * Daily [Blinkist](https://www.blinkist.com/) blink
 * Commute [podcasts](#listen-and-learn)
 * Daily [Pocket](https://getpocket.com/) article
@@ -422,10 +422,18 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 [Wim Hof breathing technique](https://en.wikipedia.org/wiki/Wim_Hof#Breathing) is a secular kind of hyperventilation [breathwork](https://en.wikipedia.org/wiki/Breathwork)
  known in [Kriya Yoga pranayama](https://en.wikipedia.org/wiki/Kriya_Yoga) vedic tradition and has been taken to extreme by Stanislav Grof in [Holotropic Breathwork](https://en.wikipedia.org/wiki/Holotropic_Breathwork) practice.
 
-###### Zoom out
-* Weekly retrospective
-* Monthly retrospective
-* Annual retrospective
+###### Weekly retrospective
+
+Notes grow over time. Merge notes into topics groups and prune bullshit. Groups form unstructured set of clusters.
+
+The multitude of relations between topics is incomprehensible for conscious mind to grasp.
+
+Accumulated knowledge graph can be _highlighted_ from a particular perspective (projection) with the 'spotlight of attention'. This spotlight structures subgraph in a tree (instant temporary [Mind maps](https://en.wikipedia.org/wiki/Mind_map))
+
+Trees of perspectives form a forest.
+Trees grow over time - relations weights grow from subjective life experience.
+
+Pruning trees is an essential part of active introspection, mental hygiene, since attention requires mental energy resources.
 
 
 ###### Sleep
