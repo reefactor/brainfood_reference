@@ -67,6 +67,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 
 > Tribe of mentors changes with you as you grow -- Tim Ferriss
 
+[**Hire people who are smarter than you.**](hire_people_smarter_than_you.md)
 
 #### φύσις
 * [The Quanta Magazine](https://www.quantamagazine.org/)
