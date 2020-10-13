@@ -390,7 +390,7 @@ Choose axiomatic set of Principles and derrive values, beliefs, meaning, purpose
 
 Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/habits-vs-goals/).
 
-###### Habbits
+###### Habits
 
 > First we make our habits, then our habits make us  
 > — Charles C. Nobel
@@ -403,6 +403,13 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 
 > The second half of a man's life is made up of nothing but the habits he has acquired during the first half
 > ― Demons novel by Fyodor Dostoevsky
+
+* Nulla dies sine **code** linea **commit**
+* Calm stressed mind with [Yoga Nidra](https://en.wikipedia.org/wiki/Yoga_nidra) recorded audio session
+
+Willpower requires conscious effort - energy inefficient. Habit is an automated unconscious process. 
+Willpower is for sprint, Habit is for marathon.
+Willpower is short-term tactics, Habit is for long-term strategy.
 
 
 ###### Morning ritual
@@ -421,7 +428,6 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 * Deep work - non-interrupted mode in "creative cave" - [ballance schedule](https://fs.blog/2017/12/maker-vs-manager/) ([Maker's mode](http://www.paulgraham.com/makersschedule.html))
 * Afternoon nap
 * [Manager's mode](http://www.paulgraham.com/makersschedule.html)
-* Calm stressed mind with [Yoga Nidra](https://en.wikipedia.org/wiki/Yoga_nidra) recorded audio session
 
 
 [Wim Hof breathing technique](https://en.wikipedia.org/wiki/Wim_Hof#Breathing) is a secular kind of hyperventilation [breathwork](https://en.wikipedia.org/wiki/Breathwork)
