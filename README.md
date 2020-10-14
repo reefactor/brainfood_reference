@@ -245,6 +245,9 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap between domains b
 
 
 #### Common sense
+> What important truth do very few people agree with you on ?
+> -- Peter Thiel, Zero to One
+
 > Common sense is nothing but a collection of misconceptions acquired by age 18  
 > -- Einstein
 
