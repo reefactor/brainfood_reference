@@ -158,16 +158,6 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > [A map is not the territory it represents](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation), but, if correct, it has a similar structure to the territory, which accounts for its usefulness  
 > —  Alfred Korzybski, Science and Sanity
 
-> To attain knowledge, add things everyday. To attain wisdom, remove things everyday  
-> -- Lao Zi
-
-> Warren and I are very good at destroying our own best-loved ideas. Any year that you don't destroy one of your best-loved ideas is probably a wasted year. Charlie likes the analogy of looking at one's ideas and approaches as "tools." When a better tool (idea or approach) comes along, what could be better than to swap it for your old, less useful tool? 'Warren and I routinely do this, but most people, as Galbraith says, forever cling to their old, less useful tools.
-> -- Poor Charlie's Almanack
-
-> Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when [life is short](http://www.paulgraham.com/vb.html).
-> -- Paul Graham
-
-
 [Mental models](https://fs.blog/mental-models/) help us perceive and navigate the _physical_ world with [sensory inputs](https://en.wikipedia.org/wiki/Perception#Types_of_perception)
 as well as our inner _mental realm_.
 
@@ -199,10 +189,24 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 > Most people overestimate what they can do in one year and underestimate what they can do in ten years.  
 > ― Bill Gates
 
+> To attain knowledge, add things everyday. To attain wisdom, remove things everyday  
+> -- Lao Zi
+
+> Warren and I are very good at destroying our own best-loved ideas. Any year that you don't destroy one of your best-loved ideas is probably a wasted year. Charlie likes the analogy of looking at one's ideas and approaches as "tools." When a better tool (idea or approach) comes along, what could be better than to swap it for your old, less useful tool? 'Warren and I routinely do this, but most people, as Galbraith says, forever cling to their old, less useful tools.
+> -- Poor Charlie's Almanack
+
+> Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when [life is short](http://www.paulgraham.com/vb.html).
+> -- Paul Graham
+
+> Simplicity is hacking away the unessential. — It is not daily increase but daily decrease — hack away the unessential! The closer to the source, the less wastage there is  
+> -- Bruce Lee
+
 
 Iterate and refine models to sharp your [decision making skills](#decisions) 
 
 Make continuous incremental improvements - [Kaizen (改善)](https://en.wikipedia.org/wiki/Kaizen))
+
+Use [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) when have competing models that make exactly the same predictions - the [simpler one is better](https://fs.blog/2019/10/occams-razor/). Follow [KISS principle](https://en.wikipedia.org/wiki/KISS_principle), keep models [as simple as possible, but not simpler](https://quoteinvestigator.com/2011/05/13/einstein-simple/). In the long term this prevents complexity growth, entangled and opaque structure.
 
 Accumulated [knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) yelds Power.
 
