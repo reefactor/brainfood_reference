@@ -626,6 +626,9 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > Tension is who you think you should be. Relaxation is who you are  
 > — Buddhist saying
 
+> To express yourself in freedom, you must die to everything of yesterday. From the ‘old’, you derive security; from the ‘new’, you gain the flow  
+> – Bruce Lee
+
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
 same as human forebrain cortex depends on midbrain infrastructure, 
