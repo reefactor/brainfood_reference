@@ -363,6 +363,7 @@ Expertise requires going from unconscious incompetence to conscious incompetence
 * [This is watter](https://www.youtube.com/watch?v=8CrOL-ydFMI) [speech](https://en.wikipedia.org/wiki/This_Is_Water) by David Foster Wallace
 * [Maps of Meaning The Architecture of Belief](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h) by Jordan B Peterson
 * [The 25 Principles for Adult Behavior](http://www.openculture.com/2018/02/the-25-principles-for-adult-behavior.html) by John Perry Barlow
+* [Live Your Life](https://www.goodreads.com/quotes/8909397-a-poem-by-tecumseh-so-live-your-life-that-the) poem by Chief [Tecumseh](https://en.wikiquote.org/wiki/Tecumseh)
 
 Choose axiomatic set of Principles and derrive values, beliefs, meaning, purpose, goals, incentives.
 
