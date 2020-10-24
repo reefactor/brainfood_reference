@@ -88,6 +88,7 @@
 - The Success Principles by Jack Canfield
 - [Navalmanack](https://www.navalmanack.com/) The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
 - Striking Thoughts: Bruce Lee's Wisdom for Daily Living by Bruce Lee
+- Conversations in Exile: Russian Writers Abroad by John Glad, 1993 
 
 ### Отечество
 - Парфенов - Намедни
