@@ -427,7 +427,7 @@ Willpower is short-term tactics, Habit is for long-term strategy.
 * [Sleep well](#sleep)
 * Warm / cold shower by [Wim Hof method cold-therapy](https://www.wimhofmethod.com/practice-the-method) (clean physical body)
 * Meditate with [Wim Hof breathwork](https://www.wimhofmethod.com/practice-the-method) - brush your mind, clean mental body, contemplate ideas, break rumination
-* Morning journaling / notes on meditations (Seneca)
+* Morning [journaling](#journaling) / notes on meditations (Seneca)
 * Daily [Blinkist](https://www.blinkist.com/) blink
 * Commute [podcasts](#listen-and-learn)
 * Daily [Pocket](https://getpocket.com/) article
@@ -440,6 +440,16 @@ Willpower is short-term tactics, Habit is for long-term strategy.
 
 [Wim Hof breathing technique](https://en.wikipedia.org/wiki/Wim_Hof#Breathing) is a secular kind of hyperventilation [breathwork](https://en.wikipedia.org/wiki/Breathwork)
  known in [Kriya Yoga pranayama](https://en.wikipedia.org/wiki/Kriya_Yoga) vedic tradition and has been taken to extreme by Stanislav Grof in [Holotropic Breathwork](https://en.wikipedia.org/wiki/Holotropic_Breathwork) practice.
+
+
+###### Journaling
+> _JG:_ You've said that the Russian poet Yevgeny Rein once advised you to **keep your adjectives to a minimum and concentrate on nouns, even if the verbs suffer as a result**. Do you follow his advice?  
+> _Joseph Brodsky:_ Yes, more or less. I'd say that's one of the most valuable pieces of advice I've received over the span of my literary career. If, for example, we were to wrap a poem in some sort of magical cloth which automatically removed the adjectives when you unwrapped the cloth, you should still have a lot of print on the page-verbs all over the place—but the adjectives, for the most part, should be as few in number as possible.  
+> -- Conversations in Exile: Russian Writers Abroad John Glad - 1993 
+
+> Писатели, чтоб ты знала, бывают двух видов. Те, кто всю жизнь пишет одну книгу – и те, кто всю жизнь пишет ни одной. Именно вторые сочиняют рецензии на первых, а не наоборот. И упрекают их в однообразии  
+> -- Пелевин, iphuck10
+
 
 ###### Weekly retrospective
 
