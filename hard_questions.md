@@ -51,3 +51,4 @@ Where [Daiva](https://www.wisdomlib.org/definition/daiva) - fate, pre-determined
 
 [ROLE OF DAIVA (FATE)–PURUSAKARA (HUMAN EFFORTS) IN DETERMINATION OF AYU](http://www.ijariie.com/AdminUploadPdf/ROLE_OF_DAIVA__FATE_%E2%80%93PURUSAKARA__HUMAN_EFFORTS__IN_DETERMINATION_OF_AYU_ijariie10958.pdf)
 
+Wisdom of [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
