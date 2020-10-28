@@ -368,6 +368,23 @@ Expertise requires going from unconscious incompetence to conscious incompetence
 Choose axiomatic set of Principles and derrive values, beliefs, meaning, purpose, goals, incentives.
 
 
+###### Time
+> Value your time, it’s all you have  
+> -- Naval Ravikant
+
+> No “yes.” [Either “HELL YEAH!” or “no.”](https://sive.rs/hellyeah)  
+> -- Derek Sivers [hellyeah rule](https://sive.rs/hellyeah)
+
+> Learn to say 'no' to the good so you can say 'yes' to the best  
+> ― John C. Maxwell
+
+> Man! Because he sacrifices his health in order to make money. Then he sacrifices money to recuperate his health. And then he is so anxious about the future that he does not enjoy the present; the result being that he does not live in the present or the future; he lives as if he is never going to die, and then dies having never really lived  
+> -- The Dalai Lama XIV (when asked what surprised him most about humanity)
+
+
+Money is infinite, the time is not. When You're trading time for money. You cannot trade back.
+
+
 ##### Strategy
 > Everybody has a plan until they get punched in the mouth  
 > -- Mike Tyson
@@ -510,6 +527,7 @@ Good decisions not always give great outcome. But consistent on average, cycle o
 * [False positives and false negatives](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors) in Type I and II error in Scientific hypothesis testing
 
 Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large cost of failure) VS Startup risk-taking mentality (fail-fast, large benefits from success).
+
 
 ###### Uncertainty
 
