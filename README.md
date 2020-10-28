@@ -382,7 +382,7 @@ Choose axiomatic set of Principles and derrive values, beliefs, meaning, purpose
 > -- The Dalai Lama XIV (when asked what surprised him most about humanity)
 
 
-Money is infinite, the time is not. When You're trading time for money. You cannot trade back.
+Money is infinite and your time is not. When You're trading time for money, you cannot trade back.
 
 
 ##### Strategy
