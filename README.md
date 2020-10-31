@@ -53,7 +53,8 @@ to explore the limits of human knowledge despite the [limitations of language](#
 
 #### Tribe of mentors
 
-> Surround yourself with people who are smarter than you  -- Russell Simmons
+> Surround yourself with people who are smarter than you  
+> -- Russell Simmons
 
 > Never be the brightest person in the room because you won’t learn anything  
 > -- attributed to [James Watson, Holly Hunter, James L. Brooks, Steven R. Craig, Michael Dell](https://quoteinvestigator.com/2019/02/21/bright/)
@@ -63,9 +64,11 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > Cross-validate ideas, rules, practices of authoritative sources and people  
 > -- Jordan B. Peterson
 
-> You are the average of the five people you spend the most time with  -- Jim Rohn
+> You are the average of the five people you spend the most time with  
+> -- Jim Rohn
 
-> Tribe of mentors changes with you as you grow -- Tim Ferriss
+> Tribe of mentors changes with you as you grow  
+> -- Tim Ferriss
 
 [**Hire people who are smarter than you.**](hire_people_smarter_than_you.md)
 
@@ -192,10 +195,10 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 > To attain knowledge, add things everyday. To attain wisdom, remove things everyday  
 > -- Lao Zi
 
-> Warren and I are very good at destroying our own best-loved ideas. Any year that you don't destroy one of your best-loved ideas is probably a wasted year. Charlie likes the analogy of looking at one's ideas and approaches as "tools." When a better tool (idea or approach) comes along, what could be better than to swap it for your old, less useful tool? 'Warren and I routinely do this, but most people, as Galbraith says, forever cling to their old, less useful tools.
+> Warren and I are very good at destroying our own best-loved ideas. Any year that you don't destroy one of your best-loved ideas is probably a wasted year. Charlie likes the analogy of looking at one's ideas and approaches as "tools." When a better tool (idea or approach) comes along, what could be better than to swap it for your old, less useful tool? 'Warren and I routinely do this, but most people, as Galbraith says, forever cling to their old, less useful tools  
 > -- Poor Charlie's Almanack
 
-> Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when [life is short](http://www.paulgraham.com/vb.html).
+> Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when [life is short](http://www.paulgraham.com/vb.html)  
 > -- Paul Graham
 
 > Simplicity is hacking away the unessential. — It is not daily increase but daily decrease — hack away the unessential! The closer to the source, the less wastage there is  
@@ -212,7 +215,7 @@ Accumulated [knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asym
 
 
 #### Multidisciplinary skills
-> And the models have to come from multiple disciplines—because all the wisdom of the world is not to be found in one little academic department. That’s why poetry professors, by and large, are so unwise in a worldly sense. They don’t have enough models in their heads. So you’ve got to have models across a fair array of disciplines
+> And the models have to come from multiple disciplines—because all the wisdom of the world is not to be found in one little academic department. That’s why poetry professors, by and large, are so unwise in a worldly sense. They don’t have enough models in their heads. So you’ve got to have models across a fair array of disciplines  
 > -- Charlie Munger / [A Lesson on Elementary Worldly Wisdom](https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/)
 
 > To the man with only a hammer, every problem looks like a nail
@@ -249,7 +252,7 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap between domains b
 
 
 #### Common sense
-> What important truth do very few people agree with you on ?
+> What important truth do very few people agree with you on?  
 > -- Peter Thiel, Zero to One
 
 > Common sense is nothing but a collection of misconceptions acquired by age 18  
@@ -287,7 +290,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | Generalist |  | Specialist |
 | fast thinking, 1st signal system |  | slow thinking, 2nd signal system |
 | a maniac constantly in a state of pleasure and cannot be satisfied |  | a hermit constantly in a state of satisfaction cannot experience pleasure |
-| Nihilist | Wave Surfer | Control-freak |
+| Fatalist | Wave Surfer | Control-freak |
 | Privacy |   | Security |
 | Autocracy | Meritocracy | Democracy |
 | Divine supreme predestination - Daiva | [individual](/hard_questions.md) wisdom of [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer) | Freedom of personal will - Purushakara |
@@ -333,7 +336,8 @@ Expertise requires going from unconscious incompetence to conscious incompetence
 
 ##### Values
 
-> You've got to serve somebody - Bob Dylan
+> You've got to serve somebody  
+> -- Bob Dylan
 
 > Principles are like lighthouses. They are natural laws that cannot be broken  
 > ― Stephen R. Covey, The 7 Habits of Highly Effective People
@@ -349,8 +353,8 @@ Expertise requires going from unconscious incompetence to conscious incompetence
 
 > If you can figure your life so that what you're genually doing is aiming to the highest possible good then the things that you need to survive and to thrive on a daily base will deliver themselves to you...
 > If you dare to do the most difficult thing that you can conceptualize your life will work out better that it will if you do anything else. Well how do you find out if that's true, its a Kierkegaardian's Leap of Faith, there's no way to find out unless you do it, so no one can tell you either because if it works for some else, that's no proof that it;ll work for you. You have to be all-in in this game...
-> If you manifest yourself properly in the world that those things will come your way."
-> I've watched people operate in the world and I would say that There's no more effective way of operating than to conceptualize the highest good that you can and strive to attain it. There's no more practical way to a kind of success you would new if you only knew what success is"
+> If you manifest yourself properly in the world that those things will come your way.
+> I've watched people operate in the world and I would say that There's no more effective way of operating than to conceptualize the highest good that you can and strive to attain it. There's no more practical way to a kind of success you would new if you only knew what success is  
 > -- Jordan B Peterson [Biblical Series VII](https://www.youtube.com/watch?v=6gFjB9FTN58&index=7&list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)
 
 > Life is suffering and if you say it meaningless then your suffering is meaningless dumb and reckless. Find higher purpose and goal to suffer  
@@ -389,14 +393,14 @@ Money is infinite and your time is not. When You're trading time for money, you 
 > Everybody has a plan until they get punched in the mouth  
 > -- Mike Tyson
 
-> Plans are worthless, but planning is everything. There is a very great distinction because when you are planning for an emergency you must start with this one thing: the very definition of "emergency" is that it is unexpected, therefore it is not going to happen the way you are planning.
+> Plans are worthless, but planning is everything. There is a very great distinction because when you are planning for an emergency you must start with this one thing: the very definition of "emergency" is that it is unexpected, therefore it is not going to happen the way you are planning  
 > — Dwight D. Eisenhower
 
 ##### Tactics
 > The abstract summary of your actions is your strategy; what you'll do to implement the strategy is your tactics. Frequently, a strategy at one managerial level is the tactical concern of the next higher level.
 > — Andy Grove (High Output Management)
 
-> Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.
+> Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat  
 > — Sun Tzu
 
 
@@ -404,10 +408,10 @@ Money is infinite and your time is not. When You're trading time for money, you 
 
 > Nulla dies sine linea
 
-> True greatness consists of being great in little things. 
+> True greatness consists of being great in little things  
 > -- Charles Simmons
 
-> How you do anything is how you do everything
+> How you do anything is how you do everything  
 > -- T. Harv Eker / Secrets of the Millionaire Mind book
 
 > Inspiration is for amateurs while the rest of us just show up and get to work  
@@ -420,13 +424,13 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 > First we make our habits, then our habits make us  
 > — Charles C. Nobel
 
-> Humans are basically habit machines… I think learning how to break habits is actually a very important meta skill and can serve you in life almost better than anything else
+> Humans are basically habit machines… I think learning how to break habits is actually a very important meta skill and can serve you in life almost better than anything else  
 > -- Naval Ravikant
 
 > Habit is the intersection of knowledge (what to do), skill (how to do), and desire (want to do)  
 > — Stephen Covey
 
-> The second half of a man's life is made up of nothing but the habits he has acquired during the first half
+> The second half of a man's life is made up of nothing but the habits he has acquired during the first half  
 > ― Demons novel by Fyodor Dostoevsky
 
 * Nulla dies sine **code** linea **commit**
