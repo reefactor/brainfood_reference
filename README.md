@@ -53,6 +53,9 @@ to explore the limits of human knowledge despite the [limitations of language](#
 
 #### Tribe of mentors
 
+> The search after the great man is the dream of youth and the most serious occupation of manhood  
+> -- Ralph Waldo Emerson, The Uses of Great Men
+
 > Surround yourself with people who are smarter than you  
 > -- Russell Simmons
 
