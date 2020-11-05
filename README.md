@@ -673,6 +673,47 @@ same as human consciousness is powerless against orders of endocrine system prog
 Cage [monkey mind](https://en.wikipedia.org/wiki/Monkey_mind).
 
 
+#### Memento mori
+
+> Death smiles at us all; all we can do is smile back  
+> ― Marcus Aurelius
+
+> The idea is to die young as late as possible  
+> ― Ashley Montagu
+
+> This life is only a prelude to eternity, where we are to expect another original, and another state of things. We have no prospect of heaven here but at
+a distance; let us therefore expect our last hour with courage. The last, I say, to our bodies, but not to our
+minds. Our luggage we leave behind us, and return as naked out of the world as we came into it. The day which we fear as our last is but the birthday of our
+eternity; and it is the only way to it. So that what we fear as a rock, proves to be but a port, in many cases to be desired, never to be refused.
+And he that dies young has only made a quick voyage of it  
+> -- Seneca. Consolations against death
+ 
+> Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there-on a mote of dust suspended in a sunbeam.  
+> The Earth is a very small stage in a vast cosmic arena. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot.  
+> ...  
+> It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot.  
+> ― Carl Sagan, [Pale Blue Dot: A Vision of the Human Future in Space](https://en.wikipedia.org/wiki/Pale_Blue_Dot_(book))
+
+> Death is the most important thing that is ever going to happen to you.  
+> ― Naval Ravikant
+
+Christian: [Ars moriendi](https://en.wikipedia.org/wiki/Ars_moriendi).
+
+Egyptian: [Book of Emerging Forth into the Light](https://en.wikipedia.org/wiki/Book_of_the_Dead)
+
+Tibetan: [Bardo Thodol](https://en.wikipedia.org/wiki/Bardo_Thodol) 
+
+Vedic Indian: [Garuda Purana](https://en.wikipedia.org/wiki/Garuda_Purana)
+
+
+Man's refusal to acknowledge his own mortality - the [Denial of Death](https://en.wikipedia.org/wiki/The_Denial_of_Death).
+
+A [Worm at the core](https://www.youtube.com/watch?v=qfKyNxfyWbo) of our motivation.
+
+A Need for [Sence of Heroic Worth](https://academyofideas.com/2020/05/the-psychology-of-the-anti-hero/) as the Denial of Death.
+
+
+
 ### Pointers of Truth
 
 > The wisdom of the wise, and the experience of ages, may be preserved by quotations  
