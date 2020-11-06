@@ -124,7 +124,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 * [Flowingdata](http://flowingdata.com) [newsletter](http://flowingdata.us2.list-manage.com/subscribe?u=f538bce868aac1144d248c0bc&id=71ef3cfa3a)
 * [howmuch.net - Understanding money](https://howmuch.net/)
 
-#### Strategy 
+#### Business 
 - [Stratechery by Ben Thompson on the business, strategy, and impact of technology](https://stratechery.com)
 - [Benedict Evans newsletter](http://ben-evans.com/newsletter/)
 - [Timeless concepts by Jim Collins](https://www.jimcollins.com/concepts.html) from more than 25 years of rigorous research into the question of what makes great companies tick
@@ -363,8 +363,14 @@ Expertise requires going from unconscious incompetence to conscious incompetence
 > Life is suffering and if you say it meaningless then your suffering is meaningless dumb and reckless. Find higher purpose and goal to suffer  
 > -- Jordan B Peterson
 
+> Loyalty in action, regardless obstacles or challenges, to one’s most cherished values—this is the essence of moral rectitude—and it is the foundation of heroism  
+> -- Andrew Bernstein, Heroes, Legends, Champions: Why Heroism Matters
+
 > Nature loves courage. You make the commitment and nature will respond to that commitment by removing impossible obstacles. Dream the impossible dream and the world will not grind you under, it will lift you up. This is the trick. This is what all these teachers and philosophers who really counted, who really touched the alchemical gold, this is what they understood. This is the shamanic dance in the waterfall. This is how magic is done. By hurling yourself into the abyss and discovering it’s a feather bed  
 > -- Terence McKenna
+
+> Begin with end in mind
+> -- Stephen Covey
 
 * The [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule) principle of treating others as you want to be treated is spoiled by [hypocrisy of double standards](https://en.wikipedia.org/wiki/Hypocrisy)
 * [This is watter](https://www.youtube.com/watch?v=8CrOL-ydFMI) [speech](https://en.wikipedia.org/wiki/This_Is_Water) by David Foster Wallace
@@ -372,7 +378,9 @@ Expertise requires going from unconscious incompetence to conscious incompetence
 * [The 25 Principles for Adult Behavior](http://www.openculture.com/2018/02/the-25-principles-for-adult-behavior.html) by John Perry Barlow
 * [Live Your Life](https://www.goodreads.com/quotes/8909397-a-poem-by-tecumseh-so-live-your-life-that-the) poem by Chief [Tecumseh](https://en.wikiquote.org/wiki/Tecumseh)
 
-Choose axiomatic set of Principles and derrive values, beliefs, meaning, purpose, goals, incentives.
+Choose axiomatic set of Principles and derrive Values, vision, beliefs, meaning, purpose, goals, incentives.
+
+First you choose the path, then the path chooses you.
 
 
 ###### Time
