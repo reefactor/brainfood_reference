@@ -325,6 +325,8 @@ is the desirable middle between two extremes, one of excess and the other of def
 
 > There are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know
 
+People (and so AI algorithms) do abstraction and decomposition to reduce search space to solve [planning](#strategy) and [decision](#decisions).
+
 Build hierarhical [decision policy](#decisions) function: [Values](#values) -> [Strategy](#strategy) -> [Tactics](#tactics) -> [Routine](#routine)
 
 Understand your [circle of competence](https://fs.blog/2013/12/circle-of-competence/) expanding into next [near development zone](https://en.wikipedia.org/wiki/Zone_of_proximal_development)  to ballance [exploration–exploitation tradeoff dilemma](https://en.wikipedia.org/wiki/Multi-armed_bandit)
@@ -406,6 +408,7 @@ Money is infinite and your time is not. When You're trading time for money, you 
 
 > Plans are worthless, but planning is everything. There is a very great distinction because when you are planning for an emergency you must start with this one thing: the very definition of "emergency" is that it is unexpected, therefore it is not going to happen the way you are planning  
 > — Dwight D. Eisenhower
+
 
 ##### Tactics
 > The abstract summary of your actions is your strategy; what you'll do to implement the strategy is your tactics. Frequently, a strategy at one managerial level is the tactical concern of the next higher level.
