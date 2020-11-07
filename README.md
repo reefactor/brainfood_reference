@@ -345,7 +345,7 @@ Expertise requires going from unconscious incompetence to conscious incompetence
 > Principles are like lighthouses. They are natural laws that cannot be broken  
 > ― Stephen R. Covey, The 7 Habits of Highly Effective People
 
-> Values are most important, abilities come next, and skills are the least important. Yet most people make the mistake of choosing skills and abilities first and overlooking values. It is important for you to know what mix of qualities is important to ﬁt each role and, more broadly, what values and abilities are required in people with whom you can have successful relationships. In picking people for long-term relationships  
+> [Values are most important, abilities come next, and skills are the least](https://leadingbyreading.org/2019/08/14/mind-on-wealth-health-and-success-6-values-abilities-and-skills-what-comes-first-in-deciding-the-right-people-for-your-firm-a-management-case/)important. Yet most people make the mistake of choosing skills and abilities first and overlooking values. It is important for you to know what mix of qualities is important to ﬁt each role and, more broadly, what values and abilities are required in people with whom you can have successful relationships. In picking people for long-term relationships  
 > -- Ray Dalio
 
 > Of course if we make good things, it is not only to the credit of science; it is also to the credit of the moral choice which led us to good work. Scientific knowledge is an enabling power to do either good or bad — but it does not carry instructions on how to use it. Such power has evident value — even though the power may be negated by what one does with it.
