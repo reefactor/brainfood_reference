@@ -532,6 +532,11 @@ judgment. The two can be far from the same, and especially over a small number o
 > You have to put in the time, but the judgment is more important  
 > -- The Almanack of Naval Ravikant
 
+> I’ve certainly been fortunate and it is **hard to actually figure out whether I was skilful at taking advantage of opportunities or just blind luck because you can’t actually run this experiment twice**.  
+> What I do think is that as a society we attribute too much to luck. Luck is like an atheistic word for God: we ascribe things to it that we don’t understand or don’t want to understand. As a venture capitalist, I think one of the most toxic things to do is to treat the people I’m investing in as lottery tickets where I say: “Well I don’t know if your business is going to work. It might, it might not.” I think that’s a horrible way to treat people. The anti-lottery ticket approach is to try to achieve a high level of conviction, to ask: “Is this a business that I have enough confidence in that I would consider joining it myself?”  
+> -- Peter Thiel [interview](https://www.theguardian.com/technology/2014/sep/21/peter-thiel-paypal-luck-atheist-god)
+
+
 There're lots of frameworks and tools for [decision making](https://fs.blog/smart-decisions/)
 
 Strategy for triaging:
@@ -543,6 +548,7 @@ Learn from feedback
 Good decisions not always give great outcome. But consistent on average, cycle of great results get compound [Return on Luck](https://www.jimcollins.com/concepts/return-on-luck.html)
 
 * [False positives and false negatives](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors) in Type I and II error in Scientific hypothesis testing
+* [4 kinds of Luck](https://www.youtube.com/watch?v=AHhv3E760dU) by Naval Ravikant 
 
 Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large cost of failure) VS Startup risk-taking mentality (fail-fast, large benefits from success).
 
