@@ -47,6 +47,10 @@ Seneca answers in [On Providence essae](https://en.wikipedia.org/wiki/De_Provide
 
 ### Is "Purushakara / Daiva" (Fate / Will) proportion is an individual constant given at birth ?
 
+> For Fate The willing leads, the unwilling drags along  
+> ― Seneca, Letters from a Stoic
+
+
 Where [Daiva](https://www.wisdomlib.org/definition/daiva) - fate, pre-determined _supreme predestination_ and [Purushakara](https://www.wisdomlib.org/definition/purushakara) - freedom of individual will
 
 [ROLE OF DAIVA (FATE)–PURUSAKARA (HUMAN EFFORTS) IN DETERMINATION OF AYU](http://www.ijariie.com/AdminUploadPdf/ROLE_OF_DAIVA__FATE_%E2%80%93PURUSAKARA__HUMAN_EFFORTS__IN_DETERMINATION_OF_AYU_ijariie10958.pdf)
