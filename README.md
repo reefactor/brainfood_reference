@@ -337,6 +337,30 @@ Embrace the ["Kierkegaard's School of Anxiety"](https://academyofideas.com/2018/
 
 Expertise requires going from unconscious incompetence to conscious incompetence to conscious competence and finally to unconscious competence.
 
+##### Intellectual curiosity
+
+> Far and away the best prize that life offers is the chance to work hard at work worth doing  
+> -- Theodore Roosevelt
+
+> Nothing great was ever achieved without enthusiasm  
+> -- Ralph Waldo Emerson
+
+> The secret of success is making your vocation your vacation  
+> --Mark Twain
+
+> You never achieve real success unless you like what you are doing  
+> -- Dale Karnegie
+
+> Choose a Job You Love, and You Will Never Have To Work a Day in Your Life
+> -- [attributed to various](https://quoteinvestigator.com/2014/09/02/job-love) sources
+
+> When you are young, work to learn, not to earn  
+> – Robert Kiyosaki
+
+Follow your intellectual curiosity. Love what you do - enjoy process, not results - otherwise you won't get through the hard times. 
+
+Early in your carrier prefer [exploration](https://en.wikipedia.org/wiki/Multi-armed_bandit) - take relatively big steps (diversification) in the search space. Later - decrease - move to intensification / exploitation. The strategy is similar to [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
+
 
 
 ##### Values
