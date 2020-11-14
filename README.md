@@ -176,6 +176,10 @@ and [reasoning patterns](https://en.wikipedia.org/wiki/Dual_process_theory#Syste
 This idea is similar to the statistical machine learning approach i.e. modern deep learning
 where the [Learning Algorithm is compressing the world into hierarchies of abstractions](https://www.skynettoday.com/editorials/nooscope#the-learning-algorithm-compressing-the-world-into-a-statistical-model)
 
+The Model does not give **the truth** yet posess certain tested [predictive power](https://en.wikipedia.org/wiki/Predictive_power).
+With [scientific method](https://en.wikipedia.org/wiki/Scientific_method) You don't prove hypothesis (model) is true, you prove it **not yet wrong**.
+Science is [falsifiable](https://en.wikipedia.org/wiki/Falsifiability). Best destiny for each theory (model) is to become corner case for a new more broad theory (e.g. Newtonian physics superseded by the General Relativity).
+
 Shared Mental Models distill knowledge into the collective wisdom according to [DIKW pyramid](https://en.wikipedia.org/wiki/DIKW_pyramid#Computational_representation) (which itself is a model too).
 
 People have tried to label them to build taxonomies of most common models
@@ -336,6 +340,7 @@ Push yourself out of comfort zone, keep [Bruce Lee's "Broken rhythm"](https://br
 Embrace the ["Kierkegaard's School of Anxiety"](https://academyofideas.com/2018/02/soren-kierkegaard-psychology-anxiety/)
 
 Expertise requires going from unconscious incompetence to conscious incompetence to conscious competence and finally to unconscious competence.
+
 
 ##### Intellectual curiosity
 
