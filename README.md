@@ -24,7 +24,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 ***
 
 
-### Gems of wisdom
+## Gems of wisdom
 
 > [Nanos gigantum humeris insidentes](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants)
 
@@ -49,9 +49,9 @@ to explore the limits of human knowledge despite the [limitations of language](#
 
 
 
-### Streams
+## Streams
 
-#### Tribe of mentors
+### Tribe of mentors
 
 > The search after the great man is the dream of youth and the most serious occupation of manhood  
 > -- Ralph Waldo Emerson, The Uses of Great Men
@@ -75,13 +75,13 @@ to explore the limits of human knowledge despite the [limitations of language](#
 
 [**Hire people who are smarter than you.**](hire_people_smarter_than_you.md)
 
-#### φύσις
+### φύσις
 * [The Quanta Magazine](https://www.quantamagazine.org/)
 * [Книга новостей](https://kniganews.org)
 * [Wait but why](http://waitbutwhy.com)
 * [Сергей Карелов - Малоизвестное интересное на стыке науки, технологий, бизнеса и общества](https://medium.com/@sergey_57776)
 
-#### ψυχή
+### ψυχή
 - [Brain Pickings by Maria Popova: Weekly Newsletter](https://www.brainpickings.org)
 - [Letters of Note](https://www.lettersofnote.com)
 - [Aeon Magazine newsletter](https://aeon.co/)
@@ -94,7 +94,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [Philosophy for life by Jules Evans](https://www.philosophyforlife.org/)
 - [FAQ by Derek Sivers](https://sive.rs/bfaq)
 
-#### CS - computer science & tech
+### CS - computer science & tech
 * [Uber Engineering](https://www.youtube.com/channel/UCQlvjgieHGgkpP_9GiVyTGw)
 * [GoogleTechTalks](https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw)
 * [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg)
@@ -104,7 +104,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 * [AWESOME GitHub curated lists](https://github.com/sindresorhus/awesome)
 * [Hackernewsletter](http://hackernewsletter.com)
 
-#### ML - machine learning & cognitive systems
+### ML - machine learning & cognitive systems
 * [Center for Brains, Minds and Machines (CBMM)](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ)
 * [Intuition Machine newsletter](https://www.getrevue.co/profile/intuitionmachine)
 * [Data elixir newsletter](https://dataelixir.com)
@@ -118,18 +118,18 @@ to explore the limits of human knowledge despite the [limitations of language](#
 * [Berkeley Institute for Data Science (BIDS) channel](https://www.youtube.com/channel/UCBBd3JxQl455JkWBeulc-9w)
 * [Artificial Intelligence Courses channel](https://www.youtube.com/user/aicourses)
 
-#### Datavis, infographics, data journalism
+### Datavis, infographics, data journalism
 * [Information is beautiful](http://www.informationisbeautiful.net/), annual [awards](http://www.informationisbeautifulawards.com/)
 * [OpenVis con @BocoupLLC ](https://www.youtube.com/channel/UCQUPI1PxfE4-bqwuI26I2HA)
 * [Flowingdata](http://flowingdata.com) [newsletter](http://flowingdata.us2.list-manage.com/subscribe?u=f538bce868aac1144d248c0bc&id=71ef3cfa3a)
 * [howmuch.net - Understanding money](https://howmuch.net/)
 
-#### Business 
+### Business 
 - [Stratechery by Ben Thompson on the business, strategy, and impact of technology](https://stratechery.com)
 - [Benedict Evans newsletter](http://ben-evans.com/newsletter/)
 - [Timeless concepts by Jim Collins](https://www.jimcollins.com/concepts.html) from more than 25 years of rigorous research into the question of what makes great companies tick
 
-#### Listen and Learn
+### Listen and Learn
 
 - [Tim Ferris podcast](http://tim.blog/podcast/)
 - [The Knowledge Project Podcast with Shane Parrish](https://fs.blog/the-knowledge-project/)
@@ -152,7 +152,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 
 
 ***
-### Mental models
+## Mental models
 
 >  ..all models are approximations. Essentially, [all models are wrong, but some are useful](https://en.wikipedia.org/wiki/All_models_are_wrong).  
 > However, the approximate nature of the model must always be borne in mind..  
@@ -187,7 +187,7 @@ in order to create reasoning frameworks and to put them in toolboxes.
 
 And so there're [plenty of them online](https://www.google.com/search?q=mental+models)
 
-#### Steep gradient ascent along learning curve
+### Steep gradient ascent along learning curve
 
 > Run Uphill. Simple heuristic: If you’re evenly split on a difficult decision, take the path more painful in the short term.  
 > If you have two choices to make, and they’re relatively equal choices, take the path more difficult and more painful in the short term.  
@@ -221,7 +221,7 @@ Use [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) when have com
 Accumulated [knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry) yelds Power.
 
 
-#### Multidisciplinary skills
+### Multidisciplinary skills
 > And the models have to come from multiple disciplines—because all the wisdom of the world is not to be found in one little academic department. That’s why poetry professors, by and large, are so unwise in a worldly sense. They don’t have enough models in their heads. So you’ve got to have models across a fair array of disciplines  
 > -- Charlie Munger / [A Lesson on Elementary Worldly Wisdom](https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/)
 
@@ -258,7 +258,7 @@ So, in highly competitive zero-sum game, the Winner-Takes-All in ~rat race~[Red 
 Single crossdomain B+ speciallist is better than 2 A+ with gap between domains because of the communication overhead.
 
 
-#### Common sense
+### Common sense
 > What important truth do very few people agree with you on?  
 > -- Peter Thiel, Zero to One
 
@@ -285,7 +285,7 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap between domains b
 Challenge beliefs & persist. Disagree & commit. Make asymmetric bets.
 
 
-##### Golden mean
+#### Golden mean
 
 [Golden mean or golden middle way](https://en.wikipedia.org/wiki/Golden_mean_(philosophy))
 is the desirable middle between two extremes, one of excess and the other of deficiency
@@ -312,7 +312,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | self-reliance |  | standing on a shoulder of giants |
 
 
-####  Reasoning
+###  Reasoning
 > In theory, there is no difference between theory and practice. But, in practice, there is  
 > -- Jan L.A. van de Snepscheut
 
@@ -342,7 +342,7 @@ Embrace the ["Kierkegaard's School of Anxiety"](https://academyofideas.com/2018/
 Expertise requires going from unconscious incompetence to conscious incompetence to conscious competence and finally to unconscious competence.
 
 
-##### Intellectual curiosity
+#### Intellectual curiosity
 
 > Far and away the best prize that life offers is the chance to work hard at work worth doing  
 > -- Theodore Roosevelt
@@ -368,7 +368,7 @@ Early in your carrier prefer [exploration](https://en.wikipedia.org/wiki/Multi-a
 
 
 
-##### Values
+#### Values
 
 > You've got to serve somebody  
 > -- Bob Dylan
@@ -414,7 +414,7 @@ Choose axiomatic set of Principles and derrive Values, vision, beliefs, meaning,
 First you choose the path, then the path chooses you.
 
 
-###### Time
+##### Time
 > Value your time, it’s all you have  
 > -- Naval Ravikant
 
@@ -431,7 +431,7 @@ First you choose the path, then the path chooses you.
 Money is infinite and your time is not. When You're trading time for money, you cannot trade back.
 
 
-##### Strategy
+#### Strategy
 > Everybody has a plan until they get punched in the mouth  
 > -- Mike Tyson
 
@@ -439,7 +439,7 @@ Money is infinite and your time is not. When You're trading time for money, you 
 > — Dwight D. Eisenhower
 
 
-##### Tactics
+#### Tactics
 > The abstract summary of your actions is your strategy; what you'll do to implement the strategy is your tactics. Frequently, a strategy at one managerial level is the tactical concern of the next higher level.
 > — Andy Grove (High Output Management)
 
@@ -447,7 +447,7 @@ Money is infinite and your time is not. When You're trading time for money, you 
 > — Sun Tzu
 
 
-##### Routine
+#### Routine
 
 > Nulla dies sine linea
 
@@ -462,7 +462,7 @@ Money is infinite and your time is not. When You're trading time for money, you 
 
 Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/habits-vs-goals/).
 
-###### Habits
+##### Habits
 
 > First we make our habits, then our habits make us  
 > — Charles C. Nobel
@@ -484,7 +484,7 @@ Willpower is for sprint, Habit is for marathon.
 Willpower is short-term tactics, Habit is for long-term strategy.
 
 
-###### Morning ritual
+##### Morning ritual
 > End your day thinking about an important question MIQ and then wake up the next morning and brainstorm on it  
 > -- Josh Waitzkin
 
@@ -506,7 +506,7 @@ Willpower is short-term tactics, Habit is for long-term strategy.
  known in [Kriya Yoga pranayama](https://en.wikipedia.org/wiki/Kriya_Yoga) vedic tradition and has been taken to extreme by Stanislav Grof in [Holotropic Breathwork](https://en.wikipedia.org/wiki/Holotropic_Breathwork) practice.
 
 
-###### Journaling
+##### Journaling
 > _JG:_ You've said that the Russian poet Yevgeny Rein once advised you to **keep your adjectives to a minimum and concentrate on nouns, even if the verbs suffer as a result**. Do you follow his advice?  
 > _Joseph Brodsky:_ Yes, more or less. I'd say that's one of the most valuable pieces of advice I've received over the span of my literary career. If, for example, we were to wrap a poem in some sort of magical cloth which automatically removed the adjectives when you unwrapped the cloth, you should still have a lot of print on the page — verbs all over the place — but the adjectives, for the most part, should be as few in number as possible.  
 > -- Conversations in Exile: Russian Writers Abroad John Glad - 1993 
@@ -515,7 +515,7 @@ Willpower is short-term tactics, Habit is for long-term strategy.
 > -- Пелевин, iphuck10
 
 
-###### Weekly retrospective
+##### Weekly retrospective
 
 Notes grow over time. Merge notes into topics groups and prune bullshit. Groups form unstructured set of clusters.
 
@@ -529,7 +529,7 @@ Trees grow over time - relations weights grow from subjective life experience.
 Pruning trees is an essential part of active introspection, mental hygiene, since attention requires mental energy resources.
 
 
-###### Sleep
+##### Sleep
 
 Sleep is underrated in modern culture, yet is essential cognitive performance and memory consolidation. Sleep deprivation has detrimental effects on mental health. 
 Listen to interview 
@@ -539,7 +539,7 @@ Listen to interview
 with [Matthew Walker](https://www.sleepdiplomat.com/speaker), Ph.D, Sleep Scientist for Google.
 
 
-##### Decisions
+#### Decisions
 
 > The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.
 One should, for example, be able to see that things are hopeless and yet be determined to make them otherwise. This philosophy fitted on to my early adult life, when I saw the improbable, the implausible, often the "impossible," come true.”  
@@ -582,7 +582,7 @@ Good decisions not always give great outcome. But consistent on average, cycle o
 Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large cost of failure) VS Startup risk-taking mentality (fail-fast, large benefits from success).
 
 
-###### Uncertainty
+##### Uncertainty
 
 > We have two classes of forecasters:  Those who don’t know – and those who don’t know they don’t know  
 > -- John Kenneth Galbraith
@@ -662,7 +662,7 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > -- The Almanack of Naval Ravikant
 
 
-### Introspect
+## Introspect
 
 > We don’t see things as they are, but as we are  
 > — Anaïs Nin
@@ -673,7 +673,7 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > Empty your mind, be water my friend  
 > -- Bruce Lee
 
-#### Transcend
+### Transcend
 
 > The essentially self-transcendent quality of human existence renders man a being reaching out beyond himself  
 > -- Viktor Frankl, The will to meaning
@@ -722,7 +722,7 @@ same as human consciousness is powerless against orders of endocrine system prog
 Cage [monkey mind](https://en.wikipedia.org/wiki/Monkey_mind).
 
 
-#### Memento mori
+### Memento mori
 
 > Death smiles at us all; all we can do is smile back  
 > ― Marcus Aurelius
@@ -763,7 +763,7 @@ A Need for [Sence of Heroic Worth](https://academyofideas.com/2020/05/the-psycho
 
 
 
-### Pointers of Truth
+## Pointers of Truth
 
 > The wisdom of the wise, and the experience of ages, may be preserved by quotations  
 > ― Isaac Disraeli
@@ -780,7 +780,7 @@ A Need for [Sence of Heroic Worth](https://academyofideas.com/2020/05/the-psycho
 
 
 
-### Limitations of language
+## Limitations of language
 > When the sage points at the moon, the fool looks at the finger
 >> Truth has nothing to do with language. Truth is like Moon in the sky and language is like the finger that points to the moon. A finger can point out where the moon is, but the finger is not the truth. You can see the moon without help of any fingers, can you?
 
@@ -794,12 +794,12 @@ A Need for [Sence of Heroic Worth](https://academyofideas.com/2020/05/the-psycho
 Symbolic System is [a map, not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation) it represents.
 
 
-## Reviews
+# Reviews
 ### Software Engineering Security
 
 [Python code protection via obfuscation or compilation](security_review_python_code_protector.md)
 
-####  High Availability
+###  High Availability
 
-##### Отказоустойчивость для чайников
+#### Отказоустойчивость для чайников
 ![HOWTO HA или Отказоустойчивость для чайников](res/howto-ha.gif)
