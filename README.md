@@ -293,22 +293,21 @@ is the desirable middle between two extremes, one of excess and the other of def
 | Extreme | Golden middle way | Extreme |
 |---|---|---|
 | cowardice | courage | recklessness |
-| Ashe / Yang / Action | Effortless Action | Wu Wei / Yin / Inaction |
-| Generalist |  | Specialist |
+| fatalist | wave surfer | Control-freak |
+| autocracy | meritocracy | democracy |
+| ascetic  | buddhist middle way | hedonic |
+| eternalism | buddhist [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)  | annihilationism |
+| Divine supreme predestination - Daiva | [Wu wei](https://en.wikipedia.org/wiki/Wu_wei), [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer) | Freedom of personal will - Purushakara |
+| yin / inaction |  | yang / action |
+| faith, dogma, axiom |  | testable falsifiable science |
+| exploitation |  | exploration |
+| specialist |  | generalist |
+| security |   | privacy |
 | fast thinking, 1st signal system |  | slow thinking, 2nd signal system |
 | a maniac constantly in a state of pleasure and cannot be satisfied |  | a hermit constantly in a state of satisfaction cannot experience pleasure |
-| Fatalist | Wave Surfer | Control-freak |
-| Privacy |   | Security |
-| Autocracy | Meritocracy | Democracy |
-| Divine supreme predestination - Daiva | [individual](/hard_questions.md) wisdom of [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer) | Freedom of personal will - Purushakara |
-| exploration |  | exploitation  |
-| testable falsifiable science |  | faith, dogma, axiom |
-| ascetic  | buddist middle way | hedonic |
-| eternalism | Buddhist [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)  | annihilationism |
 | creating (entrepreneurs) |  | running (manager) |
-| Divergent thinking (out of then box, creative) |  | convergent (focused) |
-| Wisdom of crowds  |  | consensus bias, common sense misconceptions |
-| Left hemisphere |  | Right hemisphere |
+| divergent thinking (out of then box, creative) |  | convergent (focused) |
+| wisdom of crowds  |  | consensus bias, common sense misconceptions |
 | self-reliance |  | standing on a shoulder of giants |
 
 
