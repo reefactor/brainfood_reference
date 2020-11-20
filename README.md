@@ -12,11 +12,11 @@
 
 
 1. Stand up on the Shoulders of Giants with [Wisdom Gems](#gems-of-wisdom)
-2. Bootstrap your framework of [Mental Models](#mental-models) for reasoning
-3. Update mental models with [Knowledge Streams](#streams) to fuel cognition 
-for better [reasoning](#reasoning) along the [Lifelong Learning](https://fs.blog/learning/) way
+2. Bootstrap your framework of [Mental Models](#mental-models) for [reasoning](#reasoning)
+3. Update mental models with [Knowledge Streams](#streams) to fuel cognition
+ along the [Lifelong Learning](https://fs.blog/learning/) way
 4. Navigate [Pointers of Truth](#pointers-of-truth)
-as [support vectors](https://en.wikipedia.org/wiki/Support_vector_machine) in uncertainty
+as [support vectors](https://en.wikipedia.org/wiki/Support_vector_machine) in [uncertainty](#uncertainty)
 to explore the limits of human knowledge despite the [limitations of language](#limitations-of-language)
 5. Ask [Hard Questions](hard_questions.md)
 6. [Introspect](#introspect)
@@ -154,7 +154,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 ***
 ## Mental models
 
->  ..all models are approximations. Essentially, [all models are wrong, but some are useful](https://en.wikipedia.org/wiki/All_models_are_wrong).  
+>  ..all models are approximations. Essentially, [all models are wrong, but some are useful](https://en.wikipedia.org/wiki/All_models_are_wrong).
 > However, the approximate nature of the model must always be borne in mind..  
 > -- George E. P. Box
 
@@ -164,23 +164,19 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > [A map is not the territory it represents](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation), but, if correct, it has a similar structure to the territory, which accounts for its usefulness  
 > —  Alfred Korzybski, Science and Sanity
 
-[Mental models](https://fs.blog/mental-models/) help us perceive and navigate the _physical_ world with [sensory inputs](https://en.wikipedia.org/wiki/Perception#Types_of_perception)
-as well as our inner _mental realm_.
-
 The world is huge and our sensory bandwidth is tiny and memory capacity is limited.
 
-So Models simplify huge complexity of the world
-into [perception](https://en.wikipedia.org/wiki/Visual_cortex)
+[Mental models](https://fs.blog/mental-models/) simplify huge complexity of the world
+into [perception](https://en.wikipedia.org/wiki/Perception#Types_of_perception)
 and [reasoning patterns](https://en.wikipedia.org/wiki/Dual_process_theory#System_2_in_humans).
 
-This idea is similar to the statistical machine learning approach i.e. modern deep learning
-where the [Learning Algorithm is compressing the world into hierarchies of abstractions](https://www.skynettoday.com/editorials/nooscope#the-learning-algorithm-compressing-the-world-into-a-statistical-model)
+This old idea is that the [learning is compression of the knowlege experience into hierarchies of abstractions](https://www.skynettoday.com/editorials/nooscope#the-learning-algorithm-compressing-the-world-into-a-statistical-model)
+
+Shared models distill knowledge into the collective wisdom according to [DIKW pyramid](https://en.wikipedia.org/wiki/DIKW_pyramid#Computational_representation) (which itself is a model too).
 
 The Model does not give **the truth** yet posess certain tested [predictive power](https://en.wikipedia.org/wiki/Predictive_power).
 With [scientific method](https://en.wikipedia.org/wiki/Scientific_method) You don't prove hypothesis (model) is true, you prove it **not yet wrong**.
 Science is [falsifiable](https://en.wikipedia.org/wiki/Falsifiability). Best destiny for each theory (model) is to become corner case for a new more broad theory (e.g. Newtonian physics superseded by the General Relativity).
-
-Shared Mental Models distill knowledge into the collective wisdom according to [DIKW pyramid](https://en.wikipedia.org/wiki/DIKW_pyramid#Computational_representation) (which itself is a model too).
 
 People have tried to label them to build taxonomies of most common models
 in order to create reasoning frameworks and to put them in toolboxes.
@@ -212,9 +208,7 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 > -- Bruce Lee
 
 
-Iterate and refine models to sharp your [decision making skills](#decisions) 
-
-Make continuous incremental improvements - [Kaizen (改善)](https://en.wikipedia.org/wiki/Kaizen))
+Iterate and refine models to sharp your [decision making skills](#decisions). Make [incremental improvements](https://en.wikipedia.org/wiki/Kaizen))
 
 Use [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) when have competing models that make exactly the same predictions - the [simpler one is better](https://fs.blog/2019/10/occams-razor/). Follow [KISS principle](https://en.wikipedia.org/wiki/KISS_principle), keep models [as simple as possible, but not simpler](https://quoteinvestigator.com/2011/05/13/einstein-simple/). In the long term this prevents complexity growth, entangled and opaque structure.
 
