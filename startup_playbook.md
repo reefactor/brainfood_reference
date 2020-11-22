@@ -58,7 +58,36 @@ Hire for strenghts, not for weeknesses, [hire people who are smarter than you](/
 Assess credibility => give decision space. Credibility = proven competence + relationships + integrity.
 
 * [Netflix culture manifest](https://www.slideshare.net/reed2001/culture-1798664)
+* "A High-Freedom Approach" Laszlo Bock "Work rules" (google)
+
+
+#### Communication overhead
+
+Underestimated power in keeping team small: small team cohesion and low communication overhead.
+
+* Short-term memory 5-7 (5+-2)
+* Metcalfe's law V = n*(n-1)/2 ~ n^2
+* Dunbar's number 150
+* Allen curve (exponential drop in engineers communication - from physical distance, 50m critical for weekly meetings)
 
 
 #### Generations of employees
+
+##### Bootstrap
+> Move fast and break things. Unless you are breaking stuff, you are not moving fast enough  
+> -- Mark Zuckerberg 
+> The truth is, the cost of preventing errors is often far greater than the cost of fixing them  
+> -- Ed Catmull, Pixar, Creativity Inc
+
+Break/Fix loops - become antifragile, otherwise - become rigid risk averse 
+
+##### Scaling
+
+Pirates vs Navy, Artists vs Soldiers, Water vs Ice.
+
+Pirates do not scale. Transition from rules breaking pirate ship to a rules navigated navy. [How pirates become the navy w/Uber CEO Dara Khosrowshahi](https://www.stitcher.com/s?eid=61690020)
+
+
+
+
 
