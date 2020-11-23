@@ -22,9 +22,12 @@
 Why start a startup? Because early design decisions have the greatest impact.
 
 
+
 ### Success Formula
 
 ProbabilityOfSuccess = idea * execution * timing * luck
+
+Do the work to **make sure you are building a product that people will actually find valuable**. 
 
 
 ### Team
@@ -75,7 +78,8 @@ Underestimated power in keeping team small: small team cohesion and low communic
 
 ##### Bootstrap
 > Move fast and break things. Unless you are breaking stuff, you are not moving fast enough  
-> -- Mark Zuckerberg 
+> -- Mark Zuckerberg
+
 > The truth is, the cost of preventing errors is often far greater than the cost of fixing them  
 > -- Ed Catmull, Pixar, Creativity Inc
 
@@ -87,6 +91,10 @@ Pirates vs Navy, Artists vs Soldiers, Water vs Ice.
 
 Pirates do not scale. Transition from rules breaking pirate ship to a rules navigated navy. [How pirates become the navy w/Uber CEO Dara Khosrowshahi](https://www.stitcher.com/s?eid=61690020)
 
+
+##### Remote teams playbook
+
+Gitlab [all-remote](https://about.gitlab.com/company/culture/all-remote/) released its [Remote playbook PDF](https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf)
 
 
 
