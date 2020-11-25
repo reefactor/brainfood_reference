@@ -68,10 +68,12 @@ Assess credibility => give decision space. Credibility = proven competence + rel
 
 Underestimated power in keeping team small: small team cohesion and low communication overhead.
 
-* Short-term memory 5-7 (5+-2)
-* Metcalfe's law V = n*(n-1)/2 ~ n^2
-* Dunbar's number 150
-* Allen curve (exponential drop in engineers communication - from physical distance, 50m critical for weekly meetings)
+* [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law): V = n*(n-1)/2 ~ n^2
+* [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number): 150
+* [Allen curve](https://en.wikipedia.org/wiki/Allen_curve): exponential drop in communication between engineers as physical distance increases - 50m critical for weekly meetings
+* [Brooks's law](https://en.wikipedia.org/wiki/Brooks%27s_law) - ramp up time and communication overhead
+* [Short-term memory](https://en.wikipedia.org/wiki/Short-term_memory): 5 +-2
+
 
 #### Principal-Agent Problem
 > To me, the principal-agent problem is the single most fundamental problem in microeconomics. If you do not understand the principal-agent problem, you will not know how to navigate your way through the world. It is important if you want to build a successful company or be successful in your dealings.  
