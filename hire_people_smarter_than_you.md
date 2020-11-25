@@ -23,8 +23,12 @@
 > It doesn’t make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do  
 > -- Steve Jobs
 
-> A small team of A+ players can run circles around a giant team of B and C players  
+> A small team of A+ players can run circles around a giant team of B and C players
+> -- Steve Jobs [explained by Ray Dalio](https://youtu.be/M95m2EFb7IQ?t=794)
+
+> [The Greatest people are self-managed, they don't need to be managed](https://www.youtube.com/watch?v=rQKis2Cfpeo)  
 > -- Steve Jobs
+
 
 > It’s all about finding and hiring people smarter than you. Getting them to join your business. And giving them good work. Then getting out of their way. And trusting them. You have to get out of the way so YOU can focus on the bigger vision. That’s important. And here’s the main thing….you must make them see their work as a MISSION  
 >  -- Richard Branson [interview](http://www.mindvalleyinsights.com/a-conversation-with-richard-branson/)
