@@ -102,6 +102,20 @@ Pirates vs Navy, Artists vs Soldiers, Water vs Ice.
 
 Pirates do not scale. Transition from rules breaking pirate ship to a rules navigated navy. [How pirates become the navy w/Uber CEO Dara Khosrowshahi](https://www.stitcher.com/s?eid=61690020)
 
+The [Law of Crappy People](https://fs.blog/2015/02/ben-horowitz-the-law-of-crappy-people/) (Peters principe)
+
+##### Systematize innovation
+> You can systematize innovation even if you can’t completely predict it  
+> -- Eric Schmidt at [Tim Ferris podcast](https://tim.blog/2019/04/11/the-tim-ferriss-show-transcripts-eric-schmidt-367/ )
+
+Sergey Brin rule: 70/20/10
+70% - core buisiness
+20% - bottom-up innovations aka "20%-project"
+10% - top-down experiments
+
+Trillion dollar coach - Bill Campbell . How to coach of high pearformibg teams of competting individuals with ego , who thknk they  know what to do.
+How to lead flat hierhahrcy of 100 engineers at Google.
+Daily "agile operations" of managers, meetings bi-weekly or daily 16pm
 
 ##### Remote teams playbook
 
