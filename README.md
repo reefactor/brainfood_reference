@@ -704,6 +704,23 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > To express yourself in freedom, you must die to everything of yesterday. From the ‘old’, you derive security; from the ‘new’, you gain the flow  
 > – Bruce Lee
 
+> What is age? Is it the number of years you have lived? That is part of age; you were born
+in such and such a year, and now you are fifteen, forty or sixty years old. Your body
+grows old—and so does your mind when it is burdened with all the experiences, miseries
+and weariness of life; and such a mind can never discover what is truth. The mind can
+discover only when it is young, fresh, innocent; but innocence is not a matter of age. It is
+not only the child that is innocent—he may not be—but the mind that is capable of
+experiencing without accumulating the residue of experience. The mind must experience,
+that is inevitable. It must respond to everything—to the river, to the diseased animal, to
+the dead body being carried away to be burnt, to the poor villagers carrying their burdens
+along the road, to the tortures and miseries of life—otherwise it is already dead; but it
+must be capable of responding without being held by the experie nce. It is tradition, the
+accumulation of experience, the ashes of memory, that make the mind old. The mind that
+dies every day to the memories of yesterday, to all the joys and sorrows of the past—such
+a mind is fresh, innocent, it has no age; and without that innocence, whether you are ten
+or sixty, you will not find God.  
+> -- Jiddu Krishnamurt, The Book of Life, Die every day
+
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
 same as human forebrain cortex depends on midbrain infrastructure, 
