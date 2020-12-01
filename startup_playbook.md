@@ -61,7 +61,7 @@ Hire for strenghts, not for weeknesses, [hire people who are smarter than you](/
 Assess credibility => give decision space. Credibility = proven competence + relationships + integrity.
 
 * [Netflix culture manifest](https://www.slideshare.net/reed2001/culture-1798664)
-* "A High-Freedom Approach" Laszlo Bock "Work rules" (google)
+* Autonomy, Sense of ownership, Responsibility - "A High-Freedom Approach" Laszlo Bock "Work rules" (google), [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) approach by Stieve Jobs
 
 
 #### Communication overhead
