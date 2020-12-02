@@ -276,6 +276,10 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap between domains b
 > We need to free ourselves from ‘average’ thinking  
 > -- Philip Anderson, 1997, Nobel Laureate in physics 
 
+> It seems like there are two degrees of freedom: you can choose the people whose opinions you care about (and on what subjects), and you can choose the timescale you care about them on. Most people figure out the former [1] but the latter doesn’t seem to get much attention.  
+> You should trade being short-term low-status for being long-term high-status, which most people seem unwilling to do. A common way this happens is by eventually being right about an important but deeply non-consensus bet. But there are lots of other ways–the key observation is that as long as you are right, being misunderstood by most people is a strength not a weakness. You and a small group of rebels get the space to solve an important problem that might otherwise not get solved.  
+> -- Sam Altman, [The Strength of Being Misunderstood](https://blog.samaltman.com/the-strength-of-being-misunderstood)
+
 Challenge beliefs & persist. Disagree & commit. Make asymmetric bets.
 
 
