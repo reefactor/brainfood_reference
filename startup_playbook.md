@@ -108,10 +108,13 @@ The [Law of Crappy People](https://fs.blog/2015/02/ben-horowitz-the-law-of-crapp
 > You can systematize innovation even if you can’t completely predict it  
 > -- Eric Schmidt at [Tim Ferris podcast](https://tim.blog/2019/04/11/the-tim-ferriss-show-transcripts-eric-schmidt-367/ )
 
-Sergey Brin rule: 70/20/10
-70% - core buisiness
-20% - bottom-up innovations aka "20%-project"
-10% - top-down experiments
+> No new idea in the history of the world had been proven in advance analytically  
+> -- Charles Sanders Peirce [quoted by Roger Martin. You can't analyze your way to innovation](https://www.bridgespan.org/insights/library/strategy-development/roger-martins-unconventional-wisdom)
+
+Sergey Brin [rule 70/20/10](https://www.forbes.com/sites/quentinhardy/2011/07/16/googles-innovation-and-everyones)
+* 70% - core buisiness
+* 20% - bottom-up innovations aka "20%-project" experiments
+* 10% - top-down experiments
 
 Trillion dollar coach - Bill Campbell . How to coach of high pearformibg teams of competting individuals with ego , who thknk they  know what to do.
 How to lead flat hierhahrcy of 100 engineers at Google.
