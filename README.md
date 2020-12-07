@@ -40,6 +40,9 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > Fools say that they learn by experience. I prefer to profit by others experience.  
 > ― Otto von Bismarck
 
+> У разночинца биографии нет — есть только список прочитанных книг  
+> -- Осип Мандельштам
+
 - [Baseline books](baseline.md)
 - [CS Baseline](baseline_cs.md)
 - [Collection of books & reviews](https://sive.rs/book) by Derek Sivers
