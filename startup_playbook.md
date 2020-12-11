@@ -25,7 +25,7 @@ Why start a startup? Because early design decisions have the greatest impact.
 
 ### Success Formula
 
-ProbabilityOfSuccess = idea * execution * timing * luck
+ProbabilityOfSuccess = idea * execution * timing * luck * latent_variables
 
 Do the work to **make sure you are building a product that people will actually find valuable**. 
 
