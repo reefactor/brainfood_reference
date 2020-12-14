@@ -96,6 +96,14 @@ The smaller the company, the more everyone feels like a principal. The less you 
 
 Break/Fix loops - become antifragile, otherwise - become rigid risk averse 
 
+##### Deliberate practice 
+
+* Speed of iteration beats quality
+* Makers schedule / managers schedule
+* Pomodoro sprints
+* Teach youself programming in ten years
+
+
 ##### Scaling
 
 Pirates vs Navy, Artists vs Soldiers, Water vs Ice.
