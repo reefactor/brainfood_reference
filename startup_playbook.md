@@ -96,6 +96,8 @@ The smaller the company, the more everyone feels like a principal. The less you 
 
 Break/Fix loops - become antifragile, otherwise - become rigid risk averse 
 
+Lead by example.
+
 ##### Deliberate practice 
 
 * Speed of iteration beats quality
