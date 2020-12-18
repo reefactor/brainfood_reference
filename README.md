@@ -693,8 +693,9 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > We cannot become what we need to be by remaining what we are  
 >  -- Max de Pree
 
+> Man is something that shall be overcome. Man is a rope, tied between beast and overman — a rope over an abyss. What is great in man is that he is a bridge and not an end.  
 > You must be ready to burn yourself in your own flame; how could you rise anew if you have not first become ashes?  
-> -- Nietzsche, Thus Spoke Zarathustra
+> ― Friedrich Wilhelm Nietzsche, Thus Spoke Zarathustra
 
 > Thus it can be seen that mental health is based on a certain degree of tension, the tension between what one has already achieved and what one still ought to accomplish, or the gap between what one is and what one should become. Such a tension is inherent in the human being and therefore is indispensable to mental well-being  
 > -- Victor Frankl
