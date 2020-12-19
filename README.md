@@ -96,6 +96,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [Указатели истины](https://www.peremeny.ru/blog/category/%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d1%8b/%d1%83%d0%ba%d0%b0%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d0%b8-%d0%b8%d1%81%d1%82%d0%b8%d0%bd%d1%8b)
 - [Philosophy for life by Jules Evans](https://www.philosophyforlife.org/)
 - [FAQ by Derek Sivers](https://sive.rs/bfaq)
+- [Awakening from the Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) lectures series by John Vervaeke, Universilty of Toronto
 
 ### CS - computer science & tech
 * [Uber Engineering](https://www.youtube.com/channel/UCQlvjgieHGgkpP_9GiVyTGw)
