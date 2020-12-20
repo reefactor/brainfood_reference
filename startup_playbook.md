@@ -110,8 +110,8 @@ Lead by example.
 ##### Scaling
 
 > After we closed our Series C with **Peter Thiel** in 2012, we invited him to our office. This was late last year, and we were in the Berlin room showing him various metrics. Midway through the conversation, I asked him what was the single most important piece of advice he had for us.  
-> He replied, 
->> _Don’t fuck up the culture._
+> He replied,   
+>> _Don’t fuck up the culture._  
 > -- from [Letter to the Airbnb team](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4) by Brian Chesky, CEO of Airbnb  
 
 Pirates vs Navy, Artists vs Soldiers, Water vs Ice.
