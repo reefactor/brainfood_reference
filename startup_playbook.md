@@ -61,12 +61,13 @@ Hire for strenghts, not for weeknesses, [hire people who are smarter than you](/
 Assess credibility => give decision space. Credibility = proven competence + relationships + integrity.
 
 * [Netflix culture manifest](https://www.slideshare.net/reed2001/culture-1798664)
-* Autonomy, Sense of ownership, Responsibility - "A High-Freedom Approach" Laszlo Bock "Work rules" (google), [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) approach by Stieve Jobs
+* Autonomy, Sense of ownership, Responsibility - "A High-Freedom Approach" Laszlo Bock "Work rules" (google)
+* [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) approach by Stieve Jobs
 
 
 #### Communication overhead
 
-Underestimated power in keeping team small: small team cohesion and low communication overhead.
+Underestimated power in keeping team small: **team cohesion and low communication overhead**.
 
 * [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law): V = n*(n-1)/2 ~ n^2
 * [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number): 150
@@ -108,11 +109,18 @@ Lead by example.
 
 ##### Scaling
 
+> After we closed our Series C with **Peter Thiel** in 2012, we invited him to our office. This was late last year, and we were in the Berlin room showing him various metrics. Midway through the conversation, I asked him what was the single most important piece of advice he had for us.  
+> He replied, 
+>> _Don’t fuck up the culture._
+> -- from [Letter to the Airbnb team](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4) by Brian Chesky, CEO of Airbnb  
+
 Pirates vs Navy, Artists vs Soldiers, Water vs Ice.
 
 Pirates do not scale. Transition from rules breaking pirate ship to a rules navigated navy. [How pirates become the navy w/Uber CEO Dara Khosrowshahi](https://www.stitcher.com/s?eid=61690020)
 
 The [Law of Crappy People](https://fs.blog/2015/02/ben-horowitz-the-law-of-crappy-people/) (Peters principe)
+
+
 
 ##### Systematize innovation
 > You can systematize innovation even if you can’t completely predict it  
