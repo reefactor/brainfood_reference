@@ -97,6 +97,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [Philosophy for life by Jules Evans](https://www.philosophyforlife.org/)
 - [FAQ by Derek Sivers](https://sive.rs/bfaq)
 - [Awakening from the Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) lectures series by John Vervaeke, Universilty of Toronto
+- [The Art of Improvement](https://www.youtube.com/c/TheArtofImprovement) channel
 
 ### CS - computer science & tech
 * [Uber Engineering](https://www.youtube.com/channel/UCQlvjgieHGgkpP_9GiVyTGw)
