@@ -121,6 +121,7 @@ Pirates do not scale. Transition from rules breaking pirate ship to a rules navi
 
 The [Law of Crappy People](https://fs.blog/2015/02/ben-horowitz-the-law-of-crappy-people/) (Peters principe)
 
+[Tours of Duty: The New Employer-Employee Compact](https://hbr.org/2013/06/tours-of-duty-the-new-employer-employee-compact) by Reid Hoffman - an approach to [how to organize modern employment](https://www.linkedin.com/pulse/20141023153633-1213-tours-of-duty-how-to-organize-modern-employment/)
 
 
 ##### Systematize innovation
