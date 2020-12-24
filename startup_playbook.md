@@ -115,6 +115,12 @@ Lead by example.
 >
 >  -- from [Letter to the Airbnb team](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4) by Brian Chesky, CEO of Airbnb  
 
+
+> Don’t Punk Out and Don’t Quit  
+> As CEO, there will be many times when you feel like quitting. I have seen CEOs try to cope with the stress by drinking heavily, checking out, and even quitting. In each case, the CEO has a marvelous rationalization why it was OK for him to punk out or quit, but none them will ever be great CEOs. Great CEOs face the pain. They deal with the sleepless nights, the cold sweat, and what my friend the great Alfred Chuang (legendary founder and CEO of BEA Systems) calls “the torture.” Whenever I meet a successful CEO, I ask them how they did it. Mediocre CEOs point to their brilliant strategic moves or their intuitive business sense or a variety of other self-congratulatory explanations. The great CEOs tend to be remarkably consistent in their answers. They all say: “I didn’t quit.”  
+> -- What’s The Most Difficult CEO Skill? [Managing Your Own Psychology](https://a16z.com/2011/03/31/whats-the-most-difficult-ceo-skill-managing-your-own-psychology/) by Ben Horowitz
+
+
 Pirates vs Navy, Artists vs Soldiers, Water vs Ice.
 
 Pirates do not scale. Transition from rules breaking pirate ship to a rules navigated navy. [How pirates become the navy w/Uber CEO Dara Khosrowshahi](https://www.stitcher.com/s?eid=61690020)
