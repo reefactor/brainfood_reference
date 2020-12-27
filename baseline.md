@@ -90,6 +90,7 @@
 - Striking Thoughts: Bruce Lee's Wisdom for Daily Living by Bruce Lee
 - Conversations in Exile: Russian Writers Abroad by John Glad, 1993 
 - The Book of Life by Jiddu Krishnamurti
+- Total Freedom - The Essential Krishnamurti
 
 
 ### Отечество
