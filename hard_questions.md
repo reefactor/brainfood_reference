@@ -9,6 +9,11 @@
 > One should use common words to say uncommon things  
 > ― Arthur Schopenhauer
 
+> I think it is always important to ask fundamental questions: but when we do ask a fundamental question, most of us are seeking an answer, and then the answer is invariably superficial, because there is no yes or no answer to life. Life is a movement, an endless movement, and to inquire into this extraordinary thing called life, with all its innumerable aspects, one must ask fundamental questions and never be satisfied with answers, however satisfactory they may be, because the moment you have an answer, the mind has concluded, and conclusion is not life, it is merely a static state.  
+> So what is important is to ask the right question and never be satisfied with the answer, however clever, however logical, because the truth of the question lies beyond the conclusion, beyond the answer, beyond the verbal expression. The mind that asks a question and is merely satisfied with an explanation, a verbal statement, remains superficial.  
+> It is only the mind that asks a fundamental question and is capable of pursuing that question to the end that can find out what is truth.  
+> ― Jiddu Krishnamurti, Total Freedom
+
 
 ### [What Is Consciousness?](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)
 
