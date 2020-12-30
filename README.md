@@ -741,7 +741,7 @@ same as human consciousness is powerless against orders of endocrine system prog
 
 Cage [monkey mind](https://en.wikipedia.org/wiki/Monkey_mind).
 
-Avoid [Magneto syndrome](https://julesevans.medium.com/is-the-somatics-movement-racist-d948c4abbad6) trap of Spiritual Elitism.
+Avoid [Magneto syndrome](https://julesevans.medium.com/is-the-somatics-movement-racist-d948c4abbad6) of Spiritual Elitism and [Spiritual Darwinism](https://medium.com/swlh/can-you-pass-the-acid-test-on-psychedelics-and-spiritual-eugenics-a613b3c64c04).
 
 
 
