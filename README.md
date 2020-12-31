@@ -303,7 +303,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | Divine supreme predestination - Daiva | [Wu wei](https://en.wikipedia.org/wiki/Wu_wei), [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer) | Freedom of personal will - Purushakara |
 | yin / inaction |  | yang / action |
 | faith, dogma, axiom |  | testable falsifiable science |
-| exploitation |  | exploration |
+| exploitation, deliberate practice, craftsman mindset |  | exploration, deliberate experimentation |
 | specialist |  | generalist |
 | security |   | privacy |
 | fast thinking, 1st signal system |  | slow thinking, 2nd signal system |
@@ -364,10 +364,15 @@ Expertise requires going from unconscious incompetence to conscious incompetence
 > When you are young, work to learn, not to earn  
 > – Robert Kiyosaki
 
+> Craftsman mindset focuses on what you can offer the world, the passion mindset focuses instead on what the world can offer you. This mindset is how most people approach their working lives  
+> ― Cal Newport, So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love
+
 Follow your intellectual curiosity. Love what you do - enjoy process, not results - otherwise you won't get through the hard times. 
 
-Early in your carrier prefer [exploration](https://en.wikipedia.org/wiki/Multi-armed_bandit) - take relatively big steps (diversification) in the search space. Later - decrease - move to intensification / exploitation. The strategy is similar to [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
+Early in your carrier prefer [exploration](https://en.wikipedia.org/wiki/Multi-armed_bandit) - take relatively big steps (diversification) in the search space. Later - decrease - move to intensification / exploitation. The strategy is similar to [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing).  
+Deliberate experimentation (exploration, [BFS](https://en.wikipedia.org/wiki/Breadth-first_search)) is more efficient than deliberate practice in a rapidly changing world. [10000-experiment rule](https://medium.com/accelerated-intelligence/forget-about-the-10-000-hour-rule-7b7a39343523) beats [10,000-hours rule](https://en.wikipedia.org/wiki/Outliers_(book)) (exploitation, "craftsman mindset", [DFS](https://en.wikipedia.org/wiki/Depth-first_search))
 
+Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.youtube.com/watch?v=gkhtYs22bLI)
 
 
 #### Values
