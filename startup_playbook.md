@@ -99,13 +99,18 @@ Break/Fix loops - become antifragile, otherwise - become rigid risk averse
 
 Lead by example.
 
+##### Approximation-driven development
+
+Product of sustainable business model grows and evolves from MVP on [customer feedback](https://en.wikipedia.org/wiki/Reinforcement_learning). Optimal software architecture - an approximation for future demands - lean and agile model with good [generalization](https://en.wikipedia.org/wiki/Generalization_error).
+
+Approximation-driven development vs Pattern-and-planning -> Efficiency of [Generative design](https://en.wikipedia.org/wiki/Generative_design) vs nandcrafted.
+Gaudí vs Gothic.
+
 ##### Deliberate practice 
 
 * Speed of iteration beats quality
 * Makers schedule / managers schedule
 * Pomodoro sprints
-* Teach youself programming in ten years
-
 
 ##### Scaling
 
