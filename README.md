@@ -166,7 +166,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > -- George E. P. Box
 
 > Each piece, or part, of the whole of nature is always merely an approximation to the complete truth, or the complete truth so far as we know it. In fact, everything we know is only some kind of approximation, because we know that we do not know all the laws as yet. Therefore, things must be learned only to be unlearned again or, more likely, to be corrected   
-> Richard Feynman, [Lectures on Physics](https://en.wikiquote.org/wiki/Richard_Feynman#The_Feynman_Lectures_on_Physics_(1964)), [Lecture 1 - Atoms in Motion](https://www.feynmanlectures.caltech.edu/I_01.html)
+> -- Richard Feynman, [Lectures on Physics](https://en.wikiquote.org/wiki/Richard_Feynman#The_Feynman_Lectures_on_Physics_(1964)), [Lecture 1 - Atoms in Motion](https://www.feynmanlectures.caltech.edu/I_01.html)
 
 > You’ve got to have models in your head. And you’ve got to array your experience ‑ both vicarious and direct ‑ on this latticework of models. You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head  
 > -- Charlie Munger
