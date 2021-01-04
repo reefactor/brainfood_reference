@@ -19,7 +19,7 @@
 as [support vectors](https://en.wikipedia.org/wiki/Support_vector_machine) in [uncertainty](#uncertainty)
 to explore the limits of human knowledge despite the [limitations of language](#limitations-of-language)
 5. Ask [Hard Questions](hard_questions.md)
-6. [Introspect](#introspect)
+6. [Introspect](#introspection)
 
 ***
 
@@ -54,7 +54,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 
 ## Streams
 
-### Tribe of mentors
+#### Tribe of mentors
 
 > The search after the great man is the dream of youth and the most serious occupation of manhood  
 > -- Ralph Waldo Emerson, The Uses of Great Men
@@ -80,13 +80,13 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > -- Ed Catmull, Pixar
 
 
-### φύσις
+#### φύσις
 * [The Quanta Magazine](https://www.quantamagazine.org/)
 * [Книга новостей](https://kniganews.org)
 * [Wait but why](http://waitbutwhy.com)
 * [Сергей Карелов - Малоизвестное интересное на стыке науки, технологий, бизнеса и общества](https://medium.com/@sergey_57776)
 
-### ψυχή
+#### ψυχή
 - [Brain Pickings by Maria Popova: Weekly Newsletter](https://www.brainpickings.org)
 - [Letters of Note](https://www.lettersofnote.com)
 - [Aeon Magazine newsletter](https://aeon.co/)
@@ -101,7 +101,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [Awakening from the Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) lectures series by John Vervaeke, Universilty of Toronto
 - [The Art of Improvement](https://www.youtube.com/c/TheArtofImprovement) channel
 
-### CS - computer science & tech
+#### CS - computer science & tech
 * [Uber Engineering](https://www.youtube.com/channel/UCQlvjgieHGgkpP_9GiVyTGw)
 * [GoogleTechTalks](https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw)
 * [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg)
@@ -111,7 +111,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 * [AWESOME GitHub curated lists](https://github.com/sindresorhus/awesome)
 * [Hackernewsletter](http://hackernewsletter.com)
 
-### ML - machine learning & cognitive systems
+#### ML - machine learning & cognitive systems
 * [Center for Brains, Minds and Machines (CBMM)](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ)
 * [Intuition Machine newsletter](https://www.getrevue.co/profile/intuitionmachine)
 * [Data elixir newsletter](https://dataelixir.com)
@@ -125,18 +125,18 @@ to explore the limits of human knowledge despite the [limitations of language](#
 * [Berkeley Institute for Data Science (BIDS) channel](https://www.youtube.com/channel/UCBBd3JxQl455JkWBeulc-9w)
 * [Artificial Intelligence Courses channel](https://www.youtube.com/user/aicourses)
 
-### Datavis, infographics, data journalism
+#### Datavis, infographics, data journalism
 * [Information is beautiful](http://www.informationisbeautiful.net/), annual [awards](http://www.informationisbeautifulawards.com/)
 * [OpenVis con @BocoupLLC ](https://www.youtube.com/channel/UCQUPI1PxfE4-bqwuI26I2HA)
 * [Flowingdata](http://flowingdata.com) [newsletter](http://flowingdata.us2.list-manage.com/subscribe?u=f538bce868aac1144d248c0bc&id=71ef3cfa3a)
 * [howmuch.net - Understanding money](https://howmuch.net/)
 
-### Business 
+#### Business 
 - [Stratechery by Ben Thompson on the business, strategy, and impact of technology](https://stratechery.com)
 - [Benedict Evans newsletter](http://ben-evans.com/newsletter/)
 - [Timeless concepts by Jim Collins](https://www.jimcollins.com/concepts.html) from more than 25 years of rigorous research into the question of what makes great companies tick
 
-### Listen and Learn
+#### Listen and Learn
 
 - [Tim Ferris podcast](http://tim.blog/podcast/)
 - [The Knowledge Project Podcast with Shane Parrish](https://fs.blog/the-knowledge-project/)
@@ -193,7 +193,7 @@ in order to create reasoning frameworks and to put them in toolboxes.
 
 And so there're [plenty of them online](https://www.google.com/search?q=mental+models)
 
-### Steep gradient ascent along learning curve
+#### Steep gradient ascent along learning curve
 
 > Run Uphill. Simple heuristic: If you’re evenly split on a difficult decision, take the path more painful in the short term.  
 > If you have two choices to make, and they’re relatively equal choices, take the path more difficult and more painful in the short term.  
@@ -262,7 +262,7 @@ So, in highly competitive zero-sum game, the Winner-Takes-All in ~rat race~[Red 
 Single crossdomain B+ speciallist is better than 2 A+ with gap between domains because of the communication overhead.
 
 
-### Common sense
+#### Common sense
 > What important truth do very few people agree with you on?  
 > -- Peter Thiel, Zero to One
 
@@ -319,7 +319,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | self-reliance |  | standing on a shoulder of giants |
 | [rules breaking](startup_playbook.md#bootstrap) pirates |   | [rules navigated](startup_playbook.md#scaling) navy |
 
-###  Reasoning
+## Reasoning
 > In theory, there is no difference between theory and practice. But, in practice, there is  
 > -- Jan L.A. van de Snepscheut
 
@@ -375,12 +375,12 @@ Expertise requires going from unconscious incompetence to conscious incompetence
 Follow your intellectual curiosity. Love what you do - enjoy process, not results - otherwise you won't get through the hard times. 
 
 Early in your carrier prefer [exploration](https://en.wikipedia.org/wiki/Multi-armed_bandit) - take relatively big steps (diversification) in the search space. Later - decrease - move to intensification / exploitation. The strategy is similar to [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing).  
-Deliberate experimentation (exploration, [BFS](https://en.wikipedia.org/wiki/Breadth-first_search)) is more efficient than deliberate practice in a rapidly changing world. [10000-experiment rule](https://medium.com/accelerated-intelligence/forget-about-the-10-000-hour-rule-7b7a39343523) beats [10,000-hours rule](https://en.wikipedia.org/wiki/Outliers_(book)) (exploitation, "craftsman mindset", [DFS](https://en.wikipedia.org/wiki/Depth-first_search))
+Deliberate experimentation (exploration, [BFS](https://en.wikipedia.org/wiki/Breadth-first_search)) is more efficient than deliberate practice in a rapidly changing world. [10000-experiment rule](https://medium.com/accelerated-intelligence/forget-about-the-10-000-hour-rule-7b7a39343523) beats [10000-hours rule](https://en.wikipedia.org/wiki/Outliers_(book)) (exploitation, "craftsman mindset", [DFS](https://en.wikipedia.org/wiki/Depth-first_search))
 
 Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.youtube.com/watch?v=gkhtYs22bLI)
 
 
-#### Values
+### Values
 
 > You've got to serve somebody  
 > -- Bob Dylan
@@ -674,7 +674,7 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > -- The Almanack of Naval Ravikant
 
 
-## Introspect
+## Introspection
 
 > We don’t see things as they are, but as we are  
 > — Anaïs Nin
@@ -796,7 +796,7 @@ A Need for [Sence of Heroic Worth](https://academyofideas.com/2020/05/the-psycho
 
 
 
-## Pointers of Truth
+### Pointers of Truth
 
 > The wisdom of the wise, and the experience of ages, may be preserved by quotations  
 > ― Isaac Disraeli
@@ -811,7 +811,7 @@ A Need for [Sence of Heroic Worth](https://academyofideas.com/2020/05/the-psycho
 Очень часто сила, свет этих народных указаний выручала меня, подбадривала, наставляла, утешала.  
 > ― Александр Солженицын
 
-### Limitations of language
+#### Limitations of language
 > When the sage points at the moon, the fool looks at the finger
 >> Truth has nothing to do with language. Truth is like Moon in the sky and language is like the finger that points to the moon. A finger can point out where the moon is, but the finger is not the truth. You can see the moon without help of any fingers, can you?
 
@@ -834,7 +834,7 @@ Symbolic System is [a map, not the territory](https://en.wikipedia.org/wiki/Map%
 
 [Python code protection via obfuscation or compilation](security_review_python_code_protector.md)
 
-###  High Availability
+#### High Availability
 
-#### Отказоустойчивость для чайников
+##### Отказоустойчивость для чайников
 ![HOWTO HA или Отказоустойчивость для чайников](res/howto-ha.gif)
