@@ -91,8 +91,8 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [Letters of Note](https://www.lettersofnote.com)
 - [Aeon Magazine newsletter](https://aeon.co/)
 - [Killing Buddha](http://www.killingbuddha.co/)
-- [Personality and Its Transformations (by Jordan B Peterson, University of Toronto 2017)](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi)
-- [Maps of Meaning: The Architecture of Belief (by Jordan B Peterson University of Toronto 2017))](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
+- [Personality and Its Transformations](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi) lectures by Jordan B Peterson, University of Toronto 2017
+- [Maps of Meaning: The Architecture of Belief](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h) lectures by Jordan B Peterson, University of Toronto 2017
 - [The School of Life channel](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
 - [Academy of Ideas channel](https://www.youtube.com/channel/UCiRiQGCHGjDLT9FQXFW0I3A)
 - [Указатели истины](https://www.peremeny.ru/blog/category/%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d1%8b/%d1%83%d0%ba%d0%b0%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d0%b8-%d0%b8%d1%81%d1%82%d0%b8%d0%bd%d1%8b)
@@ -317,7 +317,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | divergent thinking (out of then box, creative) |  | convergent (focused) |
 | wisdom of crowds  |  | consensus bias, common sense misconceptions |
 | self-reliance |  | standing on a shoulder of giants |
-
+| [rules breaking](startup_playbook.md#bootstrap) pirates |   | [rules navigated](startup_playbook.md#scaling) navy |
 
 ###  Reasoning
 > In theory, there is no difference between theory and practice. But, in practice, there is  
