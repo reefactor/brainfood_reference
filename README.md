@@ -550,6 +550,7 @@ Listen to interview
 [Part 3](https://peterattiamd.com/matthewwalker3/),
 with [Matthew Walker](https://www.sleepdiplomat.com/speaker), Ph.D, Sleep Scientist for Google.
 
+[Segmented sleep](https://en.wikipedia.org/wiki/Biphasic_and_polyphasic_sleep) is normal and not a sign of any pathology.
 
 #### Decisions
 
