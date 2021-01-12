@@ -17,6 +17,9 @@
 
 ### [What Is Consciousness?](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)
 
+> The so-called [unity of consciousness](https://plato.stanford.edu/entries/consciousness-unity/) is an illusion… we like to think that we are one [but we are not](https://en.wikipedia.org/wiki/Divided_consciousness)  
+> — Carl Jung quoted by [Science magazine Review: Dissociationism Revived](https://science.sciencemag.org/content/200/4342/654)
+
 [The Spotlight of attention]((https://en.wikipedia.org/wiki/The_Doors_of_Perception)) is parameterized by direction vector, min / max light cone angles (focused or diffused), intensity and duration.
 
 
