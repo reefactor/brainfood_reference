@@ -594,6 +594,7 @@ Good decisions not always give great outcome. But consistent on average, cycle o
 
 Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large cost of failure) VS Startup risk-taking mentality (fail-fast, large benefits from success).
 
+You have to have (skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_game_(phrase)).
 
 ##### Uncertainty
 
