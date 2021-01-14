@@ -1,5 +1,6 @@
 # Brain Food Reference
-> You are what you eat
+> You are what you eat  
+> -- Anthelme Brillat-Savarin
 
 > Nowadays the problem is not information access but [information overload](https://en.wikipedia.org/wiki/Information_overload). The real value produced by an information provider comes in locating, filtering, and communicating what is useful  
 > ― Carl Shapiro, Information Rules: A Strategic Guide to the Network 1998
@@ -35,7 +36,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > -- Charles Munger
 
 > Repetitio est mater studiorum. Any kind of important book should immediately be read twice, partly because one grasps the latter in its entirety the second time, and only really understands the beginning when the end is known; and partly because in reading it the second time one’s temper and mood are different, so that one gets another impression; it may be that one sees the matter in another light  
-> -- Arthur Schopenhauer on reading books.
+> -- Arthur Schopenhauer
 
 > Fools say that they learn by experience. I prefer to profit by others experience.  
 > ― Otto von Bismarck
@@ -594,7 +595,7 @@ Good decisions not always give great outcome. But consistent on average, cycle o
 
 Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large cost of failure) VS Startup risk-taking mentality (fail-fast, large benefits from success).
 
-You have to have (skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_game_(phrase)).
+You have to have [skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_game_(phrase)).
 
 ##### Uncertainty
 
