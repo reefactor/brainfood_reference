@@ -319,6 +319,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | wisdom of crowds  |  | consensus bias, common sense misconceptions |
 | self-reliance |  | standing on a shoulder of giants |
 | [rules breaking](startup_playbook.md#bootstrap) pirates |   | [rules navigated](startup_playbook.md#scaling) navy |
+| Moral absolutism |  | Moral relativism |
 
 ## Reasoning
 > In theory, there is no difference between theory and practice. But, in practice, there is  
@@ -423,6 +424,8 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 * [Live Your Life](https://www.goodreads.com/quotes/8909397-a-poem-by-tecumseh-so-live-your-life-that-the) poem by Chief [Tecumseh](https://en.wikiquote.org/wiki/Tecumseh)
 
 Choose axiomatic set of Principles and derrive Values, vision, beliefs, meaning, purpose, goals, incentives.
+
+Search for a Middle Ground between [moral absolutism](https://en.wikipedia.org/wiki/Moral_absolutism) and [relativism](https://en.wikipedia.org/wiki/Moral_relativism) of your Values against others.
 
 First you choose the path, then the path chooses you.
 
