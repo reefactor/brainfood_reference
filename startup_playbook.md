@@ -45,6 +45,9 @@ A startup eventually has to get a lot of people to join its quest.  It's usually
 > ... There is a derivative of the Peter Principle at play here—your startup will rise to the level where it can no longer attract enough talented people.  (This sometimes holds true for careers too—the limiting factor for many careers eventually becomes how many talented people you know and can get to work with you.)  
 > -- Sam Altman in [Hard startups](https://blog.samaltman.com/hard-startups)
 
+> Plato said: "Do not train boys to learning by force and harshness, but lead them by what amuses them, so that they may better discover the bent of their minds." Pressuring people or giving them orders often doesn't work. It is better to convince people by asking questions that illuminate consequences. This causes them to think for themselves and makes it more likely that they discover what's in their best interest  
+> -- Poor Charlie's Almanack
+
 
 Find Deep experts in the domain space but willing to embrace change.
 
