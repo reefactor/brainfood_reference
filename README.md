@@ -711,6 +711,15 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > We cannot become what we need to be by remaining what we are  
 >  -- Max de Pree
 
+> The goal is not to be better than the other man, but your previous self  
+> ― Dalai Lama XIV
+
+> True change is within; leave the outside as it is  
+> ― Dalai Lama XIV, How to Practice: The Way to a Meaningful Life
+
+> Success is peace of mind which is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming  
+> -- John Wooden  
+
 > Man is something that shall be overcome. Man is a rope, tied between beast and overman — a rope over an abyss. What is great in man is that he is a bridge and not an end.  
 > You must be ready to burn yourself in your own flame; how could you rise anew if you have not first become ashes?  
 > ― Friedrich Wilhelm Nietzsche, Thus Spoke Zarathustra
@@ -746,6 +755,16 @@ dies every day to the memories of yesterday, to all the joys and sorrows of the 
 a mind is fresh, innocent, it has no age; and without that innocence, whether you are ten
 or sixty, you will not find God.  
 > -- Jiddu Krishnamurt, The Book of Life, Die every day
+
+> ..On this account it is, that although the acquisition of fresh knowledge is the necessary precursor of every step in social progress,
+such acquisition must itself be preceded by a love of inquiry, and therefore by a spirit of doubt;
+because without doubt there will be no inquiry, and without inquiry there will be no knowledge.
+For knowledge is not an inert and passive principle which comes to us whether we will or no; 
+but it must be sought before it can be won; it is the product of great labor and therefore of great sacrifice.
+And it is absurd to suppose that men will incur the labor, and make the sacrifice, 
+for subjects respecting which they are already perfectly content. 
+**They who do not feel the darkness, will never look for the light**  
+> -- Henry Thomas Buckle, History of Civilization in England: Volume 1
 
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
