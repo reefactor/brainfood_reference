@@ -303,7 +303,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 |---|---|---|
 | cowardice | courage | recklessness |
 | fatalist | wave surfer | Control-freak |
-| autocracy | meritocracy | democracy |
+| autocracy (1 vote with infinite weight) | meritocracy (N votes with weights proportional to the individual merit) | democracy (N votes with constant weights  equally distributed) |
 | ascetic  | buddhist middle way | hedonic |
 | eternalism | buddhist [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)  | annihilationism |
 | Divine supreme predestination - Daiva | [Wu wei](https://en.wikipedia.org/wiki/Wu_wei), [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer) | Freedom of personal will - Purushakara |
@@ -581,6 +581,15 @@ judgment. The two can be far from the same, and especially over a small number o
 > I’ve certainly been fortunate and it is **hard to actually figure out whether I was skilful at taking advantage of opportunities or just blind luck because you can’t actually run this experiment twice**.  
 > What I do think is that as a society we attribute too much to luck. Luck is like an atheistic word for God: we ascribe things to it that we don’t understand or don’t want to understand. As a venture capitalist, I think one of the most toxic things to do is to treat the people I’m investing in as lottery tickets where I say: “Well I don’t know if your business is going to work. It might, it might not.” I think that’s a horrible way to treat people. The anti-lottery ticket approach is to try to achieve a high level of conviction, to ask: “Is this a business that I have enough confidence in that I would consider joining it myself?”  
 > -- Peter Thiel [interview](https://www.theguardian.com/technology/2014/sep/21/peter-thiel-paypal-luck-atheist-god)
+
+> If there is no solution to the problem then don't waste time worrying about it. If there is a solution to the problem then don't waste time worrying about it  
+> ― Dalai Lama XIV
+
+> It is very rare or almost impossible that an event can be negative from all points of view  
+> ― Dalai Lama XIV
+
+> Learn and obey the rules very well so you will know how to break them properly  
+> ― Dalai Lama XIV
 
 
 There're lots of frameworks and tools for [decision making](https://fs.blog/smart-decisions/)
