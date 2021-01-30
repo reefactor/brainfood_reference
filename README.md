@@ -136,6 +136,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [Stratechery by Ben Thompson on the business, strategy, and impact of technology](https://stratechery.com)
 - [Benedict Evans newsletter](http://ben-evans.com/newsletter/)
 - [Timeless concepts by Jim Collins](https://www.jimcollins.com/concepts.html) from more than 25 years of rigorous research into the question of what makes great companies tick
+- [Memos from Howard Marks](https://www.oaktreecapital.com/insights/howard-marks-memos)
 
 #### Listen and Learn
 
