@@ -418,6 +418,10 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 > Begin with end in mind
 > -- Stephen Covey
 
+> Never prostitute your principles in your work. — I will never prostitute myself in any way that I do what I don’t believe in.  
+> -- Striking Thoughts: Bruce Lee's Wisdom for Daily Living (2000) edited by John Little
+
+
 * The [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule) principle of treating others as you want to be treated is spoiled by [hypocrisy of double standards](https://en.wikipedia.org/wiki/Hypocrisy)
 * [This is watter](https://www.youtube.com/watch?v=8CrOL-ydFMI) [speech](https://en.wikipedia.org/wiki/This_Is_Water) by David Foster Wallace
 * [Maps of Meaning The Architecture of Belief](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h) by Jordan B Peterson
@@ -476,6 +480,17 @@ Money is infinite and your time is not. When You're trading time for money, you 
 
 > Inspiration is for amateurs while the rest of us just show up and get to work  
 > -- Chuck Close
+
+> Daily progress. — Make at least one definite move daily toward your goal.  
+> The three keys to success. — Persistence, persistence, and persistence. The Power can be created and maintained through daily practice — continuous effort.
+The spirit of the individual is determined by his dominating thought habits.   
+> Take inventory of everyone with whom you have contact.  
+> Thoughts are things.  
+> The intangible represents the real power of the universe. It is the seed of the tangible.  
+> Faith is a state of mind that can be conditioned through self-discipline. Faith will accomplish.  
+> Faith makes it possible to achieve that which man's mind can conceive and believe.  
+> Possession of anything begins in the mind.  
+> -- Part 6 "Beyond System — The Ultimate Source of Jeet Kune Do" Jeet Kune Do: Bruce Lee's Commentaries on the Martial Way (1997) edited by John Little
 
 Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/habits-vs-goals/).
 
@@ -775,6 +790,39 @@ And it is absurd to suppose that men will incur the labor, and make the sacrific
 for subjects respecting which they are already perfectly content. 
 **They who do not feel the darkness, will never look for the light**  
 > -- Henry Thomas Buckle, History of Civilization in England: Volume 1
+>
+>
+> You have that personal obligation to yourself **to make yourself the best product possible according to your own terms**. Not the biggest or the most successful, but the best quality — with that achieved, comes everything else.
+> ...  
+> Pliability is life. — Be pliable. When a man is living, he is soft and pliable; when he is dead, he becomes rigid. **Pliability is life; rigidity is death, whether one speaks of man’s body, his mind, or his spirit**.
+> ...  
+> Flow in the living moment. — We are **always in a process of becoming and NOTHING is fixed. Have no rigid system in you, and you’ll be flexible to change with the ever changing**. OPEN yourself and flow, my friend. Flow in the TOTAL OPENNESS OF THE LIVING MOMENT. If nothing within you stays rigid, outward things will disclose themselves. **Moving, be like water. Still, be like a mirror. Respond like an echo**.
+> ...  
+> An intelligent mind is constantly learning. — An intelligent mind is one which is constantly learning, never concluding — styles and patterns have come to conclusion, therefore they [have] ceased to be intelligent.
+> ...  
+> Liberate yourself from concepts and see the truth with your own eyes...freedom to be open and not tethered by any ideas, concepts, etc.…  
+> When our mind is tranquil, there will be an occasional pause to its feverish activities, there will be a let-go, and it is only then **in the interval between two thoughts that a flash of UNDERSTANDING — understanding, which is not thought** — can take place.
+> ...  
+> Keep your mind uncontaminated by past conditioning. — The more and more you’re aware, the more and more you shed from day to day what you have learned so that your mind is always fresh, uncontaminated by previous conditioning.  
+> ...  
+> Tradition enslaves the mind. — Classical methods and tradition make the mind a slave — you are no longer an individual, but merely a product. **Your mind is the result of a thousand yesterdays**.
+>  ...  
+> The strength of emptiness. — Nothingness cannot be confined, the softest thing cannot be snapped.
+> ...  
+> Holding on prevents growth. — Tension: from NOW to THEN. People try to hold onto the sameness. This holding onto prevents growth.
+> ...  
+> **Wu-shin is making oneself empty. — I must give up my desire to force, direct, strangle the world outside of me and within me** in order to be completely open, responsible, aware, alive. This is often called “to make oneself empty” — which does not mean something negative, but means the openness to receive.  
+> -- Striking Thoughts: Bruce Lee's Wisdom for Daily Living (2000) edited by John Little
+>
+> Truth is not found in a book. —  **Independent inquiry is needed in your search for truth**, not dependence on anyone else’s view.  
+> **Truth has no path. Truth is living and, therefore, changing. Awareness is without choice, without demand, without anxiety**; in that state of mind, there is perception. To know oneself is to study oneself in action with another person. Awareness has no frontier; it is giving of your whole being, without exclusion.  
+> -- Bruce Lee ([statement probably derives from a famous one of Jiddu Krishnamurti: "Truth is a pathless land."](https://en.wikiquote.org/wiki/Bruce_Lee#Tao_of_Jeet_Kune_Do_(1975)))
+>
+> There is **no such thing as maturity. There is instead an ever-evolving process of maturing. Because when there is a maturity, there is a conclusion and a cessation**. That’s the end. That’s when the coffin is closed. You might be deteriorating physically in the long process of aging, but your personal process of daily discovery is ongoing. You continue to learn more and more about yourself every day.  
+> -- p. 131 The Warrior Within: The Philosophies of Bruce Lee (1996)
+>
+> There are **no limits. There are plateaus, but you must not stay there, you must go beyond them. If it kills you, it kills you. A man must constantly exceed his level**.  
+> -- Bruce Lee as quoted in The Art of Expressing the Human Body (1998) edited by John R. Little, p. 23
 
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
@@ -813,6 +861,11 @@ And he that dies young has only made a quick voyage of it
 
 > Death is the most important thing that is ever going to happen to you.  
 > ― Naval Ravikant
+
+> Acceptance of death. — The round of summer and winter becomes a blessing the moment we give up the fantasy of eternal spring.
+Fluidity is the way to an empty mind. You must free your ambitious mind and learn the art of dying.  
+> -- Striking Thoughts: Bruce Lee's Wisdom for Daily Living (2000) edited by John Little
+
 
 Christian: [Ars moriendi](https://en.wikipedia.org/wiki/Ars_moriendi).
 
