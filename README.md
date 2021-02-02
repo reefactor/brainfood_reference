@@ -264,6 +264,21 @@ So, in highly competitive zero-sum game, the Winner-Takes-All in ~rat race~[Red 
 Single crossdomain B+ speciallist is better than 2 A+ with gap between domains because of the communication overhead.
 
 
+### Metalearning
+
+> The Three Stages of Cultivation  
+> — The first is the primitive stage. It is a stage of original ignorance in which a person knows nothing about the art of combat. In a fight, he simply blocks and strikes instinctively without a concern for what is right and wrong. Of course, he may not be so-called scientific, but, nevertheless, being himself, his attacks or defenses are fluid.  
+> The second stage — the stage of sophistication, or mechanical stage — begins when a person starts his training. He is taught the different ways of blocking, striking, kicking, standing, breathing, and thinking — unquestionably, he has gained the scientific knowledge of combat, but unfortunately his original self and sense of freedom are lost, and his action no longer flows by itself. His mind tends to freeze at different movements for calculations and analysis, and even worse, he might be called “intellectually bound” and maintain himself outside of the actual reality.  
+> The third stage — the stage of artlessness, or spontaneous stage — occurs when, after years of serious and hard practice, the student realizes that after all, gung fu is nothing special. And instead of trying to impose on his mind, he adjusts himself to his opponent like water pressing on an earthen wall. It flows through the slightest crack. There is nothing to try to do but try to be purposeless and formless, like water. All of his classical techniques and standard styles are minimized, if not wiped out, and nothingness prevails. He is no longer confined.  
+> -- The Warrior Within: The Philosophies of [Bruce Lee](https://en.wikiquote.org/wiki/Bruce_Lee) (1996) p. 108-109
+
+> At the first level on the path he saw mountains as mountains and rivers as rivers.  
+> On the second level of the path he saw that mountains are not mountains and rivers are not rivers.  
+> And at a third level he saw once again mountains were mountains and rivers were rivers.  
+> -- Zen teacher Qingyuan Weixin
+
+
+
 #### Common sense
 > What important truth do very few people agree with you on?  
 > -- Peter Thiel, Zero to One
