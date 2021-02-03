@@ -128,6 +128,9 @@ Gaudí vs Gothic.
 > As CEO, there will be many times when you feel like quitting. I have seen CEOs try to cope with the stress by drinking heavily, checking out, and even quitting. In each case, the CEO has a marvelous rationalization why it was OK for him to punk out or quit, but none them will ever be great CEOs. Great CEOs face the pain. They deal with the sleepless nights, the cold sweat, and what my friend the great Alfred Chuang (legendary founder and CEO of BEA Systems) calls “the torture.” Whenever I meet a successful CEO, I ask them how they did it. Mediocre CEOs point to their brilliant strategic moves or their intuitive business sense or a variety of other self-congratulatory explanations. The great CEOs tend to be remarkably consistent in their answers. They all say: “I didn’t quit.”  
 > -- What’s The Most Difficult CEO Skill? [Managing Your Own Psychology](https://a16z.com/2011/03/31/whats-the-most-difficult-ceo-skill-managing-your-own-psychology/) by Ben Horowitz
 
+> Rule for all the Braun Company's communications was called the **[five W's](https://en.wikipedia.org/wiki/Five_Ws) - you have to tell who was going to do what, where, when, and why**. And if you wrote a letter or directive in the Braun Company telling somebody to do something, and you didn't tell him why, you could get fired. In fact you would get fired if you did it twice. You might ask why is that so important? Well, again, that's a rule of psychology. Just as you think better if you array knowledge on a bunch of models that are basically answers to the question, why, why, why, if you always tell people why, they'll understand it better, they'll consider it more important, and they'll be more likely to comply. Even if they don't understand your reason, they'll be more likely to comply.  
+> -- Poor Charlie's Almanack: The Wit and Wisdom of Charles by Charlie T. Munger
+
 
 Pirates vs Navy, Artists vs Soldiers, Water vs Ice.
 
