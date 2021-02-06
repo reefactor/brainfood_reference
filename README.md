@@ -851,6 +851,27 @@ Cage [monkey mind](https://en.wikipedia.org/wiki/Monkey_mind).
 
 Avoid [Magneto syndrome](https://julesevans.medium.com/is-the-somatics-movement-racist-d948c4abbad6) of Spiritual Elitism and [Spiritual Darwinism](https://medium.com/swlh/can-you-pass-the-acid-test-on-psychedelics-and-spiritual-eugenics-a613b3c64c04).
 
+#### Developmental Stages
+
+> In human existence there are seven times that we call “age”: infant, child, adolescent, young, adult, mature man, old man. The changing period of the Moon, during early childhood, is replaced by that of Mercury, in which the first knowledge is acquired, then that of Venus, which reveals its strength in the passionate emotions of adolescence; then comes the zenith of life, the three seven years of full life force and desires for expansion. The kingdom of the evil Mars generates a sudden change and leads to the struggles, bitterness and disillusions of adulthood. Then, under the scepter of Jupiter, once again appears a peak of life, maturity proper, which, wise and serene, contemplates the joys and sufferings of existence, always contributing joyfully. Finally, under the star of Saturn, slow and far from the earth, comes the great age in which the vital forces cool and slowly stop.  
+> -- Hippocrates (460 – 377 B.C.)
+
+[Stages of physical, emotional, mental development](https://en.wikipedia.org/wiki/Child_development) along [The Stages of Life](https://www.institute4learning.com/2012/08/07/the-stages-of-life-according-to-rudolf-steiner/) 
+and [7 year cycles](https://www.giorgiotarditispagnoli.com/post/biosophy-the-9-seven-year-cycles-of-man-s-biography)
+proposed by Rudolf Steiner - father of [Waldorf education](https://en.wikipedia.org/wiki/Waldorf_education) school.
+
+| Stage | Years | Age | Description | Development aspects and level |
+|---|---|---|---|---|
+| 1 | 0-7    | childhood | Moon, Mother | physical, behavioral, emotional |
+| 2 | 7-14   | youth | Mercury, Father | physical, emotional, mental |
+| 3 | 14-21  | adolescence | Venus, puberty, independence, nonconformity, revolt against familty & society | physical, emotional, social, mental |
+| 4 | 21-28  | adulthood | Sun 1, Integration into society after Revolt failure. Play that turns to responsibility | emotional, social, mental |
+| 5 | 28-35  | adulthood | Sun 2, Peaking physical body, creation own family cocoon. Organizing Knowledge, “I think” | social, mental |
+| 6 | 35-42  | maturity | Sun 3, Crisis and Questioning | mental, spiritual |
+| 7 | 42-49  | maturity | Spiritual Self birth | spiritual |
+| 8 | 49-56  | maturity | _growing vision and understanding of life_ |  |
+| 9 | 56-63  | senility |  |  |
+| .. | ...  | ? | ? | ? |
 
 
 ### Memento mori
