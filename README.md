@@ -338,27 +338,23 @@ is the desirable middle between two extremes, one of excess and the other of def
 | Moral absolutism |  | Moral relativism |
 
 ## Reasoning
+
+> It is important to view knowledge as sort of semantic tree. Make sure you understand the fundamental principles, ie the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to.  
+> -- Elon Musk
+
+> I think it’s important to reason from first principles rather than by analogy. So the normal way we conduct our lives is, we reason by analogy. We are doing this because it’s like something else that was done, or it is like what other people are doing… with slight iterations on a theme. And it’s … mentally easier to reason by analogy rather than from first principles. First principles is kind of a physics way of looking at the world, and what that really means is, you … boil things down to the most fundamental truths and say, “okay, what are we sure is true?” … and then reason up from there. That takes a lot more mental energy  
+> -- [Elon Musk](https://www.youtube.com/watch?v=L-s_3b5fRd8)
+
 > In theory, there is no difference between theory and practice. But, in practice, there is  
 > -- Jan L.A. van de Snepscheut
-
-> We are what we repeatedly do. Excellence, then, is not an act, but a habit.  
-> -- Aristotle
-
-> [Deliberate practice](https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice) makes perfect
-
-> Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny  
-> — Mahatma Gandhi
-
-> Our character, basically, is a composite of our habits. “Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny,” the maxim goes  
-> ― Stephen R. Covey, The 7 Habits of Highly Effective People
-
-> There are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know
 
 People (and so AI algorithms) do abstraction and decomposition to reduce search space to solve [planning](#strategy) and [decision](#decisions).
 
 Build hierarhical [decision policy](#decisions) function: [Values](#values) -> [Strategy](#strategy) -> [Tactics](#tactics) -> [Routine](#routine)
 
 Understand your [circle of competence](https://fs.blog/2013/12/circle-of-competence/) expanding into next [near development zone](https://en.wikipedia.org/wiki/Zone_of_proximal_development)  to ballance [exploration–exploitation tradeoff dilemma](https://en.wikipedia.org/wiki/Multi-armed_bandit)
+
+Use [Five Ws](https://en.wikipedia.org/wiki/Five_Ws) to gather facts (capture breadth) and [Five whys](https://en.wikipedia.org/wiki/Five_whys) to get to the roots (explore depth) down to [first principles](https://fs.blog/2018/04/first-principles)
 
 Push yourself out of comfort zone, keep [Bruce Lee's "Broken rhythm"](https://brucelee.com/podcast-blog/2018/3/21/90-broken-rhythm)
 
@@ -424,7 +420,7 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 > Life is suffering and if you say it meaningless then your suffering is meaningless dumb and reckless. Find higher purpose and goal to suffer  
 > -- Jordan B Peterson
 
-> Loyalty in action, regardless obstacles or challenges, to one’s most cherished values—this is the essence of moral rectitude—and it is the foundation of heroism  
+> Loyalty in action, regardless obstacles or challenges, to one’s most cherished values, this is the essence of moral rectitude and it is the foundation of heroism  
 > -- Andrew Bernstein, Heroes, Legends, Champions: Why Heroism Matters
 
 > Nature loves courage. You make the commitment and nature will respond to that commitment by removing impossible obstacles. Dream the impossible dream and the world will not grind you under, it will lift you up. This is the trick. This is what all these teachers and philosophers who really counted, who really touched the alchemical gold, this is what they understood. This is the shamanic dance in the waterfall. This is how magic is done. By hurling yourself into the abyss and discovering it’s a feather bed  
@@ -435,6 +431,9 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 
 > Never prostitute your principles in your work. — I will never prostitute myself in any way that I do what I don’t believe in.  
 > -- Striking Thoughts: Bruce Lee's Wisdom for Daily Living (2000) edited by John Little
+
+> Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny  
+> — Mahatma Gandhi
 
 
 * The [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule) principle of treating others as you want to be treated is spoiled by [hypocrisy of double standards](https://en.wikipedia.org/wiki/Hypocrisy)
@@ -509,7 +508,16 @@ The spirit of the individual is determined by his dominating thought habits.
 
 Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/habits-vs-goals/).
 
+[Deliberate practice](https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice) makes perfect
+
+
 ##### Habits
+
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.  
+> -- Aristotle
+
+> Our character, basically, is a composite of our habits. “Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny,” the maxim goes  
+> ― Stephen R. Covey, The 7 Habits of Highly Effective People
 
 > First we make our habits, then our habits make us  
 > — Charles C. Nobel
