@@ -41,3 +41,10 @@
 
 > High energy, High intelligence, High integrity (internal moral code, not necessarily nice)  
 > -- Buffet's rule for hiring
+> 
+
+> It's hard for me to comment definitively on "standard practice", as I have never worked for another aerospace company. However, based on stories I've heard, some of them sound like a Dilbert cartoon in real life. My approach is **simply to seek out very talented people**, ensure that the environment at SpaceX is as motivating & enjoyable as possible and establish clear & measurable objectives.  
+I think **it is a mistake to hire huge numbers of people to get a complicated job done. Numbers will never compensate for talent in getting the right answer (two people who don't know something are no better than one), will tend to slow down progress and will make the task incredibly expensive.** Also, a lot of aerospace senior managers seem to be really disassociated from and unable to do hard core engineering. I think that is a mistake and results in cloudy judgment on important technical issues -- they can't tell if something is really good or not, so they just do what everyone else does, assuming it to be the safe bet.  
+> -- Elon Musk
+
+
