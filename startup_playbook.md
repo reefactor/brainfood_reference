@@ -70,6 +70,9 @@ Assess credibility => give decision space. Credibility = proven competence + rel
 
 #### Communication overhead
 
+I think **it is a mistake to hire huge numbers of people to get a complicated job done. Numbers will never compensate for talent in getting the right answer (two people who don't know something are no better than one), will tend to slow down progress and will make the task incredibly expensive.** Also, a lot of aerospace senior managers seem to be really disassociated from and unable to do hard core engineering. I think that is a mistake and results in cloudy judgment on important technical issues -- they can't tell if something is really good or not, so they just do what everyone else does, assuming it to be the safe bet.  
+> -- Elon Musk
+
 Underestimated power in keeping team small: **team cohesion and low communication overhead**.
 
 * [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law): V = n*(n-1)/2 ~ n^2
