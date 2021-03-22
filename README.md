@@ -847,6 +847,10 @@ for subjects respecting which they are already perfectly content.
 > There are **no limits. There are plateaus, but you must not stay there, you must go beyond them. If it kills you, it kills you. A man must constantly exceed his level**.  
 > -- Bruce Lee as quoted in The Art of Expressing the Human Body (1998) edited by John R. Little, p. 23
 
+> Life is a bridge, build no house upon it; it is a river, cling not to its banks; it is a gymnasium, use it to develop the mind on the apparatus of circumstance; it is a journey, take it and walk on.
+> -- [not Buddha](https://fakebuddhaquotes.com/life-is-a-bridge-dont-build-a-house-on-it/)
+
+
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
 same as human forebrain cortex depends on midbrain infrastructure, 
