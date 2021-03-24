@@ -19,6 +19,11 @@
 > The basic principles and concepts supporting The Magic of Thinking Big come from the highest-pedigree sources, the very biggest-thinking minds yet to live on planet Earth. Minds  like the prophet David, who wrote, _"For as one thinketh in his heart, so is he"_; minds such as Emerson, who said, _"Great men are those who see that thoughts rule the world"_; minds like Milton, who in Paradise Lost wrote, _"The mind is its own place and in itself can make a heaven of hell or a hell of heaven."_ Amazingly perceptive minds like Shakespeare, who observed, _"There is nothing either good or bad except that thinking makes it so"_. 
 -- David J Schwartz, The Magic of Thinking Big
 
+> It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly...  
+> -- [The Man in the Arena: Citizenship in a Republic](http://www.theodoreroosevelt.org/site/c.elKSIdOWIiJ8H/b.9274065/k.8422/Man_in_the_Arena.htm) by Theodore Roosevelt  
+> Far better it is to **dare mighty things**, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy nor suffer much, because they live in the gray twilight that knows not victory nor defeat.  
+> -- [The Strenuous Life](http://www.theodoreroosevelt.org/site/c.elKSIdOWIiJ8H/b.9297447/k.CECF/The_Strenuous_Life.htm) by Theodore Roosevelt
+
 Why start a startup? Because early design decisions have the greatest impact.
 
 
