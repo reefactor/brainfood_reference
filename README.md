@@ -286,25 +286,27 @@ is the desirable middle between two extremes, one of excess and the other of def
  
 | Extreme | Golden middle way | Extreme |
 |---|---|---|
-| cowardice | courage | recklessness |
-| fatalist | wave surfer | Control-freak |
+| recklessness | courage | cowardice |
+| fatalist | wave surfer | control-freak |
 | autocracy (1 vote with infinite weight) | meritocracy (N votes with weights proportional to the individual merit) | democracy (N votes with constant weights  equally distributed) |
 | ascetic  | buddhist middle way | hedonic |
 | eternalism | buddhist [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)  | annihilationism |
 | Divine supreme predestination - Daiva | [Wu wei](https://en.wikipedia.org/wiki/Wu_wei), [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer) | Freedom of personal will - Purushakara |
 | yin / inaction |  | yang / action |
-| faith, dogma, axiom |  | testable falsifiable science |
-| exploitation, deliberate practice, craftsman mindset |  | exploration, deliberate experimentation |
-| specialist |  | generalist |
-| security |   | privacy |
-| fast thinking, 1st signal system |  | slow thinking, 2nd signal system |
+| testable falsifiable science | | faith, dogma, axiom |
+| exploration, deliberate experimentation | | exploitation, deliberate practice, craftsman mindset |
+| generalist | | specialist |
+| privacy | | security |
+| slow thinking, 2nd signal system | | fast thinking, 1st signal system |
 | a maniac constantly in a state of pleasure and cannot be satisfied |  | a hermit constantly in a state of satisfaction cannot experience pleasure |
 | creating (entrepreneurs) |  | running (manager) |
 | divergent thinking (out of then box, creative) |  | convergent (focused) |
-| wisdom of crowds  |  | consensus bias, common sense misconceptions |
+| wisdom of crowds ([Condorcet's Jury Theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem), [Majority Voting](https://arxiv.org/abs/2002.03153)) |  | consensus bias, common sense misconceptions |
 | self-reliance |  | standing on a shoulder of giants |
 | [rules breaking](startup_playbook.md#bootstrap) pirates |   | [rules navigated](startup_playbook.md#scaling) navy |
 | Moral absolutism |  | Moral relativism |
+| Startup risk-taking mentality (fail-fast at low cost, large benefits from success) | | Risk-aversion mentality (large cost of failure, preserve status quo) |
+
 
 ## Reasoning
 
@@ -444,7 +446,7 @@ Money is infinite and your time is not. When You're trading time for money, you 
 
 
 #### Tactics
-> The abstract summary of your actions is your strategy; what you'll do to implement the strategy is your tactics. Frequently, a strategy at one managerial level is the tactical concern of the next higher level.
+> The abstract summary of your actions is your strategy; what you'll do to implement the strategy is your tactics. Frequently, a strategy at one managerial level is the tactical concern of the next higher level.  
 > — Andy Grove (High Output Management)
 
 > Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat  
@@ -612,13 +614,7 @@ Good decisions not always give great outcome. But consistent on average, cycle o
 * [False positives and false negatives](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors) in Type I and II error in Scientific hypothesis testing
 * [4 kinds of Luck](https://www.youtube.com/watch?v=AHhv3E760dU) by Naval Ravikant 
 
-Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large cost of failure) VS Startup risk-taking mentality (fail-fast, large benefits from success).
-
 You have to have [skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_game_(phrase)).
-
-“_institutional behavior_” – an oft-heard phrase that’s rarely intended as a compliment - shared decision making, diffused responsibility, personal risk minimization, and go-along-to-get-along interaction. All of these things work to discourage unconventionality, and thus to render superior results in a highly competitive game of investment
-
-Idea that committees' average thinking yelds average performance contradicts with [Condorcet's Jury Theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem) and [Majority Voting](https://arxiv.org/abs/2002.03153) concept in Machine Learning - [The Strength of Weak Learnability](https://link.springer.com/content/pdf/10.1023/A:1022648800760.pdf)
 
 
 ##### Common sense
@@ -655,11 +651,15 @@ Idea that committees' average thinking yelds average performance contradicts wit
 > Committees .. encourage collective rationalization of shared illusions generally believed, negative stereotypes of out-of-favor groups, techniques and individuals, unwarranted confidence in chosen approaches, unanimity, suppression of doubts and pressure on dissenters, docility on the part of individual members, free-floating conversations during meetings, and non-adherence to standardized methodologies  
 > -- Hedgehogging, “Groupthink Stinks” by Barton Biggs 
 
+> “_institutional behavior_” – an oft-heard phrase that’s rarely intended as a compliment - shared decision making, diffused responsibility, personal risk minimization, and go-along-to-get-along interaction. All of these things work to discourage unconventionality, and thus to render superior investment results elusive (in a highly competitive game of investment)  
+> -- Dare to Be Great by Howard Marks
+
 > Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally  
 > -- John Maynard Keynes
 
 Challenge beliefs & persist. Disagree & commit. Make asymmetric bets.
 
+Idea that committees' average thinking yelds average performance contradicts with [Condorcet's Jury Theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem) and [Majority Voting](https://arxiv.org/abs/2002.03153) concept in Machine Learning - [The Strength of Weak Learnability](https://link.springer.com/content/pdf/10.1023/A:1022648800760.pdf)
 
 
 ##### Uncertainty
