@@ -158,7 +158,8 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [Eye On AI](https://www.eye-on.ai/)
 - [Behind The Tech with Kevin Scott, CTO for Microsoft](https://www.microsoft.com/en-us/behind-the-tech)
 - [ТОПЛЕС [SCI POP]](https://www.youtube.com/user/toplesofficial)
-
+- [Podcasts by Howard Marks on decision making frameworks and investing](https://www.oaktreecapital.com/insights/podcasts)
+- [The Robot Brains Podcast with Pieter Abbeel](https://www.therobotbrains.ai/)
 
 ***
 ## Mental models
@@ -276,38 +277,6 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap between domains b
 > On the second level of the path he saw that mountains are not mountains and rivers are not rivers.  
 > And at a third level he saw once again mountains were mountains and rivers were rivers.  
 > -- Zen teacher Qingyuan Weixin
-
-
-
-#### Common sense
-> What important truth do very few people agree with you on?  
-> -- Peter Thiel, Zero to One
-
-> Common sense is nothing but a collection of misconceptions acquired by age 18  
-> -- Einstein
-
-> Bet against the consensus (being entrepreneur)  
-> -- Ray Dalio
-
-> If you stop to think about it, a pari-mutuel system is a market. Everybody goes there and bets and the odds change based on what’s bet.. Any damn fool can see the horse carrying a light weight with a wonderful win rate and a good post position etc., is way more likely to win than a horse with a terrible record and extra weight and so on and so on. But if you look at the odds, the bad horse pays 100 to 1, whereas the good horse pays 3 to 2. Then it’s not clear which is statistically the best bet..  
-> -- The Art of Stock Picking by Charlie Munger
-
-> How could people miss such a point? Why do they confuse probability and expectation, that is, probability and probability times the payoff? Mainly because much of people's schooling comes from examples in symmetric environments, like a coin-toss, where such a difference does not matter. In fact the so-called "Bell Curve" that seems to have found universal use in society is entirely symmetric  
-> -- Fooled by Randomness Role of Chance in Markets and Life by Nassim Nicholas Taleb
-
-> A contrarian isn’t one who always objects—that’s a conformist of a different sort. A contrarian reasons independently from the ground up and resists pressure to conform.  
-> Cynicism is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.  
-> -- The Almanack of Naval Ravikant
-
-> Much of the real world is controlled as much by the ‘tails’ of distributions as means or averages: by the exceptional, not the commonplace; by the catastrophe, not the steady drip…. 
-> We need to free ourselves from ‘average’ thinking  
-> -- Philip Anderson, 1997, Nobel Laureate in physics 
-
-> It seems like there are two degrees of freedom: you can choose the people whose opinions you care about (and on what subjects), and you can choose the timescale you care about them on. Most people figure out the former [1] but the latter doesn’t seem to get much attention.  
-> You should trade being short-term low-status for being long-term high-status, which most people seem unwilling to do. A common way this happens is by eventually being right about an important but deeply non-consensus bet. But there are lots of other ways–the key observation is that as long as you are right, being misunderstood by most people is a strength not a weakness. You and a small group of rebels get the space to solve an important problem that might otherwise not get solved.  
-> -- Sam Altman, [The Strength of Being Misunderstood](https://blog.samaltman.com/the-strength-of-being-misunderstood)
-
-Challenge beliefs & persist. Disagree & commit. Make asymmetric bets.
 
 
 #### Golden mean
@@ -630,7 +599,6 @@ judgment. The two can be far from the same, and especially over a small number o
 > Learn and obey the rules very well so you will know how to break them properly  
 > ― Dalai Lama XIV
 
-
 There're lots of frameworks and tools for [decision making](https://fs.blog/smart-decisions/)
 
 Strategy for triaging:
@@ -647,6 +615,49 @@ Good decisions not always give great outcome. But consistent on average, cycle o
 Estimate Cost of failure: Corporate risk-aversion mentality (status quo, large cost of failure) VS Startup risk-taking mentality (fail-fast, large benefits from success).
 
 You have to have [skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_game_(phrase)).
+
+“_institutional behavior_” – an oft-heard phrase that’s rarely intended as a compliment - shared decision making, diffused responsibility, personal risk minimization, and go-along-to-get-along interaction. All of these things work to discourage unconventionality, and thus to render superior results in a highly competitive game of investment
+
+Idea that committees' average thinking yelds average performance contradicts with [Condorcet's Jury Theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem) and [Majority Voting](https://arxiv.org/abs/2002.03153) concept in Machine Learning - [The Strength of Weak Learnability](https://link.springer.com/content/pdf/10.1023/A:1022648800760.pdf)
+
+
+##### Common sense
+> What important truth do very few people agree with you on?  
+> -- Peter Thiel, Zero to One
+
+> Common sense is nothing but a collection of misconceptions acquired by age 18  
+> -- Einstein
+
+> Bet against the consensus (being entrepreneur)  
+> -- Ray Dalio
+
+> If you stop to think about it, a pari-mutuel system is a market. Everybody goes there and bets and the odds change based on what’s bet.. Any damn fool can see the horse carrying a light weight with a wonderful win rate and a good post position etc., is way more likely to win than a horse with a terrible record and extra weight and so on and so on. But if you look at the odds, the bad horse pays 100 to 1, whereas the good horse pays 3 to 2. Then it’s not clear which is statistically the best bet..  
+> -- The Art of Stock Picking by Charlie Munger
+
+> How could people miss such a point? Why do they confuse probability and expectation, that is, probability and probability times the payoff? Mainly because much of people's schooling comes from examples in symmetric environments, like a coin-toss, where such a difference does not matter. In fact the so-called "Bell Curve" that seems to have found universal use in society is entirely symmetric  
+> -- Fooled by Randomness Role of Chance in Markets and Life by Nassim Nicholas Taleb
+
+> A contrarian isn’t one who always objects—that’s a conformist of a different sort. A contrarian reasons independently from the ground up and resists pressure to conform.  
+> Cynicism is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.  
+> -- The Almanack of Naval Ravikant
+
+> Much of the real world is controlled as much by the ‘tails’ of distributions as means or averages: by the exceptional, not the commonplace; by the catastrophe, not the steady drip…. 
+> We need to free ourselves from ‘average’ thinking  
+> -- Philip Anderson, 1997, Nobel Laureate in physics 
+
+> It seems like there are two degrees of freedom: you can choose the people whose opinions you care about (and on what subjects), and you can choose the timescale you care about them on. Most people figure out the former [1] but the latter doesn’t seem to get much attention.  
+> You should trade being short-term low-status for being long-term high-status, which most people seem unwilling to do. A common way this happens is by eventually being right about an important but deeply non-consensus bet. But there are lots of other ways–the key observation is that as long as you are right, being misunderstood by most people is a strength not a weakness. You and a small group of rebels get the space to solve an important problem that might otherwise not get solved.  
+> -- Sam Altman, [The Strength of Being Misunderstood](https://blog.samaltman.com/the-strength-of-being-misunderstood)
+
+> Committees .. encourage collective rationalization of shared illusions generally believed, negative stereotypes of out-of-favor groups, techniques and individuals, unwarranted confidence in chosen approaches, unanimity, suppression of doubts and pressure on dissenters, docility on the part of individual members, free-floating conversations during meetings, and non-adherence to standardized methodologies  
+> -- Hedgehogging, “Groupthink Stinks” by Barton Biggs 
+
+> Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally  
+> -- John Maynard Keynes
+
+Challenge beliefs & persist. Disagree & commit. Make asymmetric bets.
+
+
 
 ##### Uncertainty
 
