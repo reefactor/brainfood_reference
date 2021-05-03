@@ -631,6 +631,9 @@ Idea that committees' average thinking yelds average performance contradicts wit
 > Bet against the consensus (being entrepreneur)  
 > -- Ray Dalio
 
+> You can’t do the same things others do and expect different results (to outperform).  
+> -- The Most Important Thing by Howard Marks (paraphrasing _Insanity is doing the same thing over and over again and expecting different results_)
+
 > If you stop to think about it, a pari-mutuel system is a market. Everybody goes there and bets and the odds change based on what’s bet.. Any damn fool can see the horse carrying a light weight with a wonderful win rate and a good post position etc., is way more likely to win than a horse with a terrible record and extra weight and so on and so on. But if you look at the odds, the bad horse pays 100 to 1, whereas the good horse pays 3 to 2. Then it’s not clear which is statistically the best bet..  
 > -- The Art of Stock Picking by Charlie Munger
 
