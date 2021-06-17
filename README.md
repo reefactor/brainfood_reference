@@ -306,7 +306,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | [rules breaking](startup_playbook.md#bootstrap) pirates |   | [rules navigated](startup_playbook.md#scaling) navy |
 | Moral absolutism |  | Moral relativism |
 | Startup risk-taking mentality (fail-fast at low cost, large benefits from success) | | Risk-aversion mentality (large cost of failure, preserve status quo) |
-
+| Scarcity of Information (_Sacred knowledge_ gatekeeping, classical centralised media sources) |  | Scarcity of Attention (XXI distributed internet media, noise overloading attention is a modern form of censorship) |
 
 ## Reasoning
 
