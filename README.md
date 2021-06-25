@@ -358,7 +358,7 @@ Expertise requires going from unconscious incompetence to conscious incompetence
 > ― Cal Newport, So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love
 
 > Discover what you are best at doing and enjoy that is different from what all your peers are doing and that requires relatively little effort from you. Then put huge effort into honing that skill, so that it becomes monstrously greater than anyone else’s. Keep demanding that each year you make your peculiar talent more peculiar and much more potent. Use the skill to make the world a more interesting place. Don’t care about making money. If you have a fantastically different and useful skill, everything else you want will follow.  
-> -- Richard Koch
+> -- Richard Koch, The 80/20 Principle: The Secret to Achieving More with Less
 
 
 Follow your intellectual curiosity. Love what you do - enjoy process, not results - otherwise you won't get through the hard times. 
