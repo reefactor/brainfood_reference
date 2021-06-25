@@ -294,7 +294,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | Divine supreme predestination - Daiva | [Wu wei](https://en.wikipedia.org/wiki/Wu_wei), [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer) | Freedom of personal will - Purushakara |
 | yin / inaction |  | yang / action |
 | testable falsifiable science | | faith, dogma, axiom |
-| exploration, deliberate experimentation | | exploitation, deliberate practice, craftsman mindset |
+| exploration, deliberate experimentation, _Do what you love_ | | exploitation, deliberate practice, _Love what you do_, craftsman mindset |
 | generalist | | specialist |
 | privacy | | security |
 | slow thinking, 2nd signal system | | fast thinking, 1st signal system |
@@ -356,6 +356,10 @@ Expertise requires going from unconscious incompetence to conscious incompetence
 
 > Craftsman mindset focuses on what you can offer the world, the passion mindset focuses instead on what the world can offer you. This mindset is how most people approach their working lives  
 > ― Cal Newport, So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love
+
+> Discover what you are best at doing and enjoy that is different from what all your peers are doing and that requires relatively little effort from you. Then put huge effort into honing that skill, so that it becomes monstrously greater than anyone else’s. Keep demanding that each year you make your peculiar talent more peculiar and much more potent. Use the skill to make the world a more interesting place. Don’t care about making money. If you have a fantastically different and useful skill, everything else you want will follow.  
+> -- Richard Koch
+
 
 Follow your intellectual curiosity. Love what you do - enjoy process, not results - otherwise you won't get through the hard times. 
 
@@ -465,6 +469,9 @@ Money is infinite and your time is not. When You're trading time for money, you 
 
 > Inspiration is for amateurs while the rest of us just show up and get to work  
 > -- Chuck Close
+
+> _Do what you love_ is for amateurs. _Love what you do_ is the mantra for professionals  
+> -- Seth Godin / The Practice. Shipping Creative Work
 
 > Daily progress. — Make at least one definite move daily toward your goal.  
 > The three keys to success. — Persistence, persistence, and persistence. The Power can be created and maintained through daily practice — continuous effort.
