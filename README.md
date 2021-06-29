@@ -279,13 +279,16 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap between domains b
 > -- Zen teacher Qingyuan Weixin
 
 
-#### Golden mean
+#### Duality
+
+Non-atomic concepts perceived in polarity: [duality](https://en.wikipedia.org/wiki/Category:Duality_theories) and [dichotomy](https://en.wikipedia.org/wiki/Category:Dichotomies)
 
 [Golden mean or golden middle way](https://en.wikipedia.org/wiki/Golden_mean_(philosophy))
 is the desirable middle between two extremes, one of excess and the other of deficiency
  
-| Extreme | Golden middle way | Extreme |
+| Extreme |  | Extreme |
 |---|---|---|
+| wave | [Wave–particle duality](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality) | particle |
 | recklessness | courage | cowardice |
 | fatalist | wave surfer | control-freak |
 | autocracy (1 vote with infinite weight) | meritocracy (N votes with weights proportional to the individual merit) | democracy (N votes with constant weights  equally distributed) |
