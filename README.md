@@ -310,6 +310,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | Moral absolutism |  | Moral relativism |
 | Startup risk-taking mentality (fail-fast at low cost, large benefits from success) | | Risk-aversion mentality (large cost of failure, preserve status quo) |
 | Scarcity of Information (_Sacred knowledge_ gatekeeping, classical centralised media sources) |  | Scarcity of Attention (XXI distributed internet media, noise overloading attention is a modern form of censorship) |
+| Gift exchange, Reciprocal Labour |  | market driven Commodity exchange of _reciprocally independent enterprises_, Work |
 
 ## Reasoning
 
@@ -874,7 +875,27 @@ for subjects respecting which they are already perfectly content.
 > Life is a bridge, build no house upon it; it is a river, cling not to its banks; it is a gymnasium, use it to develop the mind on the apparatus of circumstance; it is a journey, take it and walk on.
 > -- [not Buddha](https://fakebuddhaquotes.com/life-is-a-bridge-dont-build-a-house-on-it/)
 
+> 0 wonderful! O wonderful! O wonderful!  
+I am food! I am food! I am food!  
+I eat food! I eat food! I eat food!  
+My name never dies, never dies, never dies!  
+I was born first in the first of the worlds,  
+earlier than the gods, in the belly of what has no death!  
+Whoever gives me away has helped me the most!  
+I, who am food, eat the eater of food!  
+I have overcome this world!  
+He who knows this shines like the sun.  
+Such are the laws of the mystery!  
+> -- TAITTĪRI-YA Upanishad  
 
+> You received gifts from me; they were accepted  
+But you don’t understand how to think about the dead  
+The smell of winter apples, of hoarfrost, and of linen  
+There are nothing but gifts on this poor, poor Earth  
+> -- Czeslaw Milosz, from Unattainable Earth  
+
+> If our lives are gifts to begin with, however, in some sense they are not _“ours”_ even when we become adults. Or perhaps they are, but only until such time as we 7nd a way to bestow them. The belief that life is a gift carries with it the corollary feeling that the gift should not be hoarded. As we mature, and particularly as we come into the isolation of being “on our own,” we begin to feel the desire to give ourselves away—in love, in marriage, to our work, to the gods, to politics, to our children. And adolescence is marked by that restless, erotic, disturbing inquisition: Is this person, this nation, this work, worthy of the life I have to give?  
+> -- The Gift: Creativity and the Artist in the Modern World by Lewis Hyde
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
 same as human forebrain cortex depends on midbrain infrastructure, 
