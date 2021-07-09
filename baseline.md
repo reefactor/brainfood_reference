@@ -91,6 +91,10 @@
 - Conversations in Exile: Russian Writers Abroad by John Glad, 1993 
 - The Book of Life by Jiddu Krishnamurti
 - Total Freedom - The Essential Krishnamurti
+- The Gift: Creativity and the Artist in the Modern World by Lewis Hyde 
+- The Big Three in Economics: Adam Smith, Karl Marx, and John Maynard Keynes By Mark Skousen
+- The Creative Economy by John Howkins
+
 
 
 ### Отечество
