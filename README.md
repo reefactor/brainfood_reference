@@ -299,7 +299,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | testable falsifiable science | | faith, dogma, axiom |
 | exploration, deliberate experimentation, _Do what you love_ | | exploitation, deliberate practice, _Love what you do_, craftsman mindset |
 | generalist | | specialist |
-| privacy | | security |
+| privacy | [Enlightenment](https://www.eff.org/deeplinks/2009/12/google-ceo-eric-schmidt-dismisses-privacy) | security |
 | slow thinking, 2nd signal system | | fast thinking, 1st signal system |
 | a maniac constantly in a state of pleasure and cannot be satisfied |  | a hermit constantly in a state of satisfaction cannot experience pleasure |
 | creating (entrepreneurs) |  | running (manager) |
