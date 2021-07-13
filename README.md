@@ -14,7 +14,7 @@
 
 1. Stand up on the Shoulders of Giants with [Wisdom Gems](#gems-of-wisdom)
 2. Bootstrap your framework of [Mental Models](#mental-models) for [reasoning](#reasoning)
-3. Update mental models with [Knowledge Streams](#streams) to fuel cognition
+3. [Update](#iterator) mental models with [Knowledge Streams](#streams) to fuel cognition
  along the [Lifelong Learning](https://fs.blog/learning/) way
 4. Navigate [Pointers of Truth](#pointers-of-truth)
 as [support vectors](https://en.wikipedia.org/wiki/Support_vector_machine) in [uncertainty](#uncertainty)
@@ -196,6 +196,7 @@ in order to create reasoning frameworks and to put them in toolboxes.
 
 And so there're [plenty of them online](https://www.google.com/search?q=mental+models)
 
+### Iterator
 #### Steep gradient ascent along learning curve
 
 > Run Uphill. Simple heuristic: If you’re evenly split on a difficult decision, take the path more painful in the short term.  
@@ -213,6 +214,9 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 
 > Warren and I are very good at destroying our own best-loved ideas. Any year that you don't destroy one of your best-loved ideas is probably a wasted year. Charlie likes the analogy of looking at one's ideas and approaches as "tools." When a better tool (idea or approach) comes along, what could be better than to swap it for your old, less useful tool? 'Warren and I routinely do this, but most people, as Galbraith says, forever cling to their old, less useful tools  
 > -- Poor Charlie's Almanack
+
+> The smartest people are constantly revising their understanding, reconsidering a problem they thought they’d already solved. They’re open to new points of view, new information, new ideas, contradictions, and challenges to their own way of thinking  
+> -- Jeff Bezos
 
 > Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when [life is short](http://www.paulgraham.com/vb.html)  
 > -- Paul Graham
