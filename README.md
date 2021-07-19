@@ -924,20 +924,24 @@ Avoid [Magneto syndrome](https://julesevans.medium.com/is-the-somatics-movement-
 
 [Stages of physical, emotional, mental development](https://en.wikipedia.org/wiki/Child_development) along [The Stages of Life](https://www.institute4learning.com/2012/08/07/the-stages-of-life-according-to-rudolf-steiner/) 
 and [7 year cycles](https://www.giorgiotarditispagnoli.com/post/biosophy-the-9-seven-year-cycles-of-man-s-biography)
-proposed by Rudolf Steiner - father of [Waldorf education](https://en.wikipedia.org/wiki/Waldorf_education) school.
+proposed by Rudolf Steiner - father of [Waldorf education](https://en.wikipedia.org/wiki/Waldorf_education) school. 
 
-| Stage | Years | Age | Description | Development aspects and level |
-|---|---|---|---|---|
-| 1 | 0-7    | childhood | Moon, Mother | physical, behavioral, emotional |
-| 2 | 7-14   | youth | Mercury, Father | physical, emotional, mental |
-| 3 | 14-21  | adolescence | Venus, puberty, independence, nonconformity, revolt against familty & society | physical, emotional, social, mental |
-| 4 | 21-28  | adulthood | Sun 1, Integration into society after Revolt failure. Play that turns to responsibility | emotional, social, mental |
-| 5 | 28-35  | adulthood | Sun 2, Peaking physical body, creation own family cocoon. Organizing Knowledge, “I think” | social, mental |
-| 6 | 35-42  | maturity | Sun 3, Crisis and Questioning | mental, spiritual |
-| 7 | 42-49  | maturity | Spiritual Self birth | spiritual |
-| 8 | 49-56  | maturity | _growing vision and understanding of life_ |  |
-| 9 | 56-63  | senility |  |  |
-| .. | ...  | ? | ? | ? |
+Yet exist [many more models of stage theories in developmental psychology](https://en.wikipedia.org/wiki/Developmental_stage_theories#Other)
+
+Ken Wilber's attempt to create [Integral Theory](https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)#Levels_or_stages) is [ignored at mainstream academic, and contested by critics](https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)#Reception_in_mainstream_academia).
+
+| Cycle / Stage | Years | Age | Dimensions of development | [Steiner](https://en.wikipedia.org/wiki/Rudolf_Steiner) | [Fowler](https://en.wikipedia.org/wiki/James_W._Fowler)	| Wilber	| [Gebser](https://en.wikipedia.org/wiki/Jean_Gebser) |
+|---|---|---|---|---|---|---|---|
+| 1 | 0-7    | childhood | physical, behavioral, emotional   | Moon, Mother    | Undifferentiated faith, Intuitive-projective | Pre-personal, Personal	| Archaic, Magical, Mythic |
+| 2 | 7-14   | youth | physical, emotional, mental           | Mercury, Father |  Mythic-literal, Synthetic-Conventional  | Personal | Mythic-rational	 |
+| 3 | 14-21  | adolescence | emotional, social, mental | Venus, puberty, nonconformity, revolt against family & society |  Individual-reflexive | Personal | Rational |
+| 4 | 21-28  | adulthood | emotional, social, mental | Sun 1, Integration into society after Revolt failure. Play that turns to responsibility |  Individual-reflexive, Conjunctive | Personal | Rational |
+| 5 | 28-35  | adulthood | social, mental | Sun 2, Peaking physical body, creation own family cocoon. Organizing Knowledge, “I think” | Conjunctive | Personal | Rational |
+| 6 | 35-42  | maturity | mental, spiritual | Sun 3, Crisis and Questioning | Conjunctive | Personal, Transpersonal	 | Integral |
+| 7 | 42-49  | maturity | spiritual | Mars, Spiritual Self birth | Universalizing | Transpersonal | |
+| 8 | 49-56  | maturity | spiritual | Jupiter, Wisdom  | | |
+| 9 | 56-63  | senility | spiritual | Saturn, Self [Steiner's Karmic Relationships Vol. VII, lecture two](https://wn.rsarchive.org/Lectures/GA239/English/RSP1973/19240608p01.html)  |  | |
+| .. | ...  | .. | .. | .. |  .. | |
 
 
 ### Memento mori
