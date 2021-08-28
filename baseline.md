@@ -94,7 +94,7 @@
 - The Gift: Creativity and the Artist in the Modern World by Lewis Hyde 
 - The Big Three in Economics: Adam Smith, Karl Marx, and John Maynard Keynes By Mark Skousen
 - The Creative Economy by John Howkins
-
+- Gödel, Escher, Bach: an Eternal Golden Braid, GEB by Douglas Hofstadter, 1979
 
 
 ### Отечество
