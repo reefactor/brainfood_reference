@@ -3,10 +3,6 @@
 
 ### Leap of faith
 
-> Starting a startup has been "figured out". Its not a frontier anymore, there's already a playbook for that Any Capital and Advice is commoditized over time.
-> The only advantage/moat is a network effect  
-> -- Sam Altman
-
 > You've got to jump off the cliff and build your wings on the way down  
 > ― Ray Bradbury
 
@@ -152,8 +148,11 @@ The [Law of Crappy People](https://fs.blog/2015/02/ben-horowitz-the-law-of-crapp
 
 > What we're trying to find is a business that, for one reason or another -- it can be because it's the low-cost producer in some area, it can be because it has a natural franchise because of surface capabilities, it could be because of its position in the consumers' mind, it can be because of a technological advantage, or any kind of reason at all, that it has this moat around it...   
 > So we think in terms of that moat and the ability to keep its width and its impossibility of being crossed as the primary criterion of a great business. And we tell our managers we want the moat widened every year. That doesn't necessarily mean the profit will be more this year than it was last year because it won't be sometimes. However, if the moat is widened every year, the business will do very well. When we see a moat that's tenuous in any way — it's just too risky. We don't know how to evaluate that. And, therefore, we leave it alone. We think that all of our businesses — or virtually all of our businesses — have pretty darned good moats.  
-> -- Warren Buffett, from Berkshire's annual meeting letters
+> -- Warren Buffett, from Berkshire's annual meeting letters  
 
+> Starting a startup has been "figured out". Its not a frontier anymore, there's already a playbook for that Any Capital and Advice is commoditized over time.
+> The only advantage/moat is a network effect  
+> -- Sam Altman (YCombinator)
 
 Build [Economic Moat](https://en.wikipedia.org/wiki/Economic_moat) for business to preserve [competitive advantage](http://mastersinvest.com/moats). 
 
