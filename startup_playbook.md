@@ -139,7 +139,6 @@ Gaudí vs Gothic.
 > Rule for all the Braun Company's communications was called the **[five W's](https://en.wikipedia.org/wiki/Five_Ws) - you have to tell who was going to do what, where, when, and why**. And if you wrote a letter or directive in the Braun Company telling somebody to do something, and you didn't tell him why, you could get fired. In fact you would get fired if you did it twice. You might ask why is that so important? Well, again, that's a rule of psychology. Just as you think better if you array knowledge on a bunch of models that are basically answers to the question, why, why, why, if you always tell people why, they'll understand it better, they'll consider it more important, and they'll be more likely to comply. Even if they don't understand your reason, they'll be more likely to comply.  
 > -- Poor Charlie's Almanack: The Wit and Wisdom of Charles by Charlie T. Munger
 
-
 Pirates vs Navy, Artists vs Soldiers, Water vs Ice.
 
 Pirates do not scale. Transition from rules breaking pirate ship to a rules navigated navy. [How pirates become the navy w/Uber CEO Dara Khosrowshahi](https://www.stitcher.com/s?eid=61690020)
@@ -147,6 +146,20 @@ Pirates do not scale. Transition from rules breaking pirate ship to a rules navi
 The [Law of Crappy People](https://fs.blog/2015/02/ben-horowitz-the-law-of-crappy-people/) (Peters principe)
 
 [Tours of Duty: The New Employer-Employee Compact](https://hbr.org/2013/06/tours-of-duty-the-new-employer-employee-compact) by Reid Hoffman - an approach to [how to organize modern employment](https://www.linkedin.com/pulse/20141023153633-1213-tours-of-duty-how-to-organize-modern-employment/)
+
+
+##### Business Moat
+
+> What we're trying to find is a business that, for one reason or another -- it can be because it's the low-cost producer in some area, it can be because it has a natural franchise because of surface capabilities, it could be because of its position in the consumers' mind, it can be because of a technological advantage, or any kind of reason at all, that it has this moat around it...   
+> So we think in terms of that moat and the ability to keep its width and its impossibility of being crossed as the primary criterion of a great business. And we tell our managers we want the moat widened every year. That doesn't necessarily mean the profit will be more this year than it was last year because it won't be sometimes. However, if the moat is widened every year, the business will do very well. When we see a moat that's tenuous in any way — it's just too risky. We don't know how to evaluate that. And, therefore, we leave it alone. We think that all of our businesses — or virtually all of our businesses — have pretty darned good moats.  
+> -- Warren Buffett, from Berkshire's annual meeting letters
+
+
+Build [Economic Moat](https://en.wikipedia.org/wiki/Economic_moat) for business to preserve [competitive advantage](http://mastersinvest.com/moats). 
+
+Many [examples of classical moats](https://www.cbinsights.com/research/report/business-moats-competitive-advantage/) exist, some like patents and "know-hows" secrets became obsolete in XXI since [technological pace is accelerating](https://en.wikipedia.org/wiki/Accelerating_change).
+
+Build [Flywheel momentum](https://www.jimcollins.com/concepts/the-flywheel.html) to reach competition [Escape Velocity](https://startupsventurecapital.com/the-physics-of-startups-startup-speed-model-b014fab7deec).
 
 
 ##### Systematize innovation
