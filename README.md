@@ -44,6 +44,10 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > У разночинца биографии нет — есть только список прочитанных книг  
 > -- Осип Мандельштам
 
+> Some books cannot be summarized (real literature, poetry); some can be compressed to about ten pages; the majority to zero pages
+> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
+
+
 - [Baseline books](baseline.md)
 - [CS Baseline](baseline_cs.md)
 - [Collection of books & reviews](https://sive.rs/book) by Derek Sivers
@@ -177,6 +181,27 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > [A map is not the territory it represents](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation), but, if correct, it has a similar structure to the territory, which accounts for its usefulness  
 > —  Alfred Korzybski, Science and Sanity
 
+> The fool generalizes the particular; the nerd particularizes the general; some do both; and the wise does neither.
+> There is nothing deemed harmful (in general) that cannot be beneficial in some particular instances, and nothing deemed beneficial that cannot harm you in some circumstances.
+> The more complex the system, the weaker the notion of Universal.
+> One of the failures of “scientific approximation” in the nonlinear domain comes from the inconvenient fact that the average of expectations is different from the expectation of averages..
+> Because our minds need to reduce information, we are more likely to try to squeeze a phenomenon into the Procrustean bed of a crisp
+and known category (amputating the unknown), rather than suspend categorization, and make it tangible. Thanks to our detections of false
+patterns, along with real ones, what is random will appear less random and more certain—our overactive brains are more likely to
+impose the wrong, simplistic narrative than no narrative at all.
+The mind can be a wonderful tool for self-delusion—it was not designed to deal with complexity and nonlinear uncertainties.
+Counter to the common discourse, more information means more delusions: our detection of false patterns is growing faster and faster as
+a side effect of modernity and the information age: there is this mismatch between the messy randomness of the information-rich
+current world, with its complex interactions, and our intuitions of events, derived in a simpler ancestral habitat. Our mental architecture
+is at an increased mismatch with the world in which we live.
+This leads to sucker problems: when the map does not correspond to the territory, there is a certain category of fool—the overeducated,
+the academic, the journalist, the newspaper reader, the mechanistic “scientist,” the pseudo-empiricist, those endowed with what I call
+“epistemic arrogance,” this wonderful ability to discount what they did not see, the unobserved—who enter a state of denial, imagining
+the territory as fitting his map. More generally, the fool here is someone who does the wrong reduction for the sake of reduction, or
+removes something essential, cutting off the legs, or, better, part of the head of a visitor while insisting that he preserved his persona with 95 percent accuracy.
+> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
+
+
 The world is huge and our sensory bandwidth is tiny and memory capacity is limited.
 
 [Mental models](https://fs.blog/mental-models/) simplify huge complexity of the world
@@ -223,6 +248,10 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 
 > Simplicity is hacking away the unessential. — It is not daily increase but daily decrease — hack away the unessential! The closer to the source, the less wastage there is  
 > -- Bruce Lee
+
+> Knowledge is subtractive, not additive—what we subtract (reduction by what does not work, what not to do), not what we add (what to do).
+> They think that intelligence is about noticing things that are relevant (detecting patterns); in a complex world, intelligence consists in ignoring things that are irrelevant (avoiding false patterns).
+> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 
 
 Iterate and refine models to sharp your [decision making skills](#decisions). Make [incremental improvements](https://en.wikipedia.org/wiki/Kaizen))
@@ -417,6 +446,13 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 
 > Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny  
 > — Mahatma Gandhi
+
+> Ethical man accords his profession to his beliefs, instead of according his beliefs to his profession. This has been rarer and rarer since the Middle Ages.
+> Weak men act to satisfy their needs, stronger men their duties.
+> The difference between magnificence and arrogance is in what one does when nobody is looking.
+> Just as dyed hair makes older men less attractive, it is what you do to hide your weaknesses that makes them repugnant.
+> The best test of robustness to reputational damage is your emotional state (fear, joy, boredom) when you get an email from a journalist.
+> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 
 
 * The [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule) principle of treating others as you want to be treated is spoiled by [hypocrisy of double standards](https://en.wikipedia.org/wiki/Hypocrisy)
@@ -616,6 +652,10 @@ judgment. The two can be far from the same, and especially over a small number o
 > Learn and obey the rules very well so you will know how to break them properly  
 > ― Dalai Lama XIV
 
+> Anyone voicing a forecast or expressing an opinion without something at risk has some element of phoniness. Unless he risks going down with the ship this would be like watching an adventure movie.
+> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
+
+
 There're lots of frameworks and tools for [decision making](https://fs.blog/smart-decisions/)
 
 Strategy for triaging:
@@ -706,11 +746,19 @@ Idea that committees' average thinking yelds average performance contradicts wit
 > Overconfidence .. the most significant of the cognitive biases.  
 > -- Daniel Kahneman in Thinking Fast and Slow book
 
+> It is a very recent disease to mistake the unobserved for the nonexistent; but some are plagued with the worse disease of mistaking the unobserved for the unobservable.
+> For the robust, an error is information; for the fragile, an error is an error.
+> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 
 _**Known knowns**_ refer to a high level of confidence, yet [overconfidence](https://en.wikipedia.org/wiki/Overconfidence_effect) is _the most significant of the cognitive biases_.
 
 > It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so  
 > -- Mark Twain, but also to several others:
+
+> In most debates, people seem to be trying to convince one another; but all they can hope for is new arguments to convince themselves.
+> The sucker’s trap is when you focus on what you know and what others don’t know, rather than the reverse.
+> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
+
 
 People with low ability at a task [overestimate their ability (Dunning–Kruger effect
 )](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) at the same time high-achievers suffer from opposite cognitive bias - [underestimate themselves (impostor syndrome)
@@ -741,6 +789,10 @@ _**Unknown unknowns**_ refer to risks invisible, unconsidered and unestimated e.
 
 > .. we can almost always detect antifragility (and fragility) using a simple test of asymmetry : **anything that has more upside than downside from random events (or certain shocks) is antifragile; the reverse is fragile**  
 > --  Nassim Taleb in Antifragile: Things That Gain from Disorder
+
+Randomness is indistinguishable from complicated, undetected, and undetectable order; but order itself is indistinguishable from artful randomness.
+> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
+
 
 Antifragility is the antidote to [Black Swans](https://en.wikipedia.org/wiki/Black_swan_theory).
 
@@ -906,6 +958,11 @@ The **genius or daemon comes to us at birth. It carries with it the fullness of 
 > If our lives are gifts to begin with, however, in some sense they are not _“ours”_ even when we become adults. Or perhaps they are, but only until such time as we find a way to bestow them. The belief that life is a gift carries with it the corollary feeling that the gift should not be hoarded. As we mature, and particularly as we come into the isolation of being “on our own,” we begin to feel the desire to give ourselves away in love, in marriage, to our work, to the gods, to politics, to our children. And adolescence is marked by that restless, erotic, disturbing inquisition: Is this person, this nation, this work, worthy of the life I have to give?  
 > -- The Gift: Creativity and the Artist in the Modern World by Lewis Hyde
 
+> You don’t become completely free by just avoiding to be a slave; you also need to avoid becoming a master
+> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
+
+
+
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
 same as human forebrain cortex depends on midbrain infrastructure, 
 same as human consciousness is powerless against orders of endocrine system programs.
@@ -972,6 +1029,9 @@ And he that dies young has only made a quick voyage of it
 Fluidity is the way to an empty mind. You must free your ambitious mind and learn the art of dying.  
 > -- Striking Thoughts: Bruce Lee's Wisdom for Daily Living (2000) edited by John Little
 
+> You are only secure if you can lose your fortune without the additional worse insult of having to become humble.
+> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
+
 
 Christian: [Ars moriendi](https://en.wikipedia.org/wiki/Ars_moriendi).
 
@@ -1018,6 +1078,13 @@ A Need for [Sence of Heroic Worth](https://academyofideas.com/2020/05/the-psycho
 
 > So, what is important is **not to ask, “What is the purpose of life, of existence?” but to clear the confusion that is within you. It is like a blind man who asks, “What is light?”** If I tell him what light is, he will listen according to his blindness, according to his darkness; but suppose he is able to see, then, he will never ask the question “what is light?” It is there.  
 -- Jiddu Khrishnamurti, The Book of Life
+
+> Asking science to explain life and vital matters is equivalent to asking a grammarian to explain poetry.
+> You cannot express the holy in terms made for the profane, but you can discuss the profane in terms made for the holy.
+> I realized that these sentences come naturally to me, almost involuntarily, in an eerie way, particularly when walking (slowly) or when freeing up my mind to do
+nothing, or nothing effortful—I could convince myself that I was hearing voices from the other side of the veil of opacity. By setting oneself totally free of constraints, free of thoughts, free
+of this debilitating activity called work, free of efforts, elements hidden in the texture of reality start staring at you; then mysteries that you never thought existed emerge in front of your eyes.
+> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 
 
 Symbolic System is [a map, not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation) it represents.
