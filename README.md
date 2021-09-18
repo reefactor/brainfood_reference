@@ -165,7 +165,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [Podcasts by Howard Marks on decision making frameworks and investing](https://www.oaktreecapital.com/insights/podcasts)
 - [The Robot Brains Podcast with Pieter Abbeel](https://www.therobotbrains.ai/)
 
-***
+
 ## Mental models
 
 >  ..all models are approximations. Essentially, [all models are wrong, but some are useful](https://en.wikipedia.org/wiki/All_models_are_wrong).
@@ -528,6 +528,9 @@ The spirit of the individual is determined by his dominating thought habits.
 > Possession of anything begins in the mind.  
 > -- Part 6 "Beyond System — The Ultimate Source of Jeet Kune Do" Jeet Kune Do: Bruce Lee's Commentaries on the Martial Way (1997) edited by John Little
 
+> Be disciplined in your life so that you can be violent and original in your art (Soyez réglé dans votre vie et ordinaire comme un bourgeois, afin d'être violent et original dans vos œuvres)  
+> ― Gustav Flaubert
+
 Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/habits-vs-goals/).
 
 [Deliberate practice](https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice) makes perfect
@@ -572,11 +575,11 @@ Willpower is short-term tactics, Habit is for long-term strategy.
 * Daily [Blinkist](https://www.blinkist.com/) blink
 * Commute [podcasts](#listen-and-learn)
 * Daily [Pocket](https://getpocket.com/) article
-* Book chunk - [Bill Gates routinely reads 50 books per year](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year)
 * Inbox zero
 * Deep work - non-interrupted mode in "creative cave" - [ballance schedule](https://fs.blog/2017/12/maker-vs-manager/) ([Maker's mode](http://www.paulgraham.com/makersschedule.html))
 * Afternoon nap
 * [Manager's mode](http://www.paulgraham.com/makersschedule.html)
+* Daily Book chunk ([Bill Gates routinely reads 50 books per year](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year))
 
 
 [Wim Hof breathing technique](https://en.wikipedia.org/wiki/Wim_Hof#Breathing) is a secular kind of hyperventilation [breathwork](https://en.wikipedia.org/wiki/Breathwork)
@@ -605,6 +608,7 @@ Trees grow over time - relations weights grow from subjective life experience.
 
 Pruning trees is an essential part of active introspection, mental hygiene, since attention requires mental energy resources.
 
+Review reading list of and pick what reasonates - next book for the upcoming week to read.
 
 ##### Sleep
 
