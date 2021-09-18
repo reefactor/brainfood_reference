@@ -1052,6 +1052,10 @@ A Need for [Sence of Heroic Worth](https://academyofideas.com/2020/05/the-psycho
 
 ### Pointers of Truth
 
+> When the sage points at the moon, the fool looks at the finger
+>> Truth has nothing to do with language. Truth is like Moon in the sky and language is like the finger that points to the moon. A finger can point out where the moon is, but the finger is not the truth. You can see the moon without help of any fingers, can you?  
+> -- Chan Buddhist scripture [Platform Sutra](https://www.quora.com/Does-the-saying-When-the-sage-points-at-the-moon-the-fool-looks-at-the-finger-really-have-Chinese-origins)
+
 > The wisdom of the wise, and the experience of ages, may be preserved by quotations  
 > ― Isaac Disraeli
 
@@ -1066,15 +1070,11 @@ A Need for [Sence of Heroic Worth](https://academyofideas.com/2020/05/the-psycho
 > ― Александр Солженицын
 
 #### Limitations of language
-> When the sage points at the moon, the fool looks at the finger
->> Truth has nothing to do with language. Truth is like Moon in the sky and language is like the finger that points to the moon. A finger can point out where the moon is, but the finger is not the truth. You can see the moon without help of any fingers, can you?
-
-> -- Chan Buddhist scripture [Platform Sutra](https://www.quora.com/Does-the-saying-When-the-sage-points-at-the-moon-the-fool-looks-at-the-finger-really-have-Chinese-origins)
 
 > Wisdom cannot be passed on. Wisdom that a wise man attempts to pass on always sounds like foolishness..  
 > .. One can pass on knowledge but not wisdom. One can find wisdom, one can live it, one can be supported by it, one can work wonders with it, but one cannot speak it or teach it. I sometimes suspected this even as a youth; it is what drove me from my teachers..   
 > .. Words do no justice to the hidden meaning. Everything immediately becomes slightly different when it is expressed in words, a little bit distorted, a little foolish. And that too is good and pleases me very much. It is perfectly fine with me that what for one man is precious wisdom for another sounds like a foolery.  
-> -- Hermann Hesse in Siddhartha.
+> -- Siddhartha by Hermann Hesse.
 
 > So, what is important is **not to ask, “What is the purpose of life, of existence?” but to clear the confusion that is within you. It is like a blind man who asks, “What is light?”** If I tell him what light is, he will listen according to his blindness, according to his darkness; but suppose he is able to see, then, he will never ask the question “what is light?” It is there.  
 -- Jiddu Khrishnamurti, The Book of Life
