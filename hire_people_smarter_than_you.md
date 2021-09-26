@@ -47,4 +47,8 @@
 I think **it is a mistake to hire huge numbers of people to get a complicated job done. Numbers will never compensate for talent in getting the right answer (two people who don't know something are no better than one), will tend to slow down progress and will make the task incredibly expensive.** Also, a lot of aerospace senior managers seem to be really disassociated from and unable to do hard core engineering. I think that is a mistake and results in cloudy judgment on important technical issues -- they can't tell if something is really good or not, so they just do what everyone else does, assuming it to be the safe bet.  
 > -- Elon Musk
 
+> Never tell people how to do things .. Tell them what to do, and they will surprise you with their ingenuity  
+> George Patton
 
+> We let our people know what we want them to accomplish. But—and it is a very big ‘but’—we do not tell them how to achieve those goals.” That is a near-perfect summary of “mission command.”  
+> William Coyne, senior vice president of research and development at 3M

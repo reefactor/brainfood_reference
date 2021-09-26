@@ -49,6 +49,9 @@ A startup eventually has to get a lot of people to join its quest.  It's usually
 > Plato said: "Do not train boys to learning by force and harshness, but lead them by what amuses them, so that they may better discover the bent of their minds." Pressuring people or giving them orders often doesn't work. It is better to convince people by asking questions that illuminate consequences. This causes them to think for themselves and makes it more likely that they discover what's in their best interest  
 > -- Poor Charlie's Almanack
 
+> We let our people know what we want them to accomplish. But—and it is a very big ‘but’—we do not tell them how to achieve those goals.” That is a near-perfect summary of “mission command.”  
+> William Coyne, senior vice president of research and development at 3M
+
 
 Find Deep experts in the domain space but willing to embrace change.
 
@@ -104,7 +107,7 @@ The smaller the company, the more everyone feels like a principal. The less you 
 
 Break/Fix loops - become antifragile, otherwise - become rigid risk averse 
 
-Lead by example.
+[Lead](https://www.amazon.jobs/en/principles) by example.
 
 ##### Approximation-driven development
 

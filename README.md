@@ -283,6 +283,9 @@ Accumulated [knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asym
 > A fox knows many things, but a hedgehog one important thing  
 > -- [greek poet Archilochus quoted by Isaiah Berlin to define a spectrum](https://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox)
 
+> Foxes beat hedgehogs. And the foxes didn’t just win by acting like chickens, playing it safe with 60% and 70% forecasts where hedgehogs boldly went with 90% and 100%. Foxes beat hedgehogs on both calibration and resolution. Foxes had real foresight. Hedgehogs didn’t.  
+> Superforecasting: The Art and Science of Prediction by Philip Tetlock  
+
 Move from I-shaped to T-shaped to Π-Shaped to M-shaped individual yet be aware of [Jack of all trades, master of none](https://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none). The key here ballance factors:
 * [The Pareto Principle in Learning – The 80:20 Rule](https://www.briantracy.com/blog/personal-success/how-to-use-the-80-20-rule-pareto-principle/) says that learning process isn't linear - you achieve 80% of result in the begining with only 20% of time. 
 * [Speed of Obsolescence of Knowledge and Skills](http://career.iresearchnet.com/career-development/obsolescence-of-knowledge-and-skills/) at some point on a learning curve become greater than speed of your learning so the latter 20% isn't worth it
@@ -716,7 +719,7 @@ You have to have [skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_ga
 > Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally  
 > -- John Maynard Keynes
 
-Challenge beliefs & persist. Disagree & commit. Make asymmetric bets.
+Challenge beliefs & persist. [Disagree & commit](https://en.wikipedia.org/wiki/Disagree_and_commit). Make asymmetric bets.
 
 Idea that committees' average thinking yelds average performance contradicts with [Condorcet's Jury Theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem) and [Majority Voting](https://arxiv.org/abs/2002.03153) concept in Machine Learning - [The Strength of Weak Learnability](https://link.springer.com/content/pdf/10.1023/A:1022648800760.pdf)
 
@@ -754,6 +757,11 @@ Idea that committees' average thinking yelds average performance contradicts wit
 > For the robust, an error is information; for the fragile, an error is an error.  
 > -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 
+> intelligence community does what it calls intelligence analysis—the methodical examination of the information collected by spies and surveillance to figure out what it means, and what will happen next.  
+> The key word in Kent’s work is estimate. As Kent wrote, “estimating is what you do when you do not know.” And as Kent emphasized over and over, we never truly know what will happen next. Hence forecasting is all about estimating the likelihood of something happening, which Kent and his colleagues did for many years at the Office of National Estimates—an obscure but extraordinarily influential bureau whose job was to draw on all information available to the CIA, synthesize it, and forecast anything and everything that might help the top officeholders in the US government decide what to do next.
+> Superforecasting: The Art and Science of Prediction by Philip Tetlock  
+
+
 _**Known knowns**_ refer to a high level of confidence, yet [overconfidence](https://en.wikipedia.org/wiki/Overconfidence_effect) is _the most significant of the cognitive biases_.
 
 > It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so  
@@ -762,7 +770,6 @@ _**Known knowns**_ refer to a high level of confidence, yet [overconfidence](htt
 > In most debates, people seem to be trying to convince one another; but all they can hope for is new arguments to convince themselves.  
 > The sucker’s trap is when you focus on what you know and what others don’t know, rather than the reverse.  
 > -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
-
 
 People with low ability at a task [overestimate their ability (Dunning–Kruger effect
 )](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) at the same time high-achievers suffer from opposite cognitive bias - [underestimate themselves (impostor syndrome)
