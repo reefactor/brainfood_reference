@@ -1,6 +1,19 @@
 
 # Startup Playbook
 
+![Project decision impact VS lifetime](res/decision-impact-cost-vs-time.png)
+
+### TLDR
+
+**Build something great, hire top talents and pro`s to maintain it, move on, repeat.**
+
+
+### Why start a startup?
+
+> **Decisions made just days or weeks into a project** — assumptions of end-user needs, commitments to a schedule, the size and shape of a building footprint, and so on — **have the most significant impact on design, feasibility, and cost. As decisions are made later and later in the design process, their influence decreases**. Minor cost savings sometimes can be realized through value engineering in the later stages of design, but the biggest cost factors are embedded at the outset in a project’s DNA  
+> -- 101 Things I Learned in Engineering School by John Kuprenas, 2013
+
+
 ### Leap of faith
 
 > You've got to jump off the cliff and build your wings on the way down  
@@ -19,9 +32,6 @@
 > -- [The Man in the Arena: Citizenship in a Republic](http://www.theodoreroosevelt.org/site/c.elKSIdOWIiJ8H/b.9274065/k.8422/Man_in_the_Arena.htm) by Theodore Roosevelt  
 > Far better it is to **dare mighty things**, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy nor suffer much, because they live in the gray twilight that knows not victory nor defeat.  
 > -- [The Strenuous Life](http://www.theodoreroosevelt.org/site/c.elKSIdOWIiJ8H/b.9297447/k.CECF/The_Strenuous_Life.htm) by Theodore Roosevelt
-
-Why start a startup? Because early design decisions have the greatest impact.
-
 
 
 ### Success Formula
@@ -67,6 +77,9 @@ Hire for strenghts, not for weeknesses, [hire people who are smarter than you](/
 
 Assess credibility => give decision space. Credibility = proven competence + relationships + integrity.
 
+Give trust ahead, build trust to reduce communication overhead. Lack of trust leads to micromanagement.
+
+
 * [Netflix culture manifest](https://www.slideshare.net/reed2001/culture-1798664)
 * Autonomy, Sense of ownership, Responsibility - "A High-Freedom Approach" Laszlo Bock "Work rules" (google)
 * [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) approach by Stieve Jobs
@@ -76,6 +89,9 @@ Assess credibility => give decision space. Credibility = proven competence + rel
 
 > I think **it is a mistake to hire huge numbers of people to get a complicated job done. Numbers will never compensate for talent in getting the right answer (two people who don't know something are no better than one), will tend to slow down progress and will make the task incredibly expensive.** Also, a lot of aerospace senior managers seem to be really disassociated from and unable to do hard core engineering. I think that is a mistake and results in cloudy judgment on important technical issues -- they can't tell if something is really good or not, so they just do what everyone else does, assuming it to be the safe bet.  
 > -- Elon Musk
+> Adding manpower to a late software project makes it later (More Software Developers Is BAD)  
+> -- [Brooks's law](https://en.wikipedia.org/wiki/Brooks%27s_law)
+
 
 Underestimated power in keeping team small: **team cohesion and low communication overhead**.
 
