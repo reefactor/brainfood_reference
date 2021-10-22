@@ -972,12 +972,22 @@ The **genius or daemon comes to us at birth. It carries with it the fullness of 
 > You don’t become completely free by just avoiding to be a slave; you also need to avoid becoming a master  
 > -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 
+> To improve is to change, so to be perfect is to have changed often  
+> -- Winston Churchill (June 23, 1925), During a debate with Philip Snowden.
 
+> Every individual needs revolution, inner division, overthrow of the existing order, and renewal, but not by forcing them upon his neighbors under the hypocritical cloak of Christian love or the sense of social responsibility or any of the other beautiful euphemisms for unconscious urges to personal power. 
+Individual self-reflection, return of the individual to the ground of human nature, to his own deepest being with its individual and social destiny — here is the beginning of a cure for the blindness which reigns at the present hour  
+> -- C.G. Jung, CW 7, Page 5  
+
+> Kierkegaard, like Nietzsche a half-century later, sees the human self not simply as a finished product, a kind of entity, but as a developing process. A self is not simply something I am but something I must become…To be a self is to embark on a process in which one becomes something…Essentially, a person is in despair if they fail to be fully a self. An awareness of the emptiness of self results in that feeling we normally call despair…  
+> -- Kierkegaard by Stephen Evans  
+
+> To will to be himself is man’s true vocation… blockages in self-awareness [occur] because the individual [is] unable to move through accumulations of anxiety at various points in his growth. Kierkegaard makes it clear that selfhood depends upon the individual’s capacity to confront anxiety and move ahead despite it  
+> -- The Meaning of Anxiety by Rollo May  
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
 same as human forebrain cortex depends on midbrain infrastructure, 
 same as human consciousness is powerless against orders of endocrine system programs.
-
 
 [Second Self](https://www.youtube.com/watch?v=U0BmtjNgOak) ritual in "fixed role therapy".
 
