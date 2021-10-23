@@ -30,15 +30,34 @@
 
 > It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly...  
 > -- [The Man in the Arena: Citizenship in a Republic](http://www.theodoreroosevelt.org/site/c.elKSIdOWIiJ8H/b.9274065/k.8422/Man_in_the_Arena.htm) by Theodore Roosevelt  
+
 > Far better it is to **dare mighty things**, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy nor suffer much, because they live in the gray twilight that knows not victory nor defeat.  
 > -- [The Strenuous Life](http://www.theodoreroosevelt.org/site/c.elKSIdOWIiJ8H/b.9297447/k.CECF/The_Strenuous_Life.htm) by Theodore Roosevelt
 
 
 ### Success Formula
 
-ProbabilityOfSuccess = idea * execution * timing * luck * latent_variables
+> Nothing is more powerful than an **idea** whose time [**timing**] has come  
+> ― [attributed to](https://quotepark.com/quotes/1149925-victor-hugo-there-is-nothing-more-powerful-than-an-idea-whose/) Victor Hugo and Gustave Aimard
 
-Do the work to **make sure you are building a product that people will actually find valuable**. 
+> Chance I is completely impersonal; you can’t influence it. [**dumb luck**]  
+> Chance II favors those who have a persistent curiosity about many things coupled with an energetic willingness to experiment and explore.  
+> Chance III favors those who have a sufficient background of sound knowledge plus special abilities in observing, remembering, recalling, and quickly forming significant new associations.  
+> Chance IV favors those with distinctive, if not eccentric hobbies, personal lifestyles, and motor behaviors.  
+> -- Chase, Chance, and Creativity by Dr. James Austin, 
+[referenced by Marc Andreessen on The Four Kinds of Luck](https://pmarchive.com/luck_and_the_entrepreneur.html) 
+also [referenced later by Naval Ravikant](https://nav.al/money-luck)
+
+> Chance favors the prepared [**execution**] mind  
+> -- Louis Pasteur
+
+> We make [**execution**] our fortunes and we call them fate  
+> -- Benjamin Disraeli
+
+> The evidence leads us to conclude that luck does not cause 10X success. People do. The critical question is not “Are you lucky?” but “Do you get a high return on luck?”  
+> -- Great by Choice: Uncertainty, Chaos, and Luck by Jim Collins 
+
+**ProbabilityOfSuccess = idea * timing * execution * luck**
 
 
 ### Team
