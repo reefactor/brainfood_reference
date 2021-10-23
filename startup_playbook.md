@@ -41,12 +41,17 @@
 > ― [attributed to](https://quotepark.com/quotes/1149925-victor-hugo-there-is-nothing-more-powerful-than-an-idea-whose/) Victor Hugo and Gustave Aimard
 
 > Chance I is completely impersonal; you can’t influence it. [**dumb luck**]  
-> Chance II favors those who have a persistent curiosity about many things coupled with an energetic willingness to experiment and explore.  
-> Chance III favors those who have a sufficient background of sound knowledge plus special abilities in observing, remembering, recalling, and quickly forming significant new associations.  
-> Chance IV favors those with distinctive, if not eccentric hobbies, personal lifestyles, and motor behaviors.  
+> Chance II favors those who have a persistent curiosity about many things coupled with an energetic willingness to experiment and explore. [**hustling**]  
+> Chance III favors those who have a sufficient background of sound knowledge plus special abilities in observing, remembering, recalling, and quickly forming significant new associations. [**preparation**]  
+> Chance IV favors those with distinctive, if not eccentric hobbies, personal lifestyles, and motor behaviors. [**unique character**]  
 > -- Chase, Chance, and Creativity by Dr. James Austin, 
 [referenced by Marc Andreessen on The Four Kinds of Luck](https://pmarchive.com/luck_and_the_entrepreneur.html) 
 also [referenced later by Naval Ravikant](https://nav.al/money-luck)
+
+> Obviously, we want to be wealthy, and we want to get there in this lifetime without having to rely on luck..  
+> .. the last kind of luck is the weirdest, hardest kind. But that’s what we want to talk about. Which is where you build a unique character, a unique brand, a unique mindset, where then luck finds you...  
+You created your own luck. You put yourself in a position to be able to capitalize on that luck. Or to attract that luck when nobody else has created that opportunity for themselves. When we talk about “without getting lucky,” we want to be deterministic, we don’t want to leave it to chance.  
+> -- [Making Money Isn’t About Luck](https://nav.al/money-luck) by Naval Ravikant 
 
 > Chance favors the prepared [**execution**] mind  
 > -- Louis Pasteur
@@ -54,7 +59,7 @@ also [referenced later by Naval Ravikant](https://nav.al/money-luck)
 > We make [**execution**] our fortunes and we call them fate  
 > -- Benjamin Disraeli
 
-> The evidence leads us to conclude that luck does not cause 10X success. People do. The critical question is not “Are you lucky?” but “Do you get a high return on luck?”  
+> The evidence leads us to conclude that **luck** does not cause 10X success. People do. The critical question is not “Are you lucky?” but “Do you get a **high return** on luck?”  
 > -- Great by Choice: Uncertainty, Chaos, and Luck by Jim Collins 
 
 **ProbabilityOfSuccess = idea * timing * execution * luck**
