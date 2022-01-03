@@ -29,6 +29,8 @@ to explore the limits of human knowledge despite the [limitations of language](#
 
 > [Nanos gigantum humeris insidentes](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants)
 
+> [Nothing comes from nothing](https://en.wikipedia.org/wiki/Nothing_comes_from_nothing)
+
 > I believe in the discipline of mastering the best that other people have ever figured out. I don't believe in just sitting down and trying to dream it all up yourself. Nobody's that smart  
 > -- Charles Munger
 
@@ -45,8 +47,7 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > -- Осип Мандельштам
 
 > Some books cannot be summarized (real literature, poetry); some can be compressed to about ten pages; the majority to zero pages  
-> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
-
+> -- The bed of Procrustes by Nassim Taleb
 
 - [Baseline books](baseline.md)
 - [CS Baseline](baseline_cs.md)
@@ -70,7 +71,8 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > Never be the brightest person in the room because you won’t learn anything  
 > -- attributed to [James Watson, Holly Hunter, James L. Brooks, Steven R. Craig, Michael Dell](https://quoteinvestigator.com/2019/02/21/bright/)
 
-> Never take advice from someone you wouldn't trade places with
+> Seek out positive people who have achieved the success you want to create in your own life. Remember the adage: “Never ask advice of someone with whom you wouldn’t want to trade places.”  
+> -- The Compound Effect by Darren Hardy
 
 > Cross-validate ideas, rules, practices of authoritative sources and people  
 > -- Jordan B. Peterson
@@ -87,8 +89,8 @@ to explore the limits of human knowledge despite the [limitations of language](#
 
 #### φύσις
 * [The Quanta Magazine](https://www.quantamagazine.org/)
-* [Книга новостей](https://kniganews.org)
 * [Wait but why](http://waitbutwhy.com)
+* [Книга новостей](https://kniganews.org)
 * [Сергей Карелов - Малоизвестное интересное на стыке науки, технологий, бизнеса и общества](https://medium.com/@sergey_57776)
 
 #### ψυχή
@@ -181,25 +183,21 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > [A map is not the territory it represents](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation), but, if correct, it has a similar structure to the territory, which accounts for its usefulness  
 > —  Alfred Korzybski, Science and Sanity
 
-> The fool generalizes the particular; the nerd particularizes the general; some do both; and the wise does neither.
-> There is nothing deemed harmful (in general) that cannot be beneficial in some particular instances, and nothing deemed beneficial that cannot harm you in some circumstances.
-> The more complex the system, the weaker the notion of Universal.
-> One of the failures of “scientific approximation” in the nonlinear domain comes from the inconvenient fact that the average of expectations is different from the expectation of averages..
-> Because our minds need to reduce information, we are more likely to try to squeeze a phenomenon into the Procrustean bed of a crisp
-and known category (amputating the unknown), rather than suspend categorization, and make it tangible. Thanks to our detections of false
-patterns, along with real ones, what is random will appear less random and more certain—our overactive brains are more likely to
-impose the wrong, simplistic narrative than no narrative at all.  
-The mind can be a wonderful tool for self-delusion, it was not designed to deal with complexity and nonlinear uncertainties.
+> The fool generalizes the particular; the nerd particularizes the general; some do both; and the wise does neither.    
+..One of the failures of “scientific approximation” in the nonlinear domain comes from the inconvenient fact that the average of expectations is different from the expectation of averages..
+Because our minds need to reduce information, we are more likely to try to squeeze a phenomenon into the Procrustean bed of a crisp and known category (amputating the unknown), rather than suspend categorization, and make it tangible. Thanks to our detections of false
+patterns, along with real ones, what is random will appear less random and more certain — our overactive brains are more likely to impose the wrong, simplistic narrative than no narrative at all.  
+The mind can be a wonderful tool for self-delusion, it was not designed to deal with complexity and nonlinear uncertainties.  
 Counter to the common discourse, more information means more delusions: our detection of false patterns is growing faster and faster as
 a side effect of modernity and the information age: there is this mismatch between the messy randomness of the information-rich
 current world, with its complex interactions, and our intuitions of events, derived in a simpler ancestral habitat. Our mental architecture
 is at an increased mismatch with the world in which we live.  
 This leads to sucker problems: when the map does not correspond to the territory, there is a certain category of fool — the overeducated,
 the academic, the journalist, the newspaper reader, the mechanistic “scientist”, the pseudo-empiricist, those endowed with what I call
-“epistemic arrogance,” this wonderful ability to discount what they did not see, the unobserved—who enter a state of denial, imagining
+“epistemic arrogance,” this wonderful ability to discount what they did not see, the unobserved — who enter a state of denial, imagining
 the territory as fitting his map. More generally, the fool here is someone who does the wrong reduction for the sake of reduction, or
 removes something essential, cutting off the legs, or, better, part of the head of a visitor while insisting that he preserved his persona with 95 percent accuracy.  
-> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
+> -- The bed of Procrustes by Nassim Taleb
 
 
 The world is huge and our sensory bandwidth is tiny and memory capacity is limited.
@@ -249,9 +247,9 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 > Simplicity is hacking away the unessential. — It is not daily increase but daily decrease — hack away the unessential! The closer to the source, the less wastage there is  
 > -- Bruce Lee
 
-> Knowledge is subtractive, not additive—what we subtract (reduction by what does not work, what not to do), not what we add (what to do).  
-> They think that intelligence is about noticing things that are relevant (detecting patterns); in a complex world, intelligence consists in ignoring things that are irrelevant (avoiding false patterns).  
-> -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
+> Knowledge is subtractive, not additive — what we subtract (reduction by what does not work, what not to do), not what we add (what to do).  
+.. They think that intelligence is about noticing things that are relevant (detecting patterns); in a complex world, intelligence consists in ignoring things that are irrelevant (avoiding false patterns).  
+> -- The bed of Procrustes by Nassim Taleb
 
 
 Iterate and refine models to sharp your [decision making skills](#decisions). Make [incremental improvements](https://en.wikipedia.org/wiki/Kaizen))
@@ -324,14 +322,14 @@ is the desirable middle between two extremes, one of excess and the other of def
  
 | Extreme |  | Extreme |
 |---|---|---|
-| wave | [Wave–particle duality](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality) | particle |
+| wave (stochastic, Lorencian [butterfly](https://en.wikipedia.org/wiki/Butterfly_effect)) | [Wave–particle duality](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality) | particle (deterministic [Laplace's demon](https://en.wikipedia.org/wiki/Laplace%27s_demon)) |
 | recklessness | courage | cowardice |
 | fatalist | wave surfer | control-freak |
-| autocracy (1 vote with infinite weight) | meritocracy (N votes with weights proportional to the individual merit) | democracy (N votes with constant weights  equally distributed) |
+| democracy (N votes with constant weights  equally distributed) | meritocracy (N votes with weights proportional to the individual merit) | autocracy (1 vote with infinite weight) |
 | ascetic  | buddhist middle way | hedonic |
 | eternalism | buddhist [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)  | annihilationism |
 | Divine supreme predestination - Daiva | [Wu wei](https://en.wikipedia.org/wiki/Wu_wei), [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer) | Freedom of personal will - Purushakara |
-| yin / inaction |  | yang / action |
+| yang / action |  | yin / equilibrium |
 | testable falsifiable science | | faith, dogma, axiom |
 | exploration, deliberate experimentation, _Do what you love_ | | exploitation, deliberate practice, _Love what you do_, craftsman mindset |
 | generalist | | specialist |
@@ -341,12 +339,13 @@ is the desirable middle between two extremes, one of excess and the other of def
 | creating (entrepreneurs) |  | running (manager) |
 | divergent thinking (out of then box, creative) |  | convergent (focused) |
 | wisdom of crowds ([Condorcet's Jury Theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem), [Majority Voting](https://arxiv.org/abs/2002.03153)) |  | consensus bias, common sense misconceptions |
-| self-reliance |  | standing on a shoulder of giants |
+| [Emerson's self-reliance](https://en.wikipedia.org/wiki/Self-Reliance) & [Not invented here](https://en.wikipedia.org/wiki/Not_invented_here) syndrome |  | [standing on a shoulder of giants](https://fs.blog/shoulders-of-giants/) |
 | [rules breaking](startup_playbook.md#bootstrap) pirates |   | [rules navigated](startup_playbook.md#scaling) navy |
-| Moral absolutism |  | Moral relativism |
-| Startup risk-taking mentality (fail-fast at low cost, large benefits from success) | | Risk-aversion mentality (large cost of failure, preserve status quo) |
+| Moral relativism |  | Moral absolutism |
+| Startup risk-taking mentality (fail-fast at low cost, high benefits from success) | | [Risk aversion](https://en.wikipedia.org/wiki/Risk_aversion) & [Sunk cost](https://en.wikipedia.org/wiki/Sunk_cost) fallacy (high cost of failure preserving status quo) |
 | Scarcity of Information (_Sacred knowledge_ gatekeeping, classical centralised media sources) |  | Scarcity of Attention (XXI distributed internet media, noise overloading attention is a modern form of censorship) |
 | Gift exchange, Reciprocal Labour |  | market driven Commodity exchange of _reciprocally independent enterprises_, Work |
+| First-mover |  | Fast follower |
 
 ## Reasoning
 
@@ -572,17 +571,18 @@ Willpower is short-term tactics, Habit is for long-term strategy.
 > -- Josh Waitzkin
 
 * [Sleep well](#sleep)
-* Warm / cold shower by [Wim Hof method cold-therapy](https://www.wimhofmethod.com/practice-the-method) (clean physical body)
+* Warm / cold shower by [Wim Hof method cold-therapy](https://www.wimhofmethod.com/practice-the-method) ([hormesis](https://en.wikipedia.org/wiki/Hormesis), free norepinephrine and dopamine etc)
 * Meditate with [Wim Hof breathwork](https://www.wimhofmethod.com/practice-the-method) - brush your mind, clean mental body, contemplate ideas, break rumination
-* Morning [journaling](#journaling) / notes on meditations (Seneca)
+* Morning [journaling](#journaling) (notes after meditations (Seneca))
 * Daily [Blinkist](https://www.blinkist.com/) blink
 * Commute [podcasts](#listen-and-learn)
 * Daily [Pocket](https://getpocket.com/) article
-* Inbox zero
-* Deep work - non-interrupted mode in "creative cave" - [ballance schedule](https://fs.blog/2017/12/maker-vs-manager/) ([Maker's mode](http://www.paulgraham.com/makersschedule.html))
+* [Inbox zero](https://en.wikipedia.org/wiki/Merlin_Mann#Writing) - [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done) ranking on [Urgence VS Importance Eisenhower Matrix](https://fs.blog/eisenhower-matrix/)
+* [Deep work](https://www.calnewport.com/books/deep-work/) in the [Flow State](https://en.wikipedia.org/wiki/Flow_(psychology)) "creative cave" focused 1-2 hours non-interrupted chunks followed by weak signals triggered breaks (keep-out of low-energy levels). [Ballance schedule](https://fs.blog/2017/12/maker-vs-manager/) ([Maker's mode](http://www.paulgraham.com/makersschedule.html))
 * Afternoon nap
 * [Manager's mode](http://www.paulgraham.com/makersschedule.html)
 * Daily Book chunk ([Bill Gates routinely reads 50 books per year](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year))
+* Replay & recap, [Most mportant question MIQ](https://tim.blog/2019/07/03/the-tim-ferriss-show-transcripts-josh-waitzkin-how-to-cram-2-months-of-learning-into-1-day-375/)
 
 
 [Wim Hof breathing technique](https://en.wikipedia.org/wiki/Wim_Hof#Breathing) is a secular kind of hyperventilation [breathwork](https://en.wikipedia.org/wiki/Breathwork)
@@ -695,9 +695,6 @@ You have to have [skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_ga
 > If you stop to think about it, a pari-mutuel system is a market. Everybody goes there and bets and the odds change based on what’s bet.. Any damn fool can see the horse carrying a light weight with a wonderful win rate and a good post position etc., is way more likely to win than a horse with a terrible record and extra weight and so on and so on. But if you look at the odds, the bad horse pays 100 to 1, whereas the good horse pays 3 to 2. Then it’s not clear which is statistically the best bet..  
 > -- The Art of Stock Picking by Charlie Munger
 
-> How could people miss such a point? Why do they confuse probability and expectation, that is, probability and probability times the payoff? Mainly because much of people's schooling comes from examples in symmetric environments, like a coin-toss, where such a difference does not matter. In fact the so-called "Bell Curve" that seems to have found universal use in society is entirely symmetric  
-> -- Fooled by Randomness Role of Chance in Markets and Life by Nassim Nicholas Taleb
-
 > A contrarian isn’t one who always objects—that’s a conformist of a different sort. A contrarian reasons independently from the ground up and resists pressure to conform.  
 > Cynicism is easy. Mimicry is easy. Optimistic contrarians are the rarest breed.  
 > -- The Almanack of Naval Ravikant
@@ -725,6 +722,13 @@ Idea that committees' average thinking yelds average performance contradicts wit
 
 
 ##### Uncertainty
+
+> Take the probability of loss times the amount of possible loss from the probability of gain times the amount of possible gain. That is what we’re trying to do. It’s imperfect but that’s what it’s all about  
+> -- Warren Buffett
+
+> Probability is not a mere computation of odds on the dice or more complicated variants; it is the acceptance of the lack of certainty in our knowledge and the development of methods for dealing with our ignorance.
+... How could people miss such a point? Why do they confuse probability and expectation, that is, probability and probability times the payoff? Mainly because much of people's schooling comes from examples in symmetric environments, like a coin-toss, where such a difference does not matter. In fact the so-called "Bell Curve" that seems to have found universal use in society is entirely symmetric  
+> -- Fooled by Randomness by Nassim Nicholas Taleb
 
 > We have two classes of forecasters:  Those who don’t know – and those who don’t know they don’t know  
 > -- John Kenneth Galbraith
@@ -780,6 +784,7 @@ _**Known unknowns**_ refer to considered "risks" under [estimated](https://en.wi
 
 Life is a game with [incomplete and imperfect information](https://en.wikipedia.org/wiki/Complete_information#Complete_versus_perfect_information), so people have developed frameworks to estimate confidence when [managing decisions under uncertainty](https://en.wikipedia.org/wiki/Risk_management).
 
+Maximize [expected value](https://fs.blog/expected-value/) in the long-run average of a random variable.
 
 Three factors: hidden information, skill, and luck. 
 | Game | Hidden information | Skill | Luck |
@@ -979,11 +984,18 @@ The **genius or daemon comes to us at birth. It carries with it the fullness of 
 Individual self-reflection, return of the individual to the ground of human nature, to his own deepest being with its individual and social destiny — here is the beginning of a cure for the blindness which reigns at the present hour  
 > -- C.G. Jung, CW 7, Page 5  
 
+> One does not become enlightened by imagining figures of light, but by making the darkness conscious. The latter procedure, however, is disagreeable and therefore not popular  
+> ― C.G. Jung
+
 > Kierkegaard, like Nietzsche a half-century later, sees the human self not simply as a finished product, a kind of entity, but as a developing process. A self is not simply something I am but something I must become…To be a self is to embark on a process in which one becomes something…Essentially, a person is in despair if they fail to be fully a self. An awareness of the emptiness of self results in that feeling we normally call despair…  
 > -- Kierkegaard by Stephen Evans  
 
 > To will to be himself is man’s true vocation… blockages in self-awareness [occur] because the individual [is] unable to move through accumulations of anxiety at various points in his growth. Kierkegaard makes it clear that selfhood depends upon the individual’s capacity to confront anxiety and move ahead despite it  
 > -- The Meaning of Anxiety by Rollo May  
+
+> I also believe – and hope – that politics and economics will cease to be as important in the future as they have been in the past; the time will come when most of our present controversies on these matters will seem as trivial, or as meaningless, as the theological debates in which the keenest minds of the Middle Ages dissipated their energies. Politics and economics are concerned with power and wealth, neither of which should be the primary, still less the exclusive, concern of full-grown men  
+> -- Profiles of the Future by Arthur C. Clarke
+
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
 same as human forebrain cortex depends on midbrain infrastructure, 
@@ -994,6 +1006,9 @@ same as human consciousness is powerless against orders of endocrine system prog
 Cage [monkey mind](https://en.wikipedia.org/wiki/Monkey_mind).
 
 Avoid [Magneto syndrome](https://julesevans.medium.com/is-the-somatics-movement-racist-d948c4abbad6) of Spiritual Elitism and [Spiritual Darwinism](https://medium.com/swlh/can-you-pass-the-acid-test-on-psychedelics-and-spiritual-eugenics-a613b3c64c04).
+
+Accept lifelong urge for escape, for that _Human_ is a transient notion.
+
 
 #### Developmental Stages
 

@@ -135,6 +135,12 @@ The smaller the company, the more everyone feels like a principal. The less you 
 > — Что делать, если деньги не мотивируют?  
 > — А деньги и не могут мотивировать. Мотивировать могут только большие деньги.
 
+> For social justice, focus on [symmetry and risk sharing](https://en.wikipedia.org/wiki/Skin_in_the_Game_(book)#Asymmetry_and_missing_incentives). You cannot make profits and transfer the risks to others, as bankers and large corporations do... Forcing **skin in the game** corrects this asymmetry better than thousands of laws and regulations  
+> -- Skin In The Game by Nassim Taleb 
+
+* [incentive theory of motivation](https://www.indeed.com/career-advice/career-development/incentive-theory-of-motivation)
+* [intrinsic vs. extrinsic motivation](https://www.indeed.com/career-advice/career-development/intrinsic-extrinsic-motivation)  (carrots & sticks, морковка спереди & морковка сзади)
+
 
 #### Generations of employees
 
