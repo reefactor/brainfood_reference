@@ -97,6 +97,8 @@
 - Gödel, Escher, Bach: an Eternal Golden Braid, GEB by Douglas Hofstadter, 1979
 - The Bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 - Superforecasting: The Art and Science of Prediction by Philip E. Tetlock and Dan Gardner
+- Be the Person You Want to Find: Relationship and Self-Discovery by by Cheri Huber
+
 
 ### Отечество
 - Парфенов - Намедни
