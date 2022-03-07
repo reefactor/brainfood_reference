@@ -320,7 +320,7 @@ Non-atomic concepts perceived in polarity: [duality](https://en.wikipedia.org/wi
 [Golden mean or golden middle way](https://en.wikipedia.org/wiki/Golden_mean_(philosophy))
 is the desirable middle between two extremes, one of excess and the other of deficiency
  
-| Extreme |  | Extreme |
+| Extreme | Golden mean | Extreme |
 |---|---|---|
 | wave (stochastic, Lorencian [butterfly](https://en.wikipedia.org/wiki/Butterfly_effect)) | [Wave–particle duality](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality) | particle (deterministic [Laplace's demon](https://en.wikipedia.org/wiki/Laplace%27s_demon)) |
 | recklessness | courage | cowardice |
@@ -328,13 +328,13 @@ is the desirable middle between two extremes, one of excess and the other of def
 | democracy (N votes with constant weights  equally distributed) | meritocracy (N votes with weights proportional to the individual merit) | autocracy (1 vote with infinite weight) |
 | ascetic  | buddhist middle way | hedonic |
 | eternalism | buddhist [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)  | annihilationism |
-| Divine supreme predestination - Daiva | [Wu wei](https://en.wikipedia.org/wiki/Wu_wei), [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer) | Freedom of personal will - Purushakara |
-| yang / action |  | yin / equilibrium |
-| testable falsifiable science | | faith, dogma, axiom |
+| Divine supreme predestination - Daiva |Chinese [Wu wei](https://en.wikipedia.org/wiki/Wu_wei), theological [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer), stoic [Dichotomy of control](https://thestoicsage.com/dichotomy-of-control/) | Freedom of personal will - Purushakara |
+| yin / equilibrium |  | yang / action |
+| faith, dogma, axiom | | testable falsifiable science |
 | exploration, deliberate experimentation, _Do what you love_ | | exploitation, deliberate practice, _Love what you do_, craftsman mindset |
 | generalist | | specialist |
-| privacy | [Enlightenment](https://www.eff.org/deeplinks/2009/12/google-ceo-eric-schmidt-dismisses-privacy) | security |
-| slow thinking, 2nd signal system | | fast thinking, 1st signal system |
+| security | [Enlightenment](https://www.eff.org/deeplinks/2009/12/google-ceo-eric-schmidt-dismisses-privacy) | privacy |
+| fast thinking, 1st signal system | | slow thinking, 2nd signal system |
 | a maniac constantly in a state of pleasure and cannot be satisfied |  | a hermit constantly in a state of satisfaction cannot experience pleasure |
 | creating (entrepreneurs) |  | running (manager) |
 | divergent thinking (out of then box, creative) |  | convergent (focused) |
@@ -456,6 +456,9 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 > The best test of robustness to reputational damage is your emotional state (fear, joy, boredom) when you get an email from a journalist.  
 > -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 
+> If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?  ... During the life of any heart this line keeps changing place; sometimes it is squeezed one way by exuberant evil and sometimes it shifts to allow enough space for good to flourish. One and the same human being is, at various ages, under various circumstances, a totally different human being. At times he is close to being a devil, at times to sainthood. But his name doesn't change, and to that name we ascribe the whole lot, good and evil.  
+-- The Gulag Archipelago by Solzhenitsyn
+
 
 * The [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule) principle of treating others as you want to be treated is spoiled by [hypocrisy of double standards](https://en.wikipedia.org/wiki/Hypocrisy)
 * [This is watter](https://www.youtube.com/watch?v=8CrOL-ydFMI) [speech](https://en.wikipedia.org/wiki/This_Is_Water) by David Foster Wallace
@@ -574,6 +577,7 @@ Willpower is short-term tactics, Habit is for long-term strategy.
 * Warm / cold shower by [Wim Hof method cold-therapy](https://www.wimhofmethod.com/practice-the-method) ([hormesis](https://en.wikipedia.org/wiki/Hormesis), free norepinephrine and dopamine etc)
 * Meditate with [Wim Hof breathwork](https://www.wimhofmethod.com/practice-the-method) - brush your mind, clean mental body, contemplate ideas, break rumination
 * Morning [journaling](#journaling) (notes after meditations (Seneca))
+* Review, select & reorder Top1 & Top3 items in TODO list
 * Daily [Blinkist](https://www.blinkist.com/) blink
 * Commute [podcasts](#listen-and-learn)
 * Daily [Pocket](https://getpocket.com/) article
