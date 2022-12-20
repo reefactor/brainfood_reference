@@ -1,4 +1,4 @@
-# Brain Food Reference
+# BrainFood Reference
 > You are what you eat  
 > -- Anthelme Brillat-Savarin
 
