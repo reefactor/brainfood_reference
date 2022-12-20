@@ -68,6 +68,13 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > Surround yourself with people who are smarter than you  
 > -- Russell Simmons
 
+> Always [hire people who are smarter than you are](hire_people_smarter_than_you.md)  
+> -- Ed Catmull, Pixar
+
+> I hope you’ll all commit to a lifetime in learning.  
+> [If you’re the smartest person in the room, you’re in the wrong room](https://quoteinvestigator.com/2019/02/21/bright/)  
+> -- Orlando Taylor
+
 > Never be the brightest person in the room because you won’t learn anything  
 > -- attributed to [James Watson, Holly Hunter, James L. Brooks, Steven R. Craig, Michael Dell](https://quoteinvestigator.com/2019/02/21/bright/)
 

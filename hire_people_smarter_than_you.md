@@ -39,6 +39,10 @@
 > Never be the brightest person in the room because you won’t learn anything  
 > -- attributed to [James Watson, Holly Hunter, James L. Brooks, Steven R. Craig, Michael Dell](https://quoteinvestigator.com/2019/02/21/bright/)
 
+> In the realm of being the smartest person, I have this theory that if you’re the smartest person in your work group, then it might be time to consider changing jobs. \
+> -- _Secrets of the Rock Star Programmers_ by Ed Burns 2008
+
+
 > High energy, High intelligence, High integrity (internal moral code, not necessarily nice)  
 > -- Buffet's rule for hiring
 > 
