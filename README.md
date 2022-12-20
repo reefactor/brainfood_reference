@@ -673,6 +673,8 @@ judgment. The two can be far from the same, and especially over a small number o
 > Anyone voicing a forecast or expressing an opinion without something at risk has some element of phoniness. Unless he risks going down with the ship this would be like watching an adventure movie.  
 > -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 
+> The largest, and most invisible cost is always opportunity cost. We miss opportunities for growth constantly when we are not making decisions that fit our context. Some of this comes from the instinct to play it safe, but much is due to an [Incorrect Attention Threshold](https://www.ejorgenson.com/blog/opportunity-cost-attention-thresholds)
+
 
 There're lots of frameworks and tools for [decision making](https://fs.blog/smart-decisions/)
 

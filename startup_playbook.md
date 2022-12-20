@@ -229,7 +229,3 @@ Daily "agile operations" of managers, meetings bi-weekly or daily 16pm
 ##### Remote teams playbook
 
 Gitlab [all-remote](https://about.gitlab.com/company/culture/all-remote/) released its [Remote playbook PDF](https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf)
-
-
-
-
