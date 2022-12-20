@@ -1009,6 +1009,8 @@ Individual self-reflection, return of the individual to the ground of human natu
 > I also believe – and hope – that politics and economics will cease to be as important in the future as they have been in the past; the time will come when most of our present controversies on these matters will seem as trivial, or as meaningless, as the theological debates in which the keenest minds of the Middle Ages dissipated their energies. Politics and economics are concerned with power and wealth, neither of which should be the primary, still less the exclusive, concern of full-grown men  
 > -- Profiles of the Future by Arthur C. Clarke
 
+>  As we grow and learn, we discover the mental moves necessary to support the symbolic reasoning skills required for navigating our modern society. But this all comes at a cost: this process also gives rise to the ego. Later in life, perhaps if introduced to the right ideas, one might start to untangle these thought patterns and mental moves, and find oneself in a place where they have busted down the [duality between liminality and supraliminality](https://smoothbrains.net/posts/2022-08-24-planetary-scale-vibe-collapse.html
+)
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
 same as human forebrain cortex depends on midbrain infrastructure, 
