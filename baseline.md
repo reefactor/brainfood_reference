@@ -99,6 +99,7 @@
 - Superforecasting: The Art and Science of Prediction by Philip E. Tetlock and Dan Gardner
 - Be the Person You Want to Find: Relationship and Self-Discovery by by Cheri Huber
 - The Grand Chessboard by Zbigniew Brzezinski 1997
+- The Republic by Plato
 
 ### Отечество
 - Парфенов - Намедни

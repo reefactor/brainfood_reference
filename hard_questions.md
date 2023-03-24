@@ -64,3 +64,10 @@ Where [Daiva](https://www.wisdomlib.org/definition/daiva) - fate, pre-determined
 [ROLE OF DAIVA (FATE)–PURUSAKARA (HUMAN EFFORTS) IN DETERMINATION OF AYU](http://www.ijariie.com/AdminUploadPdf/ROLE_OF_DAIVA__FATE_%E2%80%93PURUSAKARA__HUMAN_EFFORTS__IN_DETERMINATION_OF_AYU_ijariie10958.pdf)
 
 Wisdom of [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
+
+### What are top 3 causes of mental illness schizophrenia?
+
+### What is Apex predator on Earth ?
+
+### Why do humans do science? Why do they do art? 
+("...The things that are least important for our survival are the very things that make us human”  Particle Fever (2013) documentary)

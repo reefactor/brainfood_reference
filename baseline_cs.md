@@ -1,5 +1,8 @@
 ![Feynman](res/Feynman-study-approach.jpg)
 
+> Computer science is not about computers, any more than astronomy is about telescopes, or biology about microscopes  
+> -- [Attributed to Edsger Dijkstra, Alan Perlis, Jacques Arsac, George Johnson, Donald Knuth, Matthew Dennis Haines](https://quoteinvestigator.com/2021/04/02/computer-science/)
+
 
 ## CS Computer Science
 

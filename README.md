@@ -11,6 +11,9 @@
 > The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn  
 > ― Alvin Toffler
 
+> Modern technology teaches man to take for granted the world he is looking at; he takes no time to retreat and reflect. Technology lures him on, dropping him into its wheels and movements. No rest, no meditation, no reflection, no conversation – the senses are continually overloaded with stimuli. [Man] doesn’t learn to question his world anymore; the screen offers him answers-ready-made  
+> -- The Rape of the Mind by Joost Meerloo
+
 
 1. Stand up on the Shoulders of Giants with [Wisdom Gems](#gems-of-wisdom)
 2. Bootstrap your framework of [Mental Models](#mental-models) for [reasoning](#reasoning)
@@ -21,6 +24,7 @@ as [support vectors](https://en.wikipedia.org/wiki/Support_vector_machine) in [u
 to explore the limits of human knowledge despite the [limitations of language](#limitations-of-language)
 5. Ask [Hard Questions](hard_questions.md)
 6. [Introspect](#introspection)
+7. [Transcend](#transcend)
 
 ***
 
@@ -90,9 +94,6 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > Tribe of mentors changes with you as you grow  
 > -- Tim Ferriss
 
-> [**Always hire people who are smarter than you are**](hire_people_smarter_than_you.md)  
-> -- Ed Catmull, Pixar
-
 
 #### φύσις
 * [The Quanta Magazine](https://www.quantamagazine.org/)
@@ -116,8 +117,8 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [The Art of Improvement](https://www.youtube.com/c/TheArtofImprovement) channel
 
 #### CS - computer science & tech
-* [Uber Engineering](https://www.youtube.com/channel/UCQlvjgieHGgkpP_9GiVyTGw)
 * [GoogleTechTalks](https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw)
+* [Uber Engineering](https://www.youtube.com/channel/UCQlvjgieHGgkpP_9GiVyTGw)
 * [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg)
 * [McGovern Institute for Brain Research at MIT](https://www.youtube.com/channel/UCDqKkRpDCSqPx8kGn0aTIZw)
 * [Pycon](https://pycon.org/) annual conference [channels](https://www.youtube.com/results?search_query=pycon&sp=EgIQAg%253D%253D) and [playlists](https://www.youtube.com/results?search_query=pycon&sp=EgIQAw%253D%253D)
@@ -173,7 +174,8 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [ТОПЛЕС [SCI POP]](https://www.youtube.com/user/toplesofficial)
 - [Podcasts by Howard Marks on decision making frameworks and investing](https://www.oaktreecapital.com/insights/podcasts)
 - [The Robot Brains Podcast with Pieter Abbeel](https://www.therobotbrains.ai/)
-
+- [Huberman Lab](https://hubermanlab.com/)
+- [Trickster. The many lives of Carlos Castaneda](https://tricksterpodcast.com/)
 
 ## Mental models
 
@@ -319,6 +321,9 @@ Single crossdomain B+ speciallist is better than 2 A+ with gap between domains b
 > And at a third level he saw once again mountains were mountains and rivers were rivers.  
 > -- Zen teacher Qingyuan Weixin
 
+> Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water
+> -- Zen proverb
+
 
 #### Duality
 
@@ -335,7 +340,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | democracy (N votes with constant weights  equally distributed) | meritocracy (N votes with weights proportional to the individual merit) | autocracy (1 vote with infinite weight) |
 | ascetic  | buddhist middle way | hedonic |
 | eternalism | buddhist [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)  | annihilationism |
-| Divine supreme predestination - Daiva |Chinese [Wu wei](https://en.wikipedia.org/wiki/Wu_wei), theological [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer), stoic [Dichotomy of control](https://thestoicsage.com/dichotomy-of-control/) | Freedom of personal will - Purushakara |
+| Divine supreme predestination - Daiva |Chinese [Wu-wei](https://en.wikipedia.org/wiki/Wu_wei), theological [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer), stoic [Dichotomy of control](https://thestoicsage.com/dichotomy-of-control/) | Freedom of personal will - Purushakara |
 | yin / equilibrium |  | yang / action |
 | faith, dogma, axiom | | testable falsifiable science |
 | exploration, deliberate experimentation, _Do what you love_ | | exploitation, deliberate practice, _Love what you do_, craftsman mindset |
@@ -426,20 +431,22 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 > [Values are most important, abilities come next, and skills are the least](https://leadingbyreading.org/2019/08/14/mind-on-wealth-health-and-success-6-values-abilities-and-skills-what-comes-first-in-deciding-the-right-people-for-your-firm-a-management-case/)important. Yet most people make the mistake of choosing skills and abilities first and overlooking values. It is important for you to know what mix of qualities is important to ﬁt each role and, more broadly, what values and abilities are required in people with whom you can have successful relationships. In picking people for long-term relationships  
 > -- Ray Dalio
 
-> Of course if we make good things, it is not only to the credit of science; it is also to the credit of the moral choice which led us to good work. Scientific knowledge is an enabling power to do either good or bad — but it does not carry instructions on how to use it. Such power has evident value — even though the power may be negated by what one does with it.
->  To every man is given the key to the gates of heaven; the same key opens the gates of hell.
-(Proverb of the Buddhist religion)
+> Of course if we make good things, it is not only to the credit of science; it is also to the credit of the moral choice which led us to good work. Scientific knowledge is an enabling power to do either good or bad — but it does not carry instructions on how to use it. Such power has evident value — even though the power may be negated by what one does with it.  
+>  To every man is given the key to the gates of heaven; the same key opens the gates of hell. (Proverb of the Buddhist religion)  
 > What then, is the value of the key to heaven? It is true that if we lack clear instructions that enable us to determine which is the gate to heaven and which the gate to hell, the key may be a dangerous object to use. But the key obviously has value: how can we enter heaven without it?  
 > -- Richard Feynman on [value of science and moral choice](https://www.brainpickings.org/2013/07/19/richard-feynman-science-morality-poem/)
 
-> If you can figure your life so that what you're genually doing is aiming to the highest possible good then the things that you need to survive and to thrive on a daily base will deliver themselves to you...
-> If you dare to do the most difficult thing that you can conceptualize your life will work out better that it will if you do anything else. Well how do you find out if that's true, its a Kierkegaardian's Leap of Faith, there's no way to find out unless you do it, so no one can tell you either because if it works for some else, that's no proof that it;ll work for you. You have to be all-in in this game...
-> If you manifest yourself properly in the world that those things will come your way.
+> The rocket worked perfectly, except for landing on the wrong planet  
+> -- [Wernher von Braun remark to a colleague after the first V-2 rocket hit London (September 1944)](https://en.wikiquote.org/wiki/Wernher_von_Braun)
+
+> If you can figure your life so that what you're genually doing is aiming to the highest possible good then the things that you need to survive and to thrive on a daily base will deliver themselves to you...  
+> If you dare to do the most difficult thing that you can conceptualize your life will work out better that it will if you do anything else. Well how do you find out if that's true, its a Kierkegaardian's Leap of Faith, there's no way to find out unless you do it, so no one can tell you either because if it works for some else, that's no proof that it;ll work for you. You have to be all-in in this game...  
+> If you manifest yourself properly in the world that those things will come your way.  
 > I've watched people operate in the world and I would say that There's no more effective way of operating than to conceptualize the highest good that you can and strive to attain it. There's no more practical way to a kind of success you would new if you only knew what success is  
 > -- Jordan B Peterson [Biblical Series VII](https://www.youtube.com/watch?v=6gFjB9FTN58&index=7&list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)
 
-> Life is suffering and if you say it meaningless then your suffering is meaningless dumb and reckless. Find higher purpose and goal to suffer  
-> -- Jordan B Peterson
+> Life is suffering, so get yourself together.. And if you say it meaningless then your suffering is meaningless dumb and reckless. Find higher purpose and goal to suffer  
+> -- Jordan B Peterson [lectures](https://www.youtube.com/watch?v=wLvd_ZbX1w0)
 
 > Loyalty in action, regardless obstacles or challenges, to one’s most cherished values, this is the essence of moral rectitude and it is the foundation of heroism  
 > -- Andrew Bernstein, Heroes, Legends, Champions: Why Heroism Matters
@@ -466,6 +473,11 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 > If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?  ... During the life of any heart this line keeps changing place; sometimes it is squeezed one way by exuberant evil and sometimes it shifts to allow enough space for good to flourish. One and the same human being is, at various ages, under various circumstances, a totally different human being. At times he is close to being a devil, at times to sainthood. But his name doesn't change, and to that name we ascribe the whole lot, good and evil.  
 -- The Gulag Archipelago by Solzhenitsyn
 
+> The Stoics elaborated a detailed taxonomy of virtue, dividing virtue into four main types: wisdom, justice, courage, and moderation. Wisdom is subdivided into good sense, good calculation, quick-wittedness, discretion, and resourcefulness. Justice is subdivided into piety, honesty, equity, and fair dealing. Courage is subdivided into endurance, confidence, high-mindedness, cheerfulness, and industriousness. Moderation is subdivided into good discipline, seemliness, modesty, and self-control. Similarly, the Stoics divide vice into foolishness, injustice, cowardice, intemperance, and the rest. The Stoics further maintained that the virtues are inter-entailing and constitute a unity: to have one is to have them all. They held that the same virtuous mind is wise, just, courageous, and moderate. Thus, the virtuous person is disposed in a certain way with respect to each of the individual virtues  
+> -- [Stoic Ethics by William O. Stephens](https://iep.utm.edu/stoiceth/)
+
+> Alas, I have known noble men who lost their highest hope,And henceforth they slandered all high hopes. Henceforth they lived imprudently in brief pleasures, and they had hardly an aim beyond the day… Once they thought of becoming heroes: now they are sensualists. The hero is to them an affliction and a terror. But, by my love and hope I entreat you: do not reject the hero in your soul! Keep holy your highest hope!  
+> Thus Spoke Zarathustra by Nietzsche. [The Psychology of Heroism](https://academyofideas.com/2020/06/how-to-be-a-hero-psychology-of-heroism/)
 
 * The [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule) principle of treating others as you want to be treated is spoiled by [hypocrisy of double standards](https://en.wikipedia.org/wiki/Hypocrisy)
 * [This is watter](https://www.youtube.com/watch?v=8CrOL-ydFMI) [speech](https://en.wikipedia.org/wiki/This_Is_Water) by David Foster Wallace
@@ -542,6 +554,10 @@ The spirit of the individual is determined by his dominating thought habits.
 
 > Be disciplined in your life so that you can be violent and original in your art (Soyez réglé dans votre vie et ordinaire comme un bourgeois, afin d'être violent et original dans vos œuvres)  
 > ― Gustav Flaubert
+
+> ..Until three or four in the morning, that’s when I do my thinking: on research, on our next challenge, or I’ll write up an algorithmic design document  
+> -- [between 1am and 4am is the "second day" of Demis Hassabis](https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago
+)
 
 Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/habits-vs-goals/).
 
@@ -840,6 +856,8 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 
 ## Introspection
 
+> [Know thyself](https://en.wikipedia.org/wiki/Know_thyself)
+
 > We don’t see things as they are, but as we are  
 > — Anaïs Nin
 
@@ -849,7 +867,80 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > Empty your mind, be water my friend  
 > -- Bruce Lee
 
-### Transcend
+> Inner peace is the key: if you have inner peace, the external problems do not affect your deep sense of peace and tranquility... without this inner peace, no matter how comfortable your life is materially, you may still be worried, disturbed, or unhappy because of circumstances  
+> ― Dalai Lama XIV
+
+> The more time you spend thinking about yourself, the more suffering you will experience  
+> ― Dalai Lama XIV, The Book of Joy: Lasting Happiness in a Changing World
+
+> The true hero is one who conquers his own anger and hatred  
+> ― Dalai Lama XIV
+
+> Imperare sibi maximum imperium est (The greatest power is to have power over one's self)  
+> -- Seneca
+
+> Every situation is an opportunity to practice virtue   
+> -- Marcus Aurelius
+
+> The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own  
+> — Epictetus
+
+> No one can hurt you without your consent  
+> -- Eleanor Roosevelt 
+
+> They cannot take away our self respect if we do not give it to them  
+> -- Gandhi
+
+> Between stimulus and response, there is a space.  
+In that space lies our freedom and our power to choose our response.  
+In our response lies our growth and our happiness.  
+> -- [misattributed to Victor Frankl via Stephen Covey into to the book Prisoners of Our Thoughts by Alex Pattakos](https://www.viktorfrankl.org/quote_stimulus.html)
+
+> The space between what happens to us and our response, our freedom to choose that response and the impact it can
+have upon our lives, beautifully illustrate that we can become a product of our decisions, not our conditions. They illustrate
+the three values that Frankl continually taught: the creative value, the experiential value, and the attitudinal value. We
+have the power to choose our response to our circumstances. We have the power to shape our circumstances; indeed, we
+have the responsibility, and if we ignore this space, this freedom, this responsibility, the essence of our life and our legacy
+could be frustrated  
+> -- Stephen Covey into to the book Prisoners of Our Thoughts by Alex Pattakos
+
+> Everything can be taken from a man but one thing: the last of the human freedoms — to choose one’s attitude in any given set of circumstances, to choose one’s own way  
+> -- Human search for meaning by Victor Frankl
+
+> As Cicero put it in the third volume of De Finibus, where he has Cato the Younger explain Stoic doctrines, an archer will do whatever he can in order to hit the target, but once the arrow leaves the bow, the actual outcome is not up to him. Hitting the target is, Cicero says, “to be chosen but not to be desired” (DF III.22)   
+> That’s the way I think about my book, or really anything else I try to accomplish in my life: I put forth my best effort, and I’m doing my best so to reach people who may benefit from it. But I regard the actual outcome in terms of sales, attention, etc., as a preferred indifferent. It really relieves a lot of pressure.  
+Interestingly, this is a core Buddhist teaching as well. In Zen in the Art of Archery, Eugen Herrigel says that the good archer is one who shoots well, which doesn’t necessarily mean always hitting the target. He says the goal is to shoot well while not hitting the target, although paradoxically, this may lead to one hitting the target more often.  
+> When two ancient traditions reach the same idea independently, you’d be a fool not to apply it to your life. Whenever you find yourself contemplating the future, stressing over the target way out in the distance, letting your imagination get crushed by life as a whole—remind yourself of the archer  
+> Focus on your form. Focus on the process. Be present. It will help you shoot better, but most importantly, it will help you live better.  
+> -- The metaphor of an archer by Massimo Pigliucci
+
+> Resiliency comes from a discovered self, not a constructed self. It comes from the gradual emergence of your unique, inborn abilities in a process called individuation. The better you become, the more unique you become as an individual – and it never ends. If your identity is based mostly on external factors, you will feel anxious about change that threatens your identity sources. You will try to keep the world around you frozen in place. If your identity is based on your personal qualities, abilities, and values, you can let parts of your world dissolve away without feeling threats to your existence. With a strong inner sense of who you are, you can easily adapt to and thrive in new environments  
+> -- [Al Siebert, The Resiliency Advantage](https://academyofideas.com/2020/10/how-to-thrive-in-the-battle-of-life/)
+
+> Intensity and/or enthusiasm is this god within us – one that instinctively becomes the art of the physical “becoming” and within this transition we no longer care to know what life means. We are indeed furnishing the “what is” by simply being.  
+> .. Real living is living for others.  
+> .. Life — for its own sake. — Realize the fact that you simply “live” and not “live for.”  
+> .. The meaning of life. — The meaning of life is that it is to be lived, and it is not to be traded and conceptualized and squeezed into a pattern of systems.  
+> .. The function and duty of a human being. — The function and duty of a human being, a “quality” human being, that is, is the sincere and honest development of potential and self-actualization. One additional comment: the energy from within and the physical strength from your body can guide you toward accomplishing your purpose in life — and to actually act on actualizing your duty to yourself.  
+> .. The goal of a human being. — The human goal: to actualize oneself. A human being is the creative animal. — It is the creative ability of a human being that separates him from all other animals.  
+> .. The point is the doing. — The point is the doing of them rather than the accomplishments. There is no actor but the action — there is no experiencer but experience.  
+> .. Wu-wei’s expression in daily life. — In ordinary life wu-wei is expressed in “producing and rearing things without taking possession of them” and “doing work but not taking pride in it” — thus the natural “way” stands in complement to all artificial ways such as regulation, ceremonies, etc. This is the reason why the Taoists don’t like formalities and artificialities.  
+> .. Enjoying your work is the important thing. — At [one] time I wanted all the indirect things — money, fame, the big opening nights. Now I have it, or am beginning to get it, the whole thing doesn’t seem important any more. I have found that doing a thing is more important. I am having fun doing it. Money comes second.
+> .. Perform your own mission in life. — If you look within yourself and are sure that you have done right, what do you have to fear or worry about? You are required only to perform your own mission in life without any thoughts of aggressiveness or competition.  
+> .. A goal is not always meant to be reached. — A goal is not always meant to be reached. It often serves simply as something to aim at.  
+> .. You control the confrontation. — No one can hurt you unless you allow him to.  
+> -- Striking Thoughts by Bruce Lee
+
+
+## Transcend
+
+> Transire Benefaciendo
+
+> Sustine et abstine -- Stoic maxim. Bear and forbear. Acknowledge the pain but trod onward in your task. Do what you can, endure what you must. Make the best of it.  
+> -- [The Obstacle Is The Way by Ryan Holiday](https://dailystoic.com/obstacle-is-the-way-summary/)
+
+> Life is a bridge, build no house upon it; it is a river, cling not to its banks; it is a gymnasium, use it to develop the mind on the apparatus of circumstance; it is a journey, take it and walk on  
+> -- [not Buddha](https://fakebuddhaquotes.com/life-is-a-bridge-dont-build-a-house-on-it/)
 
 > The essentially self-transcendent quality of human existence renders man a being reaching out beyond himself  
 > -- Viktor Frankl, The will to meaning
@@ -924,7 +1015,6 @@ for subjects respecting which they are already perfectly content.
 **They who do not feel the darkness, will never look for the light**  
 > -- Henry Thomas Buckle, History of Civilization in England: Volume 1
 >
->
 > You have that personal obligation to yourself **to make yourself the best product possible according to your own terms**. Not the biggest or the most successful, but the best quality — with that achieved, comes everything else.
 > ...  
 > Pliability is life. — Be pliable. When a man is living, he is soft and pliable; when he is dead, he becomes rigid. **Pliability is life; rigidity is death, whether one speaks of man’s body, his mind, or his spirit**.
@@ -957,9 +1047,6 @@ for subjects respecting which they are already perfectly content.
 > There are **no limits. There are plateaus, but you must not stay there, you must go beyond them. If it kills you, it kills you. A man must constantly exceed his level**.  
 > -- Bruce Lee as quoted in The Art of Expressing the Human Body (1998) edited by John R. Little, p. 23
 
-> Life is a bridge, build no house upon it; it is a river, cling not to its banks; it is a gymnasium, use it to develop the mind on the apparatus of circumstance; it is a journey, take it and walk on.
-> -- [not Buddha](https://fakebuddhaquotes.com/life-is-a-bridge-dont-build-a-house-on-it/)
-
 > 0 wonderful! O wonderful! O wonderful!  
 I am food! I am food! I am food!  
 I eat food! I eat food! I eat food!  
@@ -987,6 +1074,12 @@ The **genius or daemon comes to us at birth. It carries with it the fullness of 
 > If our lives are gifts to begin with, however, in some sense they are not _“ours”_ even when we become adults. Or perhaps they are, but only until such time as we find a way to bestow them. The belief that life is a gift carries with it the corollary feeling that the gift should not be hoarded. As we mature, and particularly as we come into the isolation of being “on our own,” we begin to feel the desire to give ourselves away in love, in marriage, to our work, to the gods, to politics, to our children. And adolescence is marked by that restless, erotic, disturbing inquisition: Is this person, this nation, this work, worthy of the life I have to give?  
 > -- The Gift: Creativity and the Artist in the Modern World by Lewis Hyde
 
+> in his book The Gift, he [Lewis Hyde] writes a great deal about how, according to the Greek and Roman tradition, each of us is born with effectively a guardian angel. But it’s more along the lines of a guide that represents our fullest potential. And this guide wants to see us reach our fullest potential, our greatest form of power. And the ancient Greeks and the Romans, they would make a sacrifice on their birthday to this, whether they called it their genius, or their daemon, or their genie..
+..according to this ancient Greek and Roman idea is that if you fulfill your potential, if you sacrifice and you develop your skills, that are kind of your destiny, according to this, this potential you’re born with then you free that guardian spirit, so that that guardian spirit can move on to another level.
+In effect, you are freeing the genie from the bottle. And if you do it wrong, the genie has to go back into the bottle. According to the Greeks and the Romans, if you did it wrong, then the genie, the daemon, the genius becomes a malevolent household spirit that will destroy you and destroy your home. And how many of us kind of know a creative person who just didn’t follow through with it, and ended up drinking, and doing drugs, and kind of destroying their lives, because they didn’t have the whatever to really pursue the passion that should have been their destiny?  
+> -- Chuck Palahniuk [talks on book "Gift" by Lewis Hyde, interviewed by Tim Ferriss](https://tim.blog/2020/09/05/chuck-palahniuk-transcript/)
+
+
 > You don’t become completely free by just avoiding to be a slave; you also need to avoid becoming a master  
 > -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 
@@ -1009,8 +1102,16 @@ Individual self-reflection, return of the individual to the ground of human natu
 > I also believe – and hope – that politics and economics will cease to be as important in the future as they have been in the past; the time will come when most of our present controversies on these matters will seem as trivial, or as meaningless, as the theological debates in which the keenest minds of the Middle Ages dissipated their energies. Politics and economics are concerned with power and wealth, neither of which should be the primary, still less the exclusive, concern of full-grown men  
 > -- Profiles of the Future by Arthur C. Clarke
 
->  As we grow and learn, we discover the mental moves necessary to support the symbolic reasoning skills required for navigating our modern society. But this all comes at a cost: this process also gives rise to the ego. Later in life, perhaps if introduced to the right ideas, one might start to untangle these thought patterns and mental moves, and find oneself in a place where they have busted down the [duality between liminality and supraliminality](https://smoothbrains.net/posts/2022-08-24-planetary-scale-vibe-collapse.html
-)
+>  As we grow and learn, we discover the mental moves necessary to support the symbolic reasoning skills required for navigating our modern society. But this all comes at a cost: this process also gives rise to the ego. Later in life, perhaps if introduced to the right ideas, one might start to untangle these thought patterns and mental moves, and find oneself in a place where they have busted down the [duality between liminality and supraliminality](https://smoothbrains.net/posts/2022-08-24-planetary-scale-vibe-collapse.html)
+
+> The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the master calls a butterfly  
+> ― Illusions by Richard Bach
+
+> If the first mountain is about building up the ego and defining the self, the second is about shedding the ego and dissolving the self. If the first mountain is about acquisition, the second mountain is about contribution.  
+> On the first mountain, personal freedom is celebrated — keeping your options open, absence of restraint. But the perfectly free life is the unattached and unremembered life. Freedom is not an ocean you want to swim in; it is a river you want to cross so that you can plant yourself on the other side.  
+> So the person on the second mountain is making commitments.  
+> [The Second Mountain by David Brooks](https://www.nytimes.com/2019/04/06/opinion/sunday/moral-revolution-david-brooks.html)
+
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
 same as human forebrain cortex depends on midbrain infrastructure, 
@@ -1060,6 +1161,9 @@ Ken Wilber's attempt to create [Integral Theory](https://en.wikipedia.org/wiki/I
 > The idea is to die young as late as possible  
 > ― Ashley Montagu
 
+> Try to leave this world a little better than you found it and, when your turn comes to die, you can die happy in feeling that at any rate you have not wasted your time but have done your best  
+> — Robert Baden-Powell
+
 > This life is only a prelude to eternity, where we are to expect another original, and another state of things. We have no prospect of heaven here but at
 a distance; let us therefore expect our last hour with courage. The last, I say, to our bodies, but not to our
 minds. Our luggage we leave behind us, and return as naked out of the world as we came into it. The day which we fear as our last is but the birthday of our
@@ -1083,6 +1187,18 @@ Fluidity is the way to an empty mind. You must free your ambitious mind and lear
 > You are only secure if you can lose your fortune without the additional worse insult of having to become humble.  
 > -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 
+> There is but one truly serious philosophical problem, and that is suicide. Judging whether life is or is not worth living amounts to answering the fundamental question of philosophy. All the rest ... These are games  
+> -- The Myth of Sisyphus by Albert Camus
+
+> ... There are two obvious responses to our frustrations: suicide and hope. By hope Camus means just what he described in Nuptials, the religion-inspired effort to imagine and live for a life beyond this life. Or, second, as taken up at length in The Rebel, bending one’s energies to living for a great cause beyond oneself: “Hope of another life one must ‘deserve’ or trickery of those who live not for life itself but for some great idea that will transcend it, refine it, give it a meaning, and betray it” (MS, 8).  
+> What is the Camusean alternative to suicide or hope? The answer is to live without escape and with integrity, in “revolt” and defiance, maintaining the tension intrinsic to human life. Since “the most obvious absurdity” (MS, 59) is death, Camus urges us to “die unreconciled and not of one’s own free will” (MS, 55). In short, he recommends a life without consolation, but instead one characterized by lucidity and by acute consciousness of and rebellion against its mortality and its limits. ...  
+> -- [Camus on suicide as a response to absurdity](https://plato.stanford.edu/entries/camus/)
+
+
+> Camus saw the goal of absurdism in establishing whether suicide is a necessary response to a world which appears to be mute both on the question of God's existence (and thus what such an existence might answer) and for our search for meaning and purpose in the world. For Camus, suicide was the rejection of freedom. He thought that fleeing from the absurdity of reality into illusions, religion, or death is not the way out. Instead of fleeing the absurd meaninglessness of life, we should embrace life passionately.  
+Existentialist Sartre describes the position of Meursault, the protagonist of Camus' The Stranger who is condemned to death, in the following way:  
+"The absurd man will not commit suicide; he wants to live, without relinquishing any of his certainty, without a future, without hope, without illusions ... and without resignation either. He stares at death with passionate attention and this fascination liberates him. He experiences the "divine irresponsibility" of the condemned man"  
+> [Absurdism](https://en.wikipedia.org/wiki/Philosophy_of_suicide#Absurdism)
 
 Christian: [Ars moriendi](https://en.wikipedia.org/wiki/Ars_moriendi).
 
