@@ -942,6 +942,9 @@ Interestingly, this is a core Buddhist teaching as well. In Zen in the Art of Ar
 > Life is a bridge, build no house upon it; it is a river, cling not to its banks; it is a gymnasium, use it to develop the mind on the apparatus of circumstance; it is a journey, take it and walk on  
 > -- [not Buddha](https://fakebuddhaquotes.com/life-is-a-bridge-dont-build-a-house-on-it/)
 
+> Man is a rope stretched between the animal and the Superman -- a rope over an abyss
+> ― Friedrich Nietzsche, Thus Spoke Zarathustra  
+
 > The essentially self-transcendent quality of human existence renders man a being reaching out beyond himself  
 > -- Viktor Frankl, The will to meaning
 
@@ -1079,7 +1082,6 @@ The **genius or daemon comes to us at birth. It carries with it the fullness of 
 In effect, you are freeing the genie from the bottle. And if you do it wrong, the genie has to go back into the bottle. According to the Greeks and the Romans, if you did it wrong, then the genie, the daemon, the genius becomes a malevolent household spirit that will destroy you and destroy your home. And how many of us kind of know a creative person who just didn’t follow through with it, and ended up drinking, and doing drugs, and kind of destroying their lives, because they didn’t have the whatever to really pursue the passion that should have been their destiny?  
 > -- Chuck Palahniuk [talks on book "Gift" by Lewis Hyde, interviewed by Tim Ferriss](https://tim.blog/2020/09/05/chuck-palahniuk-transcript/)
 
-
 > You don’t become completely free by just avoiding to be a slave; you also need to avoid becoming a master  
 > -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 
@@ -1128,6 +1130,9 @@ Accept lifelong urge for escape, for that _Human_ is a transient notion.
 
 #### Developmental Stages
 
+> You have to die few times before you actually live  
+> ― Charles Bukowsky  
+
 > In human existence there are seven times that we call “age”: infant, child, adolescent, young, adult, mature man, old man. The changing period of the Moon, during early childhood, is replaced by that of Mercury, in which the first knowledge is acquired, then that of Venus, which reveals its strength in the passionate emotions of adolescence; then comes the zenith of life, the three seven years of full life force and desires for expansion. The kingdom of the evil Mars generates a sudden change and leads to the struggles, bitterness and disillusions of adulthood. Then, under the scepter of Jupiter, once again appears a peak of life, maturity proper, which, wise and serene, contemplates the joys and sufferings of existence, always contributing joyfully. Finally, under the star of Saturn, slow and far from the earth, comes the great age in which the vital forces cool and slowly stop.  
 > -- Hippocrates (460 – 377 B.C.)
 
@@ -1161,6 +1166,9 @@ Ken Wilber's attempt to create [Integral Theory](https://en.wikipedia.org/wiki/I
 > The idea is to die young as late as possible  
 > ― Ashley Montagu
 
+> If you die before you die, then you won't die when you die  
+> ― The inscription above the entrance to St Paul’s monastery in Mount Athos in Greece refers to the rituals of Eleusinian Mysteries  
+
 > Try to leave this world a little better than you found it and, when your turn comes to die, you can die happy in feeling that at any rate you have not wasted your time but have done your best  
 > — Robert Baden-Powell
 
@@ -1170,7 +1178,10 @@ minds. Our luggage we leave behind us, and return as naked out of the world as w
 eternity; and it is the only way to it. So that what we fear as a rock, proves to be but a port, in many cases to be desired, never to be refused.
 And he that dies young has only made a quick voyage of it  
 > -- Seneca. Consolations against death
- 
+
+> Then, Simmias, as the true philosophers are ever studying death, to them, of all men, death is the least terrible. Look at the matter in this way: how inconsistent of them to have been always enemies of the body, and wanting to have the psūkhē alone, and when this is granted to them, to be trembling and regretting; instead of rejoicing at their departing to that place where, when they arrive, they hope to gain that which in life they loved (and this was wisdom), and at the same time to be rid of the company of their enemy. Many a man has been willing to go to the world beyond in the hope of seeing there an earthly love, or wife, or son, and conversing with them. And will he who is a true lover of wisdom, and is persuaded in like manner that only in that other world over there can he worthily enjoy it, still be regretful at death? Will he not depart with joy? Surely he will, my friend, if he be a true philosopher. For he will have a firm conviction that there only, and nowhere else, he can find wisdom in its purity. And if this be true, he would be very absurd, as I was saying, if he were to fear death  
+> -- Socrates in Plato’s Phaedo
+
 > Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there-on a mote of dust suspended in a sunbeam.  
 > The Earth is a very small stage in a vast cosmic arena. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot.  
 > ...  
