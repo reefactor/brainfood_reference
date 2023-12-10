@@ -942,8 +942,8 @@ Interestingly, this is a core Buddhist teaching as well. In Zen in the Art of Ar
 > Life is a bridge, build no house upon it; it is a river, cling not to its banks; it is a gymnasium, use it to develop the mind on the apparatus of circumstance; it is a journey, take it and walk on  
 > -- [not Buddha](https://fakebuddhaquotes.com/life-is-a-bridge-dont-build-a-house-on-it/)
 
-> Man is a rope stretched between the animal and the Superman -- a rope over an abyss
-> ― Friedrich Nietzsche, Thus Spoke Zarathustra  
+> Man is a rope stretched between the animal and the Superman - a rope over an abyss   
+> ― Thus Spoke Zarathustra by Friedrich Nietzsche
 
 > The essentially self-transcendent quality of human existence renders man a being reaching out beyond himself  
 > -- Viktor Frankl, The will to meaning
