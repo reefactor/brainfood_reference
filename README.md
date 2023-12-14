@@ -115,6 +115,8 @@ to explore the limits of human knowledge despite the [limitations of language](#
 - [FAQ by Derek Sivers](https://sive.rs/bfaq)
 - [Awakening from the Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) lectures series by John Vervaeke, Universilty of Toronto
 - [The Art of Improvement](https://www.youtube.com/c/TheArtofImprovement) channel
+- [John Vervaeke](https://podcasts.apple.com/gb/podcast/john-vervaeke/id1680606350) podcast feed
+- [Den of Rich](https://podcasts.apple.com/us/podcast/den-of-rich/id1541635615)
 
 #### CS - computer science & tech
 * [GoogleTechTalks](https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw)
