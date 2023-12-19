@@ -421,6 +421,12 @@ Deliberate experimentation (exploration, [BFS](https://en.wikipedia.org/wiki/Bre
 
 Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.youtube.com/watch?v=gkhtYs22bLI)
 
+| Drive source | Energy consumer | Energy capacity/efficiency | Optimal use case |
+|---|---|---|---|
+| Genuine curiosity, passion, intrinsic motivation | unconscious process | infinite | any |
+| Habbit | semi-conscious, incentive-induced routine | moderate | long-term strategy, marathon |
+| Willpower | conscious effort, cortex | low | short-term tactics, sprint |
+
 
 ### Values
 
@@ -588,10 +594,6 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 
 * Nulla dies sine **code** linea **commit**
 * Calm stressed mind with [Yoga Nidra](https://en.wikipedia.org/wiki/Yoga_nidra) recorded audio session
-
-Willpower requires conscious effort - energy inefficient. Habit is an automated unconscious process. 
-Willpower is for sprint, Habit is for marathon.
-Willpower is short-term tactics, Habit is for long-term strategy.
 
 
 ##### Morning ritual
