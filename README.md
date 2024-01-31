@@ -577,6 +577,13 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 > We are what we repeatedly do. Excellence, then, is not an act, but a habit.  
 > -- Aristotle
 
+> Watch your thoughts, they become words  
+> watch your words, they become actions  
+> watch your actions, they become habits  
+> watch your habits, they become character  
+> watch your character, for it becomes your destiny.  
+> -- [attributed to Frank Outlaw, Ralph Waldo Emerson, Lao Tzu, Gautama Buddha, Bishop Beckwaith](https://quoteinvestigator.com/2013/01/10/watch-your-thoughts/)
+
 > Our character, basically, is a composite of our habits. “Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny,” the maxim goes  
 > ― Stephen R. Covey, The 7 Habits of Highly Effective People
 
