@@ -16,9 +16,9 @@
 
 
 1. Stand up on the Shoulders of Giants with [Wisdom Gems](#gems-of-wisdom)
-2. Bootstrap your framework of [Mental Models](#mental-models) for [reasoning](#reasoning)
+2. Bootstrap your framework of [Mental Models](#mental-models) of [reasoning](#reasoning)
 3. [Update](#iterator) mental models with [Knowledge Streams](#streams) to fuel cognition
- along the [Lifelong Learning](https://fs.blog/learning/) way
+ along the [Lifelong Learning](https://fs.blog/learning/) way and [Build Momentum](#flywheel-momentum)
 4. Navigate [Pointers of Truth](#pointers-of-truth)
 as [support vectors](https://en.wikipedia.org/wiki/Support_vector_machine) in [uncertainty](#uncertainty)
 to explore the limits of human knowledge despite the [limitations of language](#limitations-of-language)
@@ -384,6 +384,8 @@ Push yourself out of comfort zone, keep [Bruce Lee's "Broken rhythm"](https://br
 
 Embrace the ["Kierkegaard's School of Anxiety"](https://academyofideas.com/2018/02/soren-kierkegaard-psychology-anxiety/)
 
+Build [Flywheel momentum](#flywheel-momentum)
+
 Expertise requires going from unconscious incompetence to conscious incompetence to conscious competence and finally to unconscious competence.
 
 
@@ -566,6 +568,11 @@ The spirit of the individual is determined by his dominating thought habits.
 > ..Until three or four in the morning, that’s when I do my thinking: on research, on our next challenge, or I’ll write up an algorithmic design document  
 > -- [between 1am and 4am is the "second day" of Demis Hassabis](https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago
 )
+
+##### Flywheel momentum
+> In building a great company or social sector enterprise, there is no single defining action, no grand program, no one killer innovation, no solitary lucky break, no miracle moment. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum until a point of breakthrough, and beyond.  
+> ― [The Flywheel effect concept](https://jimcollins.com/concepts/the-flywheel.html) from "Good to Great" by Jim Collins
+
 
 Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/habits-vs-goals/).
 
