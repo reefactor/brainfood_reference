@@ -487,7 +487,10 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 > -- [Stoic Ethics by William O. Stephens](https://iep.utm.edu/stoiceth/)
 
 > Alas, I have known noble men who lost their highest hope,And henceforth they slandered all high hopes. Henceforth they lived imprudently in brief pleasures, and they had hardly an aim beyond the day… Once they thought of becoming heroes: now they are sensualists. The hero is to them an affliction and a terror. But, by my love and hope I entreat you: do not reject the hero in your soul! Keep holy your highest hope!  
-> Thus Spoke Zarathustra by Nietzsche. [The Psychology of Heroism](https://academyofideas.com/2020/06/how-to-be-a-hero-psychology-of-heroism/)
+> -- Thus Spoke Zarathustra by Nietzsche. [The Psychology of Heroism](https://academyofideas.com/2020/06/how-to-be-a-hero-psychology-of-heroism/)
+
+> I think that there is only one way to science - or to philosophy, for that matter: to meet a problem, to see its beauty and fall in love with it; to get married to it and to live with it happily, till death do ye part - unless you should meet another and even more fascinating problem or unless, indeed, you should obtain a solution. But even if you do obtain a solution, you may then discover, to your delight, the existence of a whole family of enchanting, though perhaps difficult, problem children, for whose welfare you may work, with a purpose, to the end of your days.  
+> -- Karl Popper
 
 * The [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule) principle of treating others as you want to be treated is spoiled by [hypocrisy of double standards](https://en.wikipedia.org/wiki/Hypocrisy)
 * [This is watter](https://www.youtube.com/watch?v=8CrOL-ydFMI) [speech](https://en.wikipedia.org/wiki/This_Is_Water) by David Foster Wallace
@@ -1127,10 +1130,11 @@ Individual self-reflection, return of the individual to the ground of human natu
 > The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the master calls a butterfly  
 > ― Illusions by Richard Bach
 
-> If the first mountain is about building up the ego and defining the self, the second is about shedding the ego and dissolving the self. If the first mountain is about acquisition, the second mountain is about contribution.  
-> On the first mountain, personal freedom is celebrated — keeping your options open, absence of restraint. But the perfectly free life is the unattached and unremembered life. Freedom is not an ocean you want to swim in; it is a river you want to cross so that you can plant yourself on the other side.  
-> So the person on the second mountain is making commitments.  
-> [The Second Mountain by David Brooks](https://www.nytimes.com/2019/04/06/opinion/sunday/moral-revolution-david-brooks.html)
+> No tree, it is said, can grow to heaven unless its roots reach down to hell.  
+> -- Aion by Carl Jung, Page 44.
+
+> But it is the same with man as with the tree. The more he seeks to rise into the height and light, the more vigorously do his roots struggle earthword, downword, into the dark, the deep - into evil.  
+> ― Thus Spoke Zarathustra by Friedrich Nietzsche. 
 
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
@@ -1148,11 +1152,26 @@ Accept lifelong urge for escape, for that _Human_ is a transient notion.
 
 #### Developmental Stages
 
+> Every child is an artist. The problem is how to remain an artist once he grows up.  
+> — Pablo Picasso
+
 > You have to die few times before you actually live  
 > ― Charles Bukowsky  
 
 > In human existence there are seven times that we call “age”: infant, child, adolescent, young, adult, mature man, old man. The changing period of the Moon, during early childhood, is replaced by that of Mercury, in which the first knowledge is acquired, then that of Venus, which reveals its strength in the passionate emotions of adolescence; then comes the zenith of life, the three seven years of full life force and desires for expansion. The kingdom of the evil Mars generates a sudden change and leads to the struggles, bitterness and disillusions of adulthood. Then, under the scepter of Jupiter, once again appears a peak of life, maturity proper, which, wise and serene, contemplates the joys and sufferings of existence, always contributing joyfully. Finally, under the star of Saturn, slow and far from the earth, comes the great age in which the vital forces cool and slowly stop.  
 > -- Hippocrates (460 – 377 B.C.)
+
+> If the first mountain is about building up the ego and defining the self, the second is about shedding the ego and dissolving the self. If the first mountain is about acquisition, the second mountain is about contribution.  
+ On the first mountain, personal freedom is celebrated — keeping your options open, absence of restraint. But the perfectly free life is the unattached and unremembered life. Freedom is not an ocean you want to swim in; it is a river you want to cross so that you can plant yourself on the other side.  
+> So the person on the second mountain is making commitments.  
+> [The Second Mountain by David Brooks](https://www.nytimes.com/2019/04/06/opinion/sunday/moral-revolution-david-brooks.html)
+
+> If You Are Not a Liberal at 25, You Have No Heart. If You Are Not a Conservative at 35 You Have No Head.  
+> -- [Attributed to Edmund Burke, Victor Hugo, King Oscar II of Sweden, George Bernard Shaw, Benjamin Disraeli, Winston Churchill et ali](https://quoteinvestigator.com/2014/02/24/heart-head/) (Modern paraphrase: If you're not a Neo when you're young you have no heart, if you're not a Cypher when you're old you have no brain)
+
+> A point exists at about the thirty-fifth year when things begin to change, it is the first moment of the shadow side of life, of the going down to death. It is clear that Dante found this point and those who have read Zarathustra will know that Nietzsche also discovered it. When this turning point comes people meet it in several ways: some turn away from it; others plunge into it; and something important happens to yet others from the outside. If we do not see a thing Fate does it to us.  
+> -- The Black Books by Carl Jung, Vol. I, Page 11
+
 
 [Stages of physical, emotional, mental development](https://en.wikipedia.org/wiki/Child_development) along [The Stages of Life](https://www.institute4learning.com/2012/08/07/the-stages-of-life-according-to-rudolf-steiner/) 
 and [7 year cycles](https://www.giorgiotarditispagnoli.com/post/biosophy-the-9-seven-year-cycles-of-man-s-biography)
