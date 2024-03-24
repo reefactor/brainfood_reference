@@ -906,6 +906,17 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own  
 > — Epictetus
 
+> Remember that it is not he who reviles you or strikes you, who insults you, but it is your opinion about these things as being insulting. When then a man irritates you, you must know that it is your own opinion which has irritated you. Therefore especially try not to be carried away by the appearance. For if you once gain time and delay, you will more easily master yourself..  
+> Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life..  
+> Disease is an impediment to the body, but not to the will, unless the will itself chooses. Lameness is an impediment to the leg, but not to the will. And add this reflection on the occasion of everything that happens; for you will find it an impediment to something else, but not to yourself..  
+> For it is better to die of hunger and so to be released from grief and fear than to live in abundance with perturbation; and it is better for your slave to be bad than for you to be unhappy..  
+> Whoever then wishes to be free, let him neither wish for anything nor avoid anything which depends on others: if he does not observe this rule, he must be a slave..  
+> But you yourself will not wish to be a general or senator or consul, but a free man: and there is only one way to this, to despise (care not for) the things which are not in our power..  
+> He watches himself as if he were an enemy and lying in ambush.  
+> What you avoid suffering, do not attempt to make others suffer. You avoid slavery: take care that others are not your slaves. For if you endure to have a slave, you appear to be a slave yourself first. For vice has no community with virtue, nor freedom with slavery.  
+> -- Enchiridion by Epictetus
+
+
 > No one can hurt you without your consent  
 > -- Eleanor Roosevelt 
 
