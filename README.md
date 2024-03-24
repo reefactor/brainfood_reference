@@ -1301,11 +1301,3 @@ A Need for [Sence of Heroic Worth](https://academyofideas.com/2020/05/the-psycho
 
 
 Symbolic System is [a map, not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation) it represents.
-
-
-# bITs
-
-[Startup Playbook](startup_playbook.md)
-
-[Python code protection via obfuscation or compilation](security_review_python_code_protector.md)
-
