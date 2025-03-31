@@ -17,7 +17,7 @@
 
 1. Stand up on the Shoulders of Giants with [Wisdom Gems](#gems-of-wisdom)
 2. Bootstrap your framework of [Mental Models](#mental-models) of [reasoning](#reasoning)
-3. [Update](#iterator) mental models with [Knowledge Streams](#streams) to fuel cognition
+3. [Update](#iterator) mental models with [Knowledge Streams](#streams) to fuel cognition and sharpen [Skills](#multidisciplinary-skills) aligned with [Values](#values)
  along the [Lifelong Learning](https://fs.blog/learning/) way and [Build Momentum](#flywheel-momentum)
 4. Navigate [Pointers of Truth](#pointers-of-truth)
 as [support vectors](https://en.wikipedia.org/wiki/Support_vector_machine) in [uncertainty](#uncertainty)
@@ -210,6 +210,9 @@ the territory as fitting his map. More generally, the fool here is someone who d
 removes something essential, cutting off the legs, or, better, part of the head of a visitor while insisting that he preserved his persona with 95 percent accuracy.  
 > -- The bed of Procrustes by Nassim Taleb
 
+> There is a related “Theorem” about progress in AI: once some mental function is programmed, people soon cease to consider it as an essential ingredient of “real thinking”. The ineluctable core of intelligence is always in that next thing which hasn’t yet been programmed. This “Theorem” was first proposed to me by Larry Tesler, so I call it Tesler’s Theorem: “AI is whatever hasn’t been done yet.”  
+> -- 1979, Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R. Hofstadter, Chapter 18: Artificial Intelligence: Retrospects. Investigated [Quote Origin: As Soon As It Works, No One Calls It AI Anymore](https://quoteinvestigator.com/2024/06/20/not-ai/)
+
 
 The world is huge and our sensory bandwidth is tiny and memory capacity is limited.
 
@@ -230,7 +233,7 @@ in order to create reasoning frameworks and to put them in toolboxes.
 
 And so there're [plenty of them online](https://www.google.com/search?q=mental+models)
 
-### Iterator
+### Iterate
 #### Steep gradient ascent along learning curve
 
 > Run Uphill. Simple heuristic: If you’re evenly split on a difficult decision, take the path more painful in the short term.  
@@ -242,6 +245,14 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 
 > Most people overestimate what they can do in one year and underestimate what they can do in ten years.  
 > ― Bill Gates
+
+#### Prune
+
+> When things aren't adding up in your life, start subtracting
+
+> Knowledge is subtractive, not additive — what we subtract (reduction by what does not work, what not to do), not what we add (what to do).  
+.. They think that intelligence is about noticing things that are relevant (detecting patterns); in a complex world, intelligence consists in ignoring things that are irrelevant (avoiding false patterns).  
+> -- The bed of Procrustes by Nassim Taleb
 
 > To attain knowledge, add things everyday. To attain wisdom, remove things everyday  
 > -- Lao Zi
@@ -257,10 +268,6 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 
 > Simplicity is hacking away the unessential. — It is not daily increase but daily decrease — hack away the unessential! The closer to the source, the less wastage there is  
 > -- Bruce Lee
-
-> Knowledge is subtractive, not additive — what we subtract (reduction by what does not work, what not to do), not what we add (what to do).  
-.. They think that intelligence is about noticing things that are relevant (detecting patterns); in a complex world, intelligence consists in ignoring things that are irrelevant (avoiding false patterns).  
-> -- The bed of Procrustes by Nassim Taleb
 
 
 Iterate and refine models to sharp your [decision making skills](#decisions). Make [incremental improvements](https://en.wikipedia.org/wiki/Kaizen))
@@ -294,6 +301,12 @@ Accumulated [knowledge asymmetry](https://en.wikipedia.org/wiki/Information_asym
 
 > Foxes beat hedgehogs. And the foxes didn’t just win by acting like chickens, playing it safe with 60% and 70% forecasts where hedgehogs boldly went with 90% and 100%. Foxes beat hedgehogs on both calibration and resolution. Foxes had real foresight. Hedgehogs didn’t.  
 > Superforecasting: The Art and Science of Prediction by Philip Tetlock  
+
+> Once you've found something you're excessively interested in, the next step is to learn enough about it to get you to one of the frontiers of knowledge. Knowledge expands fractally, and from a distance its edges look smooth, but once you learn enough to get close to one, they turn out to be full of gaps.  
+The next step is to notice them. This takes some skill, because your brain wants to ignore such gaps in order to make a simpler model of the world. Many discoveries have come from asking questions about things that everyone else took for granted  
+Four steps: choose a field, learn enough to get to the frontier, notice gaps, explore promising ones. This is how practically everyone who's done great work has done it, from painters to physicists.  
+Steps two and four will require hard work. It may not be possible to prove that you have to work hard to do great things, but the empirical evidence is on the scale of the evidence for mortality. That's why it's essential to work on something you're deeply interested in. Interest will drive you to work harder than mere diligence ever could  
+> -- [How to Do a Great Work by Paul Graham](https://www.paulgraham.com/greatwork.html)
 
 Move from I-shaped to T-shaped to Π-Shaped to M-shaped individual yet be aware of [Jack of all trades, master of none](https://en.wikipedia.org/wiki/Jack_of_all_trades,_master_of_none). The key here ballance factors:
 * [The Pareto Principle in Learning – The 80:20 Rule](https://www.briantracy.com/blog/personal-success/how-to-use-the-80-20-rule-pareto-principle/) says that learning process isn't linear - you achieve 80% of result in the begining with only 20% of time. 
@@ -339,6 +352,7 @@ is the desirable middle between two extremes, one of excess and the other of def
 | wave (stochastic, Lorencian [butterfly](https://en.wikipedia.org/wiki/Butterfly_effect)) | [Wave–particle duality](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality) | particle (deterministic [Laplace's demon](https://en.wikipedia.org/wiki/Laplace%27s_demon)) |
 | recklessness | courage | cowardice |
 | fatalist | wave surfer | control-freak |
+| nihilistic moral relativism / scepticism|   | totalitarian dogmatism of gatekeepers |
 | democracy (N votes with constant weights  equally distributed) | meritocracy (N votes with weights proportional to the individual merit) | autocracy (1 vote with infinite weight) |
 | ascetic  | buddhist middle way | hedonic |
 | eternalism | buddhist [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)  | annihilationism |
@@ -429,17 +443,16 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 | Habbit | semi-conscious, incentive-induced routine | moderate | long-term strategy, marathon |
 | Willpower | conscious effort, cortex | low | short-term tactics, sprint |
 
-
 ### Values
 
 > You've got to serve somebody  
 > -- Bob Dylan
 
-> Principles are like lighthouses. They are natural laws that cannot be broken  
-> ― Stephen R. Covey, The 7 Habits of Highly Effective People
-
-> [Values are most important, abilities come next, and skills are the least](https://leadingbyreading.org/2019/08/14/mind-on-wealth-health-and-success-6-values-abilities-and-skills-what-comes-first-in-deciding-the-right-people-for-your-firm-a-management-case/)important. Yet most people make the mistake of choosing skills and abilities first and overlooking values. It is important for you to know what mix of qualities is important to ﬁt each role and, more broadly, what values and abilities are required in people with whom you can have successful relationships. In picking people for long-term relationships  
+> [Values are most important, abilities come next, and skills are the least](https://leadingbyreading.org/2019/08/14/mind-on-wealth-health-and-success-6-values-abilities-and-skills-what-comes-first-in-deciding-the-right-people-for-your-firm-a-management-case/) important. Yet most people make the mistake of choosing skills and abilities first and overlooking values. It is important for you to know what mix of qualities is important to ﬁt each role and, more broadly, what values and abilities are required in people with whom you can have successful relationships. In picking people for long-term relationships  
 > -- Ray Dalio
+
+> The happy life is thought to be one of excellence; now an excellent life requires exertion, and does not consist in amusement. If Eudaimonia, or happiness, is activity in accordance with excellence, it is reasonable that it should be in accordance with the highest excellence; and this will be that of the best thing in us  
+> ― Aristotle, The Nicomachean Ethics
 
 > Of course if we make good things, it is not only to the credit of science; it is also to the credit of the moral choice which led us to good work. Scientific knowledge is an enabling power to do either good or bad — but it does not carry instructions on how to use it. Such power has evident value — even though the power may be negated by what one does with it.  
 >  To every man is given the key to the gates of heaven; the same key opens the gates of hell. (Proverb of the Buddhist religion)  
@@ -463,9 +476,6 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 
 > Nature loves courage. You make the commitment and nature will respond to that commitment by removing impossible obstacles. Dream the impossible dream and the world will not grind you under, it will lift you up. This is the trick. This is what all these teachers and philosophers who really counted, who really touched the alchemical gold, this is what they understood. This is the shamanic dance in the waterfall. This is how magic is done. By hurling yourself into the abyss and discovering it’s a feather bed  
 > -- Terence McKenna
-
-> Begin with end in mind
-> -- Stephen Covey
 
 > Never prostitute your principles in your work. — I will never prostitute myself in any way that I do what I don’t believe in.  
 > -- Striking Thoughts: Bruce Lee's Wisdom for Daily Living (2000) edited by John Little
@@ -492,6 +502,22 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 > I think that there is only one way to science - or to philosophy, for that matter: to meet a problem, to see its beauty and fall in love with it; to get married to it and to live with it happily, till death do ye part - unless you should meet another and even more fascinating problem or unless, indeed, you should obtain a solution. But even if you do obtain a solution, you may then discover, to your delight, the existence of a whole family of enchanting, though perhaps difficult, problem children, for whose welfare you may work, with a purpose, to the end of your days.  
 > -- Karl Popper
 
+> So live your life that the fear of death can never enter your heart. Trouble no one about their religion; respect others in their view, and demand that they respect yours. Love your life, perfect your life, beautify all things in your life. Seek to make your life long and its purpose in the service of your people. Prepare a noble death song for the day when you go over the great divide.
+Always give a word or a sign of salute when meeting or passing a friend, even a stranger, when in a lonely place. Show respect to all people and grovel to none.
+When you arise in the morning give thanks for the food and for the joy of living. If you see no reason for giving thanks, the fault lies only in yourself. Abuse no one and no thing, for abuse turns the wise ones to fools and robs the spirit of its vision.  
+When it comes your time to die, be not like those whose hearts are filled with the fear of death, so that when their time comes they weep and pray for a little more time to live their lives over again in a different way. Sing your death song and die like a hero going home.  
+> -- Chief Tecumseh
+
+> Begin with end in mind  
+> -- Stephen Covey
+
+> Principles are like lighthouses. They are natural laws that cannot be broken  
+> ― Stephen R. Covey, The 7 Habits of Highly Effective People
+
+> The highest aim and the meaning even of human life is to strive to do your best for the wellbeing of your neighbour, which is only possible by renouncing your own self-interest.  
+> ― G.I. Gurdjieff
+
+
 * The [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule) principle of treating others as you want to be treated is spoiled by [hypocrisy of double standards](https://en.wikipedia.org/wiki/Hypocrisy)
 * [This is watter](https://www.youtube.com/watch?v=8CrOL-ydFMI) [speech](https://en.wikipedia.org/wiki/This_Is_Water) by David Foster Wallace
 * [Maps of Meaning The Architecture of Belief](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h) by Jordan B Peterson
@@ -499,6 +525,8 @@ Later focus on the chosen path with [Warren Buffett's 5/25 Rule](https://www.you
 * [Live Your Life](https://www.goodreads.com/quotes/8909397-a-poem-by-tecumseh-so-live-your-life-that-the) poem by Chief [Tecumseh](https://en.wikiquote.org/wiki/Tecumseh)
 
 Choose axiomatic set of Principles and derrive Values, vision, beliefs, meaning, purpose, goals, incentives.
+
+Deduce hierarchy of motivations.
 
 Search for a Middle Ground between [moral absolutism](https://en.wikipedia.org/wiki/Moral_absolutism) and [relativism](https://en.wikipedia.org/wiki/Moral_relativism) of your Values against others.
 
@@ -626,11 +654,11 @@ Amateurs have a goal. [Professionals have a process](https://fs.blog/2017/06/hab
 * Commute [podcasts](#listen-and-learn)
 * Daily [Pocket](https://getpocket.com/) article
 * [Inbox zero](https://en.wikipedia.org/wiki/Merlin_Mann#Writing) - [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done) ranking on [Urgence VS Importance Eisenhower Matrix](https://fs.blog/eisenhower-matrix/)
-* [Deep work](https://www.calnewport.com/books/deep-work/) in the [Flow State](https://en.wikipedia.org/wiki/Flow_(psychology)) "creative cave" focused 1-2 hours non-interrupted chunks followed by weak signals triggered breaks (keep-out of low-energy levels). [Ballance schedule](https://fs.blog/2017/12/maker-vs-manager/) ([Maker's mode](http://www.paulgraham.com/makersschedule.html))
-* Afternoon nap
-* [Manager's mode](http://www.paulgraham.com/makersschedule.html)
+* [Deep work](https://www.calnewport.com/books/deep-work/) in the [Flow State](https://en.wikipedia.org/wiki/Flow_(psychology)) "creative cave" focused 1-2 hours non-interrupted chunks followed by weak signals triggered breaks (keep-out of low-energy levels) - ([Maker's mode](http://www.paulgraham.com/makersschedule.html))
+* Afternoon nap or [Nidra yoga session](https://en.wikipedia.org/wiki/Yoga_nidra)
+* [Manager's mode](http://www.paulgraham.com/makersschedule.html) session on [ballanced schedule](https://fs.blog/2017/12/maker-vs-manager/)
 * Daily Book chunk ([Bill Gates routinely reads 50 books per year](https://www.blinkist.com/magazine/posts/most-ceos-read-60-books-per-year))
-* Replay & recap, [Most mportant question MIQ](https://tim.blog/2019/07/03/the-tim-ferriss-show-transcripts-josh-waitzkin-how-to-cram-2-months-of-learning-into-1-day-375/)
+* Replay, reflect & recap the [Most mportant question MIQ](https://tim.blog/2019/07/03/the-tim-ferriss-show-transcripts-josh-waitzkin-how-to-cram-2-months-of-learning-into-1-day-375/)
 
 
 [Wim Hof breathing technique](https://en.wikipedia.org/wiki/Wim_Hof#Breathing) is a secular kind of hyperventilation [breathwork](https://en.wikipedia.org/wiki/Breathwork)
@@ -660,6 +688,9 @@ Trees grow over time - relations weights grow from subjective life experience.
 Pruning trees is an essential part of active introspection, mental hygiene, since attention requires mental energy resources.
 
 Review reading list of and pick what reasonates - next book for the upcoming week to read.
+
+Sunday Fasting the Mind keeps [three bodies growth ballanced](https://en.wikipedia.org/wiki/Fourth_Way).
+
 
 ##### Sleep
 
@@ -882,6 +913,9 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 > We don’t see things as they are, but as we are  
 > — Anaïs Nin
 
+> N’atthi [santi](https://en.wikipedia.org/wiki/Inner_peace) param [sukham](https://en.wikipedia.org/wiki/Sukha), there is no happiness other than peace. This saying of the Buddha has an interesting history. Over time, the translation turned from “there is no happiness other than peace” to “there is no happiness higher than peace,” which totally changes the meaning. Perhaps people thought that there are other kinds of happiness not related to peace at all - the happiness of winning out over somebody else, the happiness of sensual desire, even the happiness that goes along with being angry. People like to be angry. There’s a certain amount of pleasure with that and all the other defilements, and there’s certainly no peace there.  
+> -- [No Happiness Other than Peace, Dhamma Talks Volume III](https://www.dhammatalks.org/books/ePubDhammaTalks_v3/Section0079.html)
+
 > All of human unhappiness comes from one single thing: not knowing how to remain at rest in a room  
 > — Blaise Pascal
 
@@ -905,17 +939,6 @@ _**Unknown knowns**_ refer to cognitive bias of self-denial to accept new facts 
 
 > The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own  
 > — Epictetus
-
-> Remember that it is not he who reviles you or strikes you, who insults you, but it is your opinion about these things as being insulting. When then a man irritates you, you must know that it is your own opinion which has irritated you. Therefore especially try not to be carried away by the appearance. For if you once gain time and delay, you will more easily master yourself..  
-> Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life..  
-> Disease is an impediment to the body, but not to the will, unless the will itself chooses. Lameness is an impediment to the leg, but not to the will. And add this reflection on the occasion of everything that happens; for you will find it an impediment to something else, but not to yourself..  
-> For it is better to die of hunger and so to be released from grief and fear than to live in abundance with perturbation; and it is better for your slave to be bad than for you to be unhappy..  
-> Whoever then wishes to be free, let him neither wish for anything nor avoid anything which depends on others: if he does not observe this rule, he must be a slave..  
-> But you yourself will not wish to be a general or senator or consul, but a free man: and there is only one way to this, to despise (care not for) the things which are not in our power..  
-> He watches himself as if he were an enemy and lying in ambush.  
-> What you avoid suffering, do not attempt to make others suffer. You avoid slavery: take care that others are not your slaves. For if you endure to have a slave, you appear to be a slave yourself first. For vice has no community with virtue, nor freedom with slavery.  
-> -- Enchiridion by Epictetus
-
 
 > No one can hurt you without your consent  
 > -- Eleanor Roosevelt 
@@ -962,6 +985,22 @@ Interestingly, this is a core Buddhist teaching as well. In Zen in the Art of Ar
 > .. A goal is not always meant to be reached. — A goal is not always meant to be reached. It often serves simply as something to aim at.  
 > .. You control the confrontation. — No one can hurt you unless you allow him to.  
 > -- Striking Thoughts by Bruce Lee
+
+> Remember that it is not he who reviles you or strikes you, who insults you, but it is your opinion about these things as being insulting. When then a man irritates you, you must know that it is your own opinion which has irritated you. Therefore especially try not to be carried away by the appearance. For if you once gain time and delay, you will more easily master yourself..  
+> Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life..  
+> Disease is an impediment to the body, but not to the will, unless the will itself chooses. Lameness is an impediment to the leg, but not to the will. And add this reflection on the occasion of everything that happens; for you will find it an impediment to something else, but not to yourself..  
+> For it is better to die of hunger and so to be released from grief and fear than to live in abundance with perturbation; and it is better for your slave to be bad than for you to be unhappy..  
+> Whoever then wishes to be free, let him neither wish for anything nor avoid anything which depends on others: if he does not observe this rule, he must be a slave..  
+> But you yourself will not wish to be a general or senator or consul, but a free man: and there is only one way to this, to despise (care not for) the things which are not in our power..  
+> He watches himself as if he were an enemy and lying in ambush.  
+> What you avoid suffering, do not attempt to make others suffer. You avoid slavery: take care that others are not your slaves. For if you endure to have a slave, you appear to be a slave yourself first. For vice has no community with virtue, nor freedom with slavery.  
+> -- Enchiridion by Epictetus
+
+> Each person has a quiet place within himself.  And it’s out of that that his action comes.  If he or she as an athlete is all action, they’re not performing properly.  There’s a center out of which one properly acts…There’s a center that has to be known and held by the person.  But unless this center has been known and felt, you’re torn apart. Tension comes. The Buddha’s word for this is “nirvana”. Nirvana is a psychological state of mind.  It’s not a place that’s not here. It’s not like heaven. It is here in the middle of the turmoil in what Buddhists call ‘Samsara’ – the whirlpool of life’s conditions. Nirvana is what? It is the condition when you’re not compelled by desire. Or by fear. Or by social commitments. When you hold your center, and act out of there.  And like all heroes, the Buddha doesn’t show you the truth. He shows you the way to that truth. It’s got to be your way too. I mean how should you or I get rid of fear? The Buddha can’t tell me how I’m to do it. There are exercises which different teachers can give you. But all the teacher can do is give you a clue.  A direction. They are like a lighthouse which says there are rocks over here. Best to steer clear  
+> – Joseph Campbell, “The Hero’s Adventure”
+
+> Self-observation brings man to the realization of the necessity of self-change. And in observing himself a man notices that self-observation itself brings about certain changes in his inner processes. He begins to understand that self-observation is an instrument of self-change, a means of awakening.  
+> ― G.I. Gurdjieff
 
 
 ## Transcend
@@ -1147,6 +1186,10 @@ Individual self-reflection, return of the individual to the ground of human natu
 > But it is the same with man as with the tree. The more he seeks to rise into the height and light, the more vigorously do his roots struggle earthword, downword, into the dark, the deep - into evil.  
 > ― Thus Spoke Zarathustra by Friedrich Nietzsche. 
 
+> You are in prison. If you wish to get out of prison, the first thing you must do is realize that you are in prison. If you think you are free, you can't escape.  
+> .. Awakening is possible only for those who seek it and want it, for those who are ready to struggle with themselves and work on themselves for a very long time and very persistently in order to attain it.  
+> .. The power of changing oneself lies not in the mind, but in the body and the feelings. Unfortunately, however, our body and our feelings are so constituted that they don’t care a lot about anything so long as they are happy. They live for the moment and their memory is short. The mind alone lives for tomorrow. Each has its own merits. The merit of the mind is that it looks ahead. But it is only the other two that can "do."  
+> ― G.I. Gurdjieff
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
 same as human forebrain cortex depends on midbrain infrastructure, 
@@ -1166,22 +1209,11 @@ Accept lifelong urge for escape, for that _Human_ is a transient notion.
 > Every child is an artist. The problem is how to remain an artist once he grows up.  
 > — Pablo Picasso
 
-> You have to die few times before you actually live  
-> ― Charles Bukowsky  
-
 > In human existence there are seven times that we call “age”: infant, child, adolescent, young, adult, mature man, old man. The changing period of the Moon, during early childhood, is replaced by that of Mercury, in which the first knowledge is acquired, then that of Venus, which reveals its strength in the passionate emotions of adolescence; then comes the zenith of life, the three seven years of full life force and desires for expansion. The kingdom of the evil Mars generates a sudden change and leads to the struggles, bitterness and disillusions of adulthood. Then, under the scepter of Jupiter, once again appears a peak of life, maturity proper, which, wise and serene, contemplates the joys and sufferings of existence, always contributing joyfully. Finally, under the star of Saturn, slow and far from the earth, comes the great age in which the vital forces cool and slowly stop.  
 > -- Hippocrates (460 – 377 B.C.)
 
-> If the first mountain is about building up the ego and defining the self, the second is about shedding the ego and dissolving the self. If the first mountain is about acquisition, the second mountain is about contribution.  
- On the first mountain, personal freedom is celebrated — keeping your options open, absence of restraint. But the perfectly free life is the unattached and unremembered life. Freedom is not an ocean you want to swim in; it is a river you want to cross so that you can plant yourself on the other side.  
-> So the person on the second mountain is making commitments.  
-> [The Second Mountain by David Brooks](https://www.nytimes.com/2019/04/06/opinion/sunday/moral-revolution-david-brooks.html)
-
-> If You Are Not a Liberal at 25, You Have No Heart. If You Are Not a Conservative at 35 You Have No Head.  
-> -- [Attributed to Edmund Burke, Victor Hugo, King Oscar II of Sweden, George Bernard Shaw, Benjamin Disraeli, Winston Churchill et ali](https://quoteinvestigator.com/2014/02/24/heart-head/) (Modern paraphrase: If you're not a Neo when you're young you have no heart, if you're not a Cypher when you're old you have no brain)
-
-> A point exists at about the thirty-fifth year when things begin to change, it is the first moment of the shadow side of life, of the going down to death. It is clear that Dante found this point and those who have read Zarathustra will know that Nietzsche also discovered it. When this turning point comes people meet it in several ways: some turn away from it; others plunge into it; and something important happens to yet others from the outside. If we do not see a thing Fate does it to us.  
-> -- The Black Books by Carl Jung, Vol. I, Page 11
+> For in the matter of the age-divisions of mankind in general there is one and the same approach, which for likeness and comparison depends upon the order of the seven planets; it begins with the first age of man and with the first sphere from us, that is, the moon’s, and ends with the last of the ages and the outermost of the planetary spheres, which is called that of Saturn  
+> -- Claudius Ptolemy, [Tetrabiblos, IV](https://en.wikipedia.org/wiki/Tetrabiblos)
 
 
 [Stages of physical, emotional, mental development](https://en.wikipedia.org/wiki/Child_development) along [The Stages of Life](https://www.institute4learning.com/2012/08/07/the-stages-of-life-according-to-rudolf-steiner/) 
@@ -1192,18 +1224,19 @@ Yet exist [many more models of stage theories in developmental psychology](https
 
 Ken Wilber's attempt to create [Integral Theory](https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)#Levels_or_stages) is [ignored at mainstream academic, and contested by critics](https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)#Reception_in_mainstream_academia).
 
-| Cycle / Stage | Years | Age | Dimensions of development | [Steiner](https://en.wikipedia.org/wiki/Rudolf_Steiner) | [Fowler](https://en.wikipedia.org/wiki/James_W._Fowler)	| Wilber	| [Gebser](https://en.wikipedia.org/wiki/Jean_Gebser) |
-|---|---|---|---|---|---|---|---|
-| 1 | 0-7    | childhood | physical, behavioral, emotional   | Moon, Mother    | Undifferentiated faith, Intuitive-projective | Pre-personal, Personal	| Archaic, Magical, Mythic |
-| 2 | 7-14   | youth | physical, emotional, mental           | Mercury, Father |  Mythic-literal, Synthetic-Conventional  | Personal | Mythic-rational	 |
-| 3 | 14-21  | adolescence | emotional, social, mental | Venus, puberty, nonconformity, revolt against family & society |  Individual-reflexive | Personal | Rational |
-| 4 | 21-28  | adulthood | emotional, social, mental | Sun 1, Integration into society after Revolt failure. Play that turns to responsibility |  Individual-reflexive, Conjunctive | Personal | Rational |
-| 5 | 28-35  | adulthood | social, mental | Sun 2, Peaking physical body, creation own family cocoon. Organizing Knowledge, “I think” | Conjunctive | Personal | Rational |
-| 6 | 35-42  | maturity | mental, spiritual | Sun 3, Crisis and Questioning | Conjunctive | Personal, Transpersonal	 | Integral |
-| 7 | 42-49  | maturity | spiritual | Mars, Spiritual Self birth | Universalizing | Transpersonal | |
-| 8 | 49-56  | maturity | spiritual | Jupiter, Wisdom  | | |
-| 9 | 56-63  | senility | spiritual | Saturn, Self [Steiner's Karmic Relationships Vol. VII, lecture two](https://wn.rsarchive.org/Lectures/GA239/English/RSP1973/19240608p01.html)  |  | |
-| .. | ...  | .. | .. | .. |  .. | |
+
+| Cycle / Stage | Years | Age | Dimensions of development | [Ptolemy](https://en.wikipedia.org/wiki/Tetrabiblos) | [Steiner](https://en.wikipedia.org/wiki/Rudolf_Steiner) | [Fowler](https://en.wikipedia.org/wiki/James_W._Fowler)	| Wilber	| [Gebser](https://en.wikipedia.org/wiki/Jean_Gebser) |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 0-7    | childhood | physical, behavioral, emotional | Moon (25), Mercury (20) | Moon, Mother    | Undifferentiated faith, Intuitive-projective | Pre-personal, Personal	| Archaic, Magical, Mythic |
+| 2 | 7-14   | youth | physical, emotional, mental  | Mercury  | Mercury, Father |  Mythic-literal, Synthetic-Conventional  | Personal | Mythic-rational	 |
+| 3 | 14-21  | adolescence | emotional, social, mental | Venus (8) | Venus,Impulse  puberty, nonconformity, revolt against family & society |  Individual-reflexive | Personal | Rational |
+| 4 | 21-28  | young adulthood | emotional, social, mental | Sun (19) | Sun 1, Integration into society after Revolt failure. Play that turns to responsibility Soul masters action, seriousness |  Individual-reflexive, Conjunctive | Personal | Rational |
+| 5 | 28-35  | young adulthood | social, mental | Sun | Sun 2, Peaking physical body, creation own family cocoon. Organizing Knowledge, “I think” | Conjunctive | Personal | Rational |
+| 6 | 35-42  | maturity | mental, spiritual | Sun | Sun 3, Crisis and Questioning | Conjunctive | Personal, Transpersonal	 | Integral |
+| 7 | 42-49  | mature adulthood | spiritual | Mars (15) | Mars, action, Unhappiness desire to accomplish, Spiritual Self birth | Universalizing | Transpersonal | |
+| 8 | 49-56  | mature adulthood | spiritual | Mars | Jupiter, Wisdom  | | |
+| 9 | 56-63  | retirement and wisdom | spiritual | Jupiter (12) | Saturn, Self [Steiner's Karmic Relationships Vol. VII, lecture two](https://wn.rsarchive.org/Lectures/GA239/English/RSP1973/19240608p01.html) Thoughtfulness, dignity.  |  | |
+| 10 | 63-  | old age |  | Saturn (30) |  | | |
 
 
 ### Memento mori
@@ -1216,6 +1249,38 @@ Ken Wilber's attempt to create [Integral Theory](https://en.wikipedia.org/wiki/I
 
 > If you die before you die, then you won't die when you die  
 > ― The inscription above the entrance to St Paul’s monastery in Mount Athos in Greece refers to the rituals of Eleusinian Mysteries  
+
+> O Generous Ones,  
+Die before you die,   
+even as I have died before death  
+and brought this reminder from Beyond.  
+Become the resurrection of the spirit  
+so you may experience the resurrection.  
+This becoming is necessary  
+for seeing and knowing  
+the real nature of anything.  
+Until you become it,  
+you will not know it completely,  
+whether it be light or darkness.  
+> -- Rumi Mathnawi VI: 754-758
+
+> Essence is the truth in man; personality is the false.  
+> All religions speak about death during this life on earth. Death must come before rebirth. But what must die? False confidence in one’s own knowledge, self-love and egoism. Our egoism must be broken. We must realize that we are very complicated machines, and so this process of breaking is bound to be a long and difficult task. Before real growth becomes possible, our personality must die.  
+> ― G.I. Gurdjieff
+
+> You have to die few times before you actually live  
+> ― Charles Bukowsky  
+
+> If the first mountain is about building up the ego and defining the self, the second is about shedding the ego and dissolving the self. If the first mountain is about acquisition, the second mountain is about contribution.  
+ On the first mountain, personal freedom is celebrated — keeping your options open, absence of restraint. But the perfectly free life is the unattached and unremembered life. Freedom is not an ocean you want to swim in; it is a river you want to cross so that you can plant yourself on the other side.  
+> So the person on the second mountain is making commitments.  
+> [The Second Mountain by David Brooks](https://www.nytimes.com/2019/04/06/opinion/sunday/moral-revolution-david-brooks.html)
+
+> If You Are Not a Liberal at 25, You Have No Heart. If You Are Not a Conservative at 35 You Have No Head.  
+> -- [Attributed to Edmund Burke, Victor Hugo, King Oscar II of Sweden, George Bernard Shaw, Benjamin Disraeli, Winston Churchill et ali](https://quoteinvestigator.com/2014/02/24/heart-head/) (Modern paraphrase: If you're not a Neo when you're young you have no heart, if you're not a Cypher when you're old you have no brain)
+
+> A point exists at about the thirty-fifth year when things begin to change, it is the first moment of the shadow side of life, of the going down to death. It is clear that Dante found this point and those who have read Zarathustra will know that Nietzsche also discovered it. When this turning point comes people meet it in several ways: some turn away from it; others plunge into it; and something important happens to yet others from the outside. If we do not see a thing Fate does it to us.  
+> -- The Black Books by Carl Jung, Vol. I, Page 11
 
 > Try to leave this world a little better than you found it and, when your turn comes to die, you can die happy in feeling that at any rate you have not wasted your time but have done your best  
 > — Robert Baden-Powell
@@ -1253,7 +1318,6 @@ Fluidity is the way to an empty mind. You must free your ambitious mind and lear
 > What is the Camusean alternative to suicide or hope? The answer is to live without escape and with integrity, in “revolt” and defiance, maintaining the tension intrinsic to human life. Since “the most obvious absurdity” (MS, 59) is death, Camus urges us to “die unreconciled and not of one’s own free will” (MS, 55). In short, he recommends a life without consolation, but instead one characterized by lucidity and by acute consciousness of and rebellion against its mortality and its limits. ...  
 > -- [Camus on suicide as a response to absurdity](https://plato.stanford.edu/entries/camus/)
 
-
 > Camus saw the goal of absurdism in establishing whether suicide is a necessary response to a world which appears to be mute both on the question of God's existence (and thus what such an existence might answer) and for our search for meaning and purpose in the world. For Camus, suicide was the rejection of freedom. He thought that fleeing from the absurdity of reality into illusions, religion, or death is not the way out. Instead of fleeing the absurd meaninglessness of life, we should embrace life passionately.  
 Existentialist Sartre describes the position of Meursault, the protagonist of Camus' The Stranger who is condemned to death, in the following way:  
 "The absurd man will not commit suicide; he wants to live, without relinquishing any of his certainty, without a future, without hope, without illusions ... and without resignation either. He stares at death with passionate attention and this fascination liberates him. He experiences the "divine irresponsibility" of the condemned man"  
@@ -1267,13 +1331,7 @@ Tibetan: [Bardo Thodol](https://en.wikipedia.org/wiki/Bardo_Thodol)
 
 Vedic Indian: [Garuda Purana](https://en.wikipedia.org/wiki/Garuda_Purana)
 
-
-Man's refusal to acknowledge his own mortality - the [Denial of Death](https://en.wikipedia.org/wiki/The_Denial_of_Death).
-
-A [Worm at the core](https://www.youtube.com/watch?v=qfKyNxfyWbo) of our motivation.
-
-A Need for [Sence of Heroic Worth](https://academyofideas.com/2020/05/the-psychology-of-the-anti-hero/) as the Denial of Death.
-
+A [Worm at the core](https://www.youtube.com/watch?v=qfKyNxfyWbo) of our motivation - a man's refusal to acknowledge his own mortality - the [Denial of Death](https://en.wikipedia.org/wiki/The_Denial_of_Death). This urges a need for [Sence of Heroic Worth](https://academyofideas.com/2020/05/the-psychology-of-the-anti-hero/) until / unless [Amor fati](https://en.wikipedia.org/wiki/Amor_fati) closes the circle of [Eternal return](https://en.wikipedia.org/wiki/Eternal_return).
 
 
 ### Pointers of Truth
