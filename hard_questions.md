@@ -20,6 +20,10 @@
 > The so-called [unity of consciousness](https://plato.stanford.edu/entries/consciousness-unity/) is an illusion… we like to think that we are one [but we are not](https://en.wikipedia.org/wiki/Divided_consciousness)  
 > — Carl Jung quoted by [Science magazine Review: Dissociationism Revived](https://science.sciencemag.org/content/200/4342/654)
 
+> Even if there is only one possible unified theory, it is just a set of rules and equations. What is it that breathes fire into the equations and makes a universe for them to describe?  
+-- A Brief History of Time: From the Big Bang to Black Holes by Stephen Hawking
+ (New York 1988)
+
 [The Spotlight of attention]((https://en.wikipedia.org/wiki/The_Doors_of_Perception)) is parameterized by direction vector, min / max light cone angles (focused or diffused), intensity and duration.
 
 

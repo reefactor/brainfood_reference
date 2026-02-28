@@ -56,3 +56,8 @@ I think **it is a mistake to hire huge numbers of people to get a complicated jo
 
 > We let our people know what we want them to accomplish. But—and it is a very big ‘but’—we do not tell them how to achieve those goals.” That is a near-perfect summary of “mission command.”  
 > William Coyne, senior vice president of research and development at 3M
+
+> Ищите людей, которые сильнее и образованнее вас.  
+> Нанимайте людей, ищите людей, которые могут сделать что-то, что вы не можете. Это самое лучшее, что только может быть.  
+> -- [Илья Сегалович](https://iseg.yandex.com/videos) (Яндекс)
+

@@ -89,7 +89,7 @@ A startup eventually has to get a lot of people to join its quest.  It's usually
 
 Find Deep experts in the domain space but willing to embrace change.
 
-Hire for strenghts, not for weeknesses, [hire people who are smarter than you](/hire_people_smarter_than_you.md).
+[Hire people who are stronger than you](/hire_people_smarter_than_you.md).
 
 
 #### Trust
@@ -116,6 +116,11 @@ Give trust ahead, build trust to reduce communication overhead. Lack of trust le
 > Adding manpower to a late software project makes it later (More Software Developers Is BAD)  
 > -- [Brooks's law](https://en.wikipedia.org/wiki/Brooks%27s_law)
 
+> Communication Architecture. Perhaps the CEO’s most important operational responsibility is designing and implementing the communication architecture for her company. The architecture might include the organizational design, meetings, processes, email, yammer, and even one-on-one meetings with managers and employees. Absent a well-designed communication architecture, information and ideas will stagnate, and your company will degenerate into a bad place to work.  
+> -- Hard thing about hard things by Ben Horowitz 
+
+> Talent density beats talent mass  
+> -- Dario Amodei (Anthropic). 
 
 Underestimated power in keeping team small: **team cohesion and low communication overhead**.
 

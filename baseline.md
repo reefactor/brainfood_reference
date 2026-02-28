@@ -71,7 +71,7 @@
 - Foundation and Empire by Isaac Asimov
 - A Guide to the Good Life The Ancient Art of Stoic Joy by William B. Irvine
 - The Wisdom of the Stoics by Frances and Henry Hazlitt
-- Letters to Lucilius by Seneca
+- Moral Letters to Lucilius by Seneca
 - Meditations by Marcus Aurelius
 - Poor Charlie's Almanack The Wit and Wisdom of Charles T. Munger
 - The Prophet by Kahlil Gibran

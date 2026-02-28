@@ -17,7 +17,7 @@
 
 1. Stand up on the Shoulders of Giants with [Wisdom Gems](#gems-of-wisdom)
 2. Bootstrap your framework of [Mental Models](#mental-models) of [reasoning](#reasoning)
-3. [Update](#iterator) mental models with [Knowledge Streams](#streams) to fuel cognition and sharpen [Skills](#multidisciplinary-skills) aligned with [Values](#values)
+3. [Update](#iterate) mental models with [Knowledge Streams](#streams) to fuel cognition and sharpen [Skills](#multidisciplinary-skills) aligned with [Values](#values)
  along the [Lifelong Learning](https://fs.blog/learning/) way and [Build Momentum](#flywheel-momentum)
 4. Navigate [Pointers of Truth](#pointers-of-truth)
 as [support vectors](https://en.wikipedia.org/wiki/Support_vector_machine) in [uncertainty](#uncertainty)
@@ -34,6 +34,9 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > [Nanos gigantum humeris insidentes](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants)
 
 > [Nothing comes from nothing](https://en.wikipedia.org/wiki/Nothing_comes_from_nothing)
+
+> There is only one good, knowledge, and one evil, ignorance.  
+> -- Socrates
 
 > I believe in the discipline of mastering the best that other people have ever figured out. I don't believe in just sitting down and trying to dream it all up yourself. Nobody's that smart  
 > -- Charles Munger
@@ -53,8 +56,11 @@ to explore the limits of human knowledge despite the [limitations of language](#
 > Some books cannot be summarized (real literature, poetry); some can be compressed to about ten pages; the majority to zero pages  
 > -- The bed of Procrustes by Nassim Taleb
 
+> Books serve to show a man that those original thoughts of his aren't very new after all  
+― Abraham Lincoln
+
 - [Baseline books](baseline.md)
-- [CS Baseline](baseline_cs.md)
+- [CS / ML / AI / Intelligence as Computation Baseline](baseline_cs.md)
 - [Collection of books & reviews](https://sive.rs/book) by Derek Sivers
 - [Список Бродского](brodsky-reading-list.md) / [Joseph Brodsky’s List](http://www.openculture.com/2013/11/joseph-brodskys-reading-list-for-having-an-intelligent-conversation.html)
 - [Naval's recommended reading](https://www.navalmanack.com/almanack-of-naval-ravikant/navals-recommended-reading)
@@ -210,10 +216,6 @@ the territory as fitting his map. More generally, the fool here is someone who d
 removes something essential, cutting off the legs, or, better, part of the head of a visitor while insisting that he preserved his persona with 95 percent accuracy.  
 > -- The bed of Procrustes by Nassim Taleb
 
-> There is a related “Theorem” about progress in AI: once some mental function is programmed, people soon cease to consider it as an essential ingredient of “real thinking”. The ineluctable core of intelligence is always in that next thing which hasn’t yet been programmed. This “Theorem” was first proposed to me by Larry Tesler, so I call it Tesler’s Theorem: “AI is whatever hasn’t been done yet.”  
-> -- 1979, Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R. Hofstadter, Chapter 18: Artificial Intelligence: Retrospects. Investigated [Quote Origin: As Soon As It Works, No One Calls It AI Anymore](https://quoteinvestigator.com/2024/06/20/not-ai/)
-
-
 The world is huge and our sensory bandwidth is tiny and memory capacity is limited.
 
 [Mental models](https://fs.blog/mental-models/) simplify huge complexity of the world
@@ -245,6 +247,9 @@ And so there're [plenty of them online](https://www.google.com/search?q=mental+m
 
 > Most people overestimate what they can do in one year and underestimate what they can do in ten years.  
 > ― Bill Gates
+
+> An expert is someone who doesn't want to learn anything new, because then he would not be an expert  
+> ― Harry Truman
 
 #### Prune
 
@@ -975,7 +980,7 @@ Interestingly, this is a core Buddhist teaching as well. In Zen in the Art of Ar
 > Intensity and/or enthusiasm is this god within us – one that instinctively becomes the art of the physical “becoming” and within this transition we no longer care to know what life means. We are indeed furnishing the “what is” by simply being.  
 > .. Real living is living for others.  
 > .. Life — for its own sake. — Realize the fact that you simply “live” and not “live for.”  
-> .. The meaning of life. — The meaning of life is that it is to be lived, and it is not to be traded and conceptualized and squeezed into a pattern of systems.  
+> .. The meaning of life is that it is to be lived, and it is not to be traded and conceptualized and squeezed into a pattern of systems.  
 > .. The function and duty of a human being. — The function and duty of a human being, a “quality” human being, that is, is the sincere and honest development of potential and self-actualization. One additional comment: the energy from within and the physical strength from your body can guide you toward accomplishing your purpose in life — and to actually act on actualizing your duty to yourself.  
 > .. The goal of a human being. — The human goal: to actualize oneself. A human being is the creative animal. — It is the creative ability of a human being that separates him from all other animals.  
 > .. The point is the doing. — The point is the doing of them rather than the accomplishments. There is no actor but the action — there is no experiencer but experience.  
@@ -1153,6 +1158,14 @@ The **genius or daemon comes to us at birth. It carries with it the fullness of 
 In effect, you are freeing the genie from the bottle. And if you do it wrong, the genie has to go back into the bottle. According to the Greeks and the Romans, if you did it wrong, then the genie, the daemon, the genius becomes a malevolent household spirit that will destroy you and destroy your home. And how many of us kind of know a creative person who just didn’t follow through with it, and ended up drinking, and doing drugs, and kind of destroying their lives, because they didn’t have the whatever to really pursue the passion that should have been their destiny?  
 > -- Chuck Palahniuk [talks on book "Gift" by Lewis Hyde, interviewed by Tim Ferriss](https://tim.blog/2020/09/05/chuck-palahniuk-transcript/)
 
+> The purpose of life is to discover your gift.  
+The work of life is to develop it.  
+The meaning of life is to give your gift away.  
+-- [Finding Your Strength in Difficult Times: A Book of Meditations by David Viscott](https://quoteinvestigator.com/2014/06/16/purpose-gift/) 1993
+
+> Rings and jewels are not gifts, but apologies for gifts. The only gift is a portion of thyself. Thou must bleed for me. Therefore the poet brings his poem; the shepherd, his lamb; the farmer, corn; the miner, a stone; the painter, his picture; the girl, a handkerchief of her own sewing.  
+-- “Gifts” by Ralph Waldo Emerson
+
 > You don’t become completely free by just avoiding to be a slave; you also need to avoid becoming a master  
 > -- The bed of Procrustes: philosophical and practical aphorisms by Nassim Taleb
 
@@ -1191,6 +1204,35 @@ Individual self-reflection, return of the individual to the ground of human natu
 > .. The power of changing oneself lies not in the mind, but in the body and the feelings. Unfortunately, however, our body and our feelings are so constituted that they don’t care a lot about anything so long as they are happy. They live for the moment and their memory is short. The mind alone lives for tomorrow. Each has its own merits. The merit of the mind is that it looks ahead. But it is only the other two that can "do."  
 > ― G.I. Gurdjieff
 
+> If you're going though hell - keep going  
+> -- Churchill Winston
+
+> This too shall pass  
+— Solomon King
+
+> Hard times create strong men.  
+Strong men create good times.  
+Good times create weak men.  
+And, weak men create hard times  
+― Those Who Remain by G. Michael Hopf
+
+> У меня в результате испытаний выработалось очень горькое чувство истории. 
+Оно более всего питается наблюдениями над жизнью общества, но также и чтением книг по истории.  Периодически являются люди, которые с большим подъемом поют:  
+От ликующих, праздно болтающих,  
+Обагряющих руки в крови  
+Уведи меня в стан погибающих  
+За великое дело любви   
+[Некрасов "рыцарь на час"].  
+И уходят, несут страшные жертвы, отдают свою жизнь. Но вот они побеждают и торжествуют. И тогда они очень быстро превращаются в “ликующих, праздно болтающих, обагряющих руки в крови”.  
+И тогда являются новые люди, которые хотят уйти в “стан умирающих”.  
+И так без конца совершается трагикомедия истории.  
+Только Царство Божье стоит над этим.  
+-- Бердяев. "Самопознание"
+
+> Дьявол начинается с пены на губах ангела, вступившего в бой за святое правое дело. Все превращается в прах — и люди, и системы. Но вечен дух ненависти в борьбе за правое дело. И благодаря ему, зло на Земле не имеет конца    
+-- Григорий Померанц
+
+
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
 same as human forebrain cortex depends on midbrain infrastructure, 
 same as human consciousness is powerless against orders of endocrine system programs.
@@ -1204,7 +1246,7 @@ Avoid [Magneto syndrome](https://julesevans.medium.com/is-the-somatics-movement-
 Accept lifelong urge for escape, for that _Human_ is a transient notion.
 
 
-#### Developmental Stages
+### Developmental Stages
 
 > Every child is an artist. The problem is how to remain an artist once he grows up.  
 > — Pablo Picasso
@@ -1215,12 +1257,31 @@ Accept lifelong urge for escape, for that _Human_ is a transient notion.
 > For in the matter of the age-divisions of mankind in general there is one and the same approach, which for likeness and comparison depends upon the order of the seven planets; it begins with the first age of man and with the first sphere from us, that is, the moon’s, and ends with the last of the ages and the outermost of the planetary spheres, which is called that of Saturn  
 > -- Claudius Ptolemy, [Tetrabiblos, IV](https://en.wikipedia.org/wiki/Tetrabiblos)
 
+> Essence is the truth in man; personality is the false.  
+> All religions speak about death during this life on earth. Death must come before rebirth. But what must die? False confidence in one’s own knowledge, self-love and egoism. Our egoism must be broken. We must realize that we are very complicated machines, and so this process of breaking is bound to be a long and difficult task. Before real growth becomes possible, our personality must die.  
+> ― G.I. Gurdjieff
+
+> You have to die few times before you actually live  
+> ― Charles Bukowsky  
+
+> If the first mountain is about building up the ego and defining the self, the second is about shedding the ego and dissolving the self. If the first mountain is about acquisition, the second mountain is about contribution.  
+ On the first mountain, personal freedom is celebrated — keeping your options open, absence of restraint. But the perfectly free life is the unattached and unremembered life. Freedom is not an ocean you want to swim in; it is a river you want to cross so that you can plant yourself on the other side.  
+> So the person on the second mountain is making commitments.  
+> -- [The Second Mountain by David Brooks](https://www.nytimes.com/2019/04/06/opinion/sunday/moral-revolution-david-brooks.html)
+
+> If You Are Not a Liberal at 25, You Have No Heart. If You Are Not a Conservative at 35 You Have No Head.  
+> -- [Attributed to Edmund Burke, Victor Hugo, King Oscar II of Sweden, George Bernard Shaw, Benjamin Disraeli, Winston Churchill et ali](https://quoteinvestigator.com/2014/02/24/heart-head/) (Modern paraphrase: If you're not a Neo when you're young you have no heart, if you're not a Cypher when you're old you have no brain)
+
+> A point exists at about the thirty-fifth year when things begin to change, it is the first moment of the shadow side of life, of the going down to death. It is clear that Dante found this point and those who have read Zarathustra will know that Nietzsche also discovered it. When this turning point comes people meet it in several ways: some turn away from it; others plunge into it; and something important happens to yet others from the outside. If we do not see a thing Fate does it to us.  
+> -- The Black Books by Carl Jung, Vol. I, Page 11
 
 [Stages of physical, emotional, mental development](https://en.wikipedia.org/wiki/Child_development) along [The Stages of Life](https://www.institute4learning.com/2012/08/07/the-stages-of-life-according-to-rudolf-steiner/) 
 and [7 year cycles](https://www.giorgiotarditispagnoli.com/post/biosophy-the-9-seven-year-cycles-of-man-s-biography)
 proposed by Rudolf Steiner - father of [Waldorf education](https://en.wikipedia.org/wiki/Waldorf_education) school. 
 
 Yet exist [many more models of stage theories in developmental psychology](https://en.wikipedia.org/wiki/Developmental_stage_theories#Other)
+
+Growth process (evolution, emergence) transitioning stages involves [crisis of faith](https://en.wikipedia.org/wiki/Dark_Night_of_the_Soul#Contemporary_understanding) (re-evaluation, deconstruction of world models).
 
 Ken Wilber's attempt to create [Integral Theory](https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)#Levels_or_stages) is [ignored at mainstream academic, and contested by critics](https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)#Reception_in_mainstream_academia).
 
@@ -1239,7 +1300,7 @@ Ken Wilber's attempt to create [Integral Theory](https://en.wikipedia.org/wiki/I
 | 10 | 63-  | old age |  | Saturn (30) |  | | |
 
 
-### Memento mori
+#### Memento mori
 
 > Death smiles at us all; all we can do is smile back  
 > ― Marcus Aurelius
@@ -1263,24 +1324,6 @@ Until you become it,
 you will not know it completely,  
 whether it be light or darkness.  
 > -- Rumi Mathnawi VI: 754-758
-
-> Essence is the truth in man; personality is the false.  
-> All religions speak about death during this life on earth. Death must come before rebirth. But what must die? False confidence in one’s own knowledge, self-love and egoism. Our egoism must be broken. We must realize that we are very complicated machines, and so this process of breaking is bound to be a long and difficult task. Before real growth becomes possible, our personality must die.  
-> ― G.I. Gurdjieff
-
-> You have to die few times before you actually live  
-> ― Charles Bukowsky  
-
-> If the first mountain is about building up the ego and defining the self, the second is about shedding the ego and dissolving the self. If the first mountain is about acquisition, the second mountain is about contribution.  
- On the first mountain, personal freedom is celebrated — keeping your options open, absence of restraint. But the perfectly free life is the unattached and unremembered life. Freedom is not an ocean you want to swim in; it is a river you want to cross so that you can plant yourself on the other side.  
-> So the person on the second mountain is making commitments.  
-> [The Second Mountain by David Brooks](https://www.nytimes.com/2019/04/06/opinion/sunday/moral-revolution-david-brooks.html)
-
-> If You Are Not a Liberal at 25, You Have No Heart. If You Are Not a Conservative at 35 You Have No Head.  
-> -- [Attributed to Edmund Burke, Victor Hugo, King Oscar II of Sweden, George Bernard Shaw, Benjamin Disraeli, Winston Churchill et ali](https://quoteinvestigator.com/2014/02/24/heart-head/) (Modern paraphrase: If you're not a Neo when you're young you have no heart, if you're not a Cypher when you're old you have no brain)
-
-> A point exists at about the thirty-fifth year when things begin to change, it is the first moment of the shadow side of life, of the going down to death. It is clear that Dante found this point and those who have read Zarathustra will know that Nietzsche also discovered it. When this turning point comes people meet it in several ways: some turn away from it; others plunge into it; and something important happens to yet others from the outside. If we do not see a thing Fate does it to us.  
-> -- The Black Books by Carl Jung, Vol. I, Page 11
 
 > Try to leave this world a little better than you found it and, when your turn comes to die, you can die happy in feeling that at any rate you have not wasted your time but have done your best  
 > — Robert Baden-Powell
