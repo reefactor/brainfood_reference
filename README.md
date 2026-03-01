@@ -1232,6 +1232,11 @@ And, weak men create hard times
 > Дьявол начинается с пены на губах ангела, вступившего в бой за святое правое дело. Все превращается в прах — и люди, и системы. Но вечен дух ненависти в борьбе за правое дело. И благодаря ему, зло на Земле не имеет конца    
 -- Григорий Померанц
 
+> You have to make the good out of the bad because that is all you have got to make it out of.  
+― Robert Penn Warren, All the King's Men 
+
+> We must bring our own light to the darkness. Nobody is going to do it for us.  
+― Charles Bukowski, Septuagenarian Stew: Stories & Poems
 
 The drive for [Self-actualization](https://en.wikipedia.org/wiki/Self-actualization) depends on [basic bodily and ego needs - physiological, safety, belonging and social esteem](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) needs been fulfilled
 same as human forebrain cortex depends on midbrain infrastructure, 
